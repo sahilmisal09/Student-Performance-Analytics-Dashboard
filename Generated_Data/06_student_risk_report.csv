@@ -1,0 +1,2001 @@
+student_id,avg_percentage,best_score,worst_score,first_score,latest_score,tests_attempted,performance_band,improvement,name,ability_level,attendance_category,risk_level,intervention_required
+RN0197,12.58,42.22,0.0,0.0,5.26,47,At Risk,5.26,Suman Sinha,At Risk,Poor,High Risk,Yes
+RN0742,14.19,39.02,0.0,5.66,15.79,49,At Risk,10.13,Monika Mehta,At Risk,Poor,High Risk,Yes
+RN1543,14.85,37.25,0.0,16.98,13.16,49,At Risk,-3.82,Kriti Chawla,At Risk,Poor,High Risk,Yes
+RN0407,15.01,30.95,0.0,15.09,7.89,47,At Risk,-7.2,Inder Gowda,At Risk,Average,High Risk,Yes
+RN1233,15.39,36.36,0.0,15.09,18.42,48,At Risk,3.33,Varun Nair,At Risk,Average,High Risk,Yes
+RN0447,15.67,49.15,0.0,28.3,0.0,46,At Risk,-28.3,Poonam Grover,At Risk,Poor,High Risk,Yes
+RN1612,16.19,52.38,0.0,24.53,39.47,48,At Risk,14.95,Chitra Chatterjee,At Risk,Poor,High Risk,Yes
+RN0697,17.47,45.24,0.0,39.62,15.79,46,At Risk,-23.83,Aditi Bhat,At Risk,Poor,High Risk,Yes
+RN0988,17.58,49.02,0.0,15.09,7.89,47,At Risk,-7.2,Pari Naik,At Risk,Average,High Risk,Yes
+RN1139,17.77,34.09,0.0,22.64,23.68,48,At Risk,1.04,Ananya Singh,At Risk,Average,High Risk,Yes
+RN1545,17.79,39.22,0.0,15.09,21.05,50,At Risk,5.96,Nandini Hegde,At Risk,Average,High Risk,Yes
+RN0860,17.8,37.5,0.0,18.87,10.53,49,At Risk,-8.34,Yamini Nayak,At Risk,Average,High Risk,Yes
+RN0762,17.83,41.86,0.0,13.21,26.32,49,At Risk,13.11,Tejas Singh,At Risk,Average,High Risk,Yes
+RN0519,18.22,53.19,2.63,11.32,15.79,46,At Risk,4.47,Riya Gupta,At Risk,Average,High Risk,Yes
+RN1076,18.85,42.86,0.0,15.09,28.3,47,At Risk,13.21,Yashaswini Anand,At Risk,Average,High Risk,Yes
+RN1453,19.54,41.86,2.08,3.77,15.79,46,At Risk,12.02,Yash Joshi,At Risk,Average,High Risk,Yes
+RN0527,19.58,48.89,0.0,3.77,13.16,47,At Risk,9.38,Kapil Jain,At Risk,Average,High Risk,Yes
+RN1172,19.73,40.43,5.13,20.75,7.89,50,At Risk,-12.86,Uma Sinha,At Risk,Average,High Risk,Yes
+RN0833,19.86,55.81,0.0,41.51,36.84,48,At Risk,-4.67,Deepika Kulkarni,At Risk,Average,High Risk,Yes
+RN0633,20.5,47.37,1.85,30.19,23.68,48,At Risk,-6.5,Ojaswini Patel,At Risk,Average,High Risk,Yes
+RN0057,20.74,64.15,1.59,20.75,34.21,47,At Risk,13.46,Lakshmi Joshi,At Risk,Average,High Risk,Yes
+RN0134,20.83,51.11,0.0,24.53,13.16,50,At Risk,-11.37,Lakshmi Anand,At Risk,Average,High Risk,Yes
+RN0654,21.03,51.28,3.92,24.53,15.79,48,At Risk,-8.74,Monika Pillai,At Risk,Good,High Risk,Yes
+RN0404,22.1,51.16,0.0,18.87,26.32,48,At Risk,7.45,Ipshita Tiwari,At Risk,Average,High Risk,Yes
+RN0093,22.22,51.28,2.22,16.98,21.05,50,At Risk,4.07,Ritu Acharya,At Risk,Good,High Risk,Yes
+RN1935,22.26,48.08,5.0,41.51,7.89,47,At Risk,-33.61,Meera Ray,At Risk,Average,High Risk,Yes
+RN0627,22.36,47.37,4.44,28.3,10.53,50,At Risk,-17.78,Abha Prabhu,At Risk,Good,High Risk,Yes
+RN0455,22.75,46.67,2.38,41.51,26.32,49,At Risk,-15.19,Tushar Sen,At Risk,Good,High Risk,Yes
+RN0941,22.8,40.43,0.0,20.75,21.05,50,At Risk,0.3,Dev Mukherjee,At Risk,Good,High Risk,Yes
+RN0370,22.83,61.9,0.0,24.53,18.42,48,At Risk,-6.11,Kiran Hegde,At Risk,Good,High Risk,Yes
+RN1832,22.83,51.16,8.16,31.91,18.42,47,At Risk,-13.49,Sachin Sinha,At Risk,Good,High Risk,Yes
+RN1259,23.13,52.17,1.82,32.08,31.58,48,At Risk,-0.5,Aanya Tiwari,At Risk,Average,High Risk,Yes
+RN1980,23.23,47.37,0.0,9.43,18.42,46,At Risk,8.99,Chetan Pillai,At Risk,Good,High Risk,Yes
+RN1599,23.4,45.24,0.0,32.08,13.21,47,At Risk,-18.87,Deepa Mehra,At Risk,Good,High Risk,Yes
+RN1546,23.42,60.47,3.92,41.51,18.42,48,At Risk,-23.09,Malini Bhat,At Risk,Good,High Risk,Yes
+RN0024,23.76,68.63,0.0,41.51,26.32,46,At Risk,-15.19,Ishita Gowda,Weak,Poor,High Risk,Yes
+RN1257,23.83,48.84,0.0,18.87,13.16,49,At Risk,-5.71,Vaishnavi Shenoy,At Risk,Good,High Risk,Yes
+RN1767,23.9,48.72,5.13,9.43,39.47,47,At Risk,30.04,Khushi Rao,At Risk,Good,High Risk,Yes
+RN0412,24.18,56.52,1.64,43.4,1.64,48,At Risk,-41.76,Lakshmi Reddy,At Risk,Good,High Risk,Yes
+RN0025,24.25,61.36,2.04,39.62,52.63,47,At Risk,13.01,Swati Roy,At Risk,Good,High Risk,Yes
+RN1836,24.38,53.49,5.77,26.42,13.16,48,At Risk,-13.26,Ishita Das,At Risk,Good,High Risk,Yes
+RN0343,24.64,59.09,1.92,16.98,26.32,49,At Risk,9.33,Chitra Murthy,At Risk,Good,High Risk,Yes
+RN0442,24.67,55.77,0.0,7.55,36.84,50,At Risk,29.29,Dev Prasad,At Risk,Good,High Risk,Yes
+RN0203,24.7,56.86,5.36,12.77,18.42,47,At Risk,5.66,Aditya Joshi,Weak,Average,High Risk,Yes
+RN0422,24.77,59.26,1.85,18.87,10.53,48,At Risk,-8.34,Radhika Rao,At Risk,Good,High Risk,Yes
+RN1338,24.8,48.72,3.92,24.53,28.95,47,At Risk,4.42,Mansi Singh,Weak,Poor,High Risk,Yes
+RN1445,25.02,51.06,6.82,28.3,10.53,47,At Risk,-17.78,Mehak Alva,At Risk,Excellent,High Risk,Yes
+RN1967,25.05,49.12,8.51,32.08,31.58,48,At Risk,-0.5,UrVashi Anand,At Risk,Good,High Risk,Yes
+RN0353,25.07,50.94,3.39,50.94,24.53,48,At Risk,-26.42,Abha Pradhan,Weak,Poor,High Risk,Yes
+RN0344,25.11,60.47,5.13,20.75,21.05,45,At Risk,0.3,Vineet Joshi,At Risk,Good,High Risk,Yes
+RN1337,25.13,44.19,6.67,13.21,31.58,46,At Risk,18.37,Tarun Acharya,Weak,Poor,High Risk,Yes
+RN1474,25.16,52.54,1.92,39.62,47.37,49,At Risk,7.75,Deepika Menon,Weak,Poor,High Risk,Yes
+RN1154,25.22,50.0,7.27,35.85,31.58,49,At Risk,-4.27,Bharat Tiwari,At Risk,Good,High Risk,Yes
+RN1957,25.23,60.47,5.0,18.87,15.79,50,At Risk,-3.08,Chandan Hegde,Weak,Poor,High Risk,Yes
+RN1973,25.25,53.85,4.44,20.75,13.16,49,At Risk,-7.6,Alka Iyer,Weak,Poor,High Risk,Yes
+RN1280,25.28,58.97,3.77,24.53,28.95,49,At Risk,4.42,Tushar Tiwari,At Risk,Excellent,High Risk,Yes
+RN0606,25.43,52.73,4.26,22.64,36.84,48,At Risk,14.2,Anjali Acharya,At Risk,Excellent,High Risk,Yes
+RN1318,25.57,54.55,4.26,13.21,28.95,48,At Risk,15.74,Shreya Chatterjee,Weak,Poor,High Risk,Yes
+RN1840,25.59,58.93,3.39,32.08,15.79,47,At Risk,-16.29,Gagan Gill,At Risk,Good,High Risk,Yes
+RN0868,25.6,65.79,5.56,22.64,31.58,50,At Risk,8.94,Amit Das,Weak,Poor,High Risk,Yes
+RN0321,25.65,65.12,9.3,39.62,21.05,45,At Risk,-18.57,Amita Hegde,At Risk,Excellent,High Risk,Yes
+RN0924,25.8,48.89,4.65,30.19,18.42,45,At Risk,-11.77,Mehak Mishra,At Risk,Excellent,High Risk,Yes
+RN0167,25.95,57.14,6.12,37.74,21.05,49,At Risk,-16.68,Swati Kapoor,At Risk,Good,High Risk,Yes
+RN0308,25.96,60.0,5.13,9.43,44.74,50,At Risk,35.3,Utkarsh Grover,At Risk,Excellent,High Risk,Yes
+RN0130,25.98,51.11,2.13,16.98,15.79,47,At Risk,-1.19,Ipshita Singh,At Risk,Good,High Risk,Yes
+RN0241,25.99,56.86,3.51,24.53,23.68,47,At Risk,-0.84,Deepak Ray,Weak,Average,High Risk,Yes
+RN0810,26.11,63.64,5.13,39.62,18.42,48,At Risk,-21.2,Aniruddh Grover,At Risk,Excellent,High Risk,Yes
+RN1834,26.12,49.06,0.0,49.06,13.16,46,At Risk,-35.9,Tarun Hegde,At Risk,Good,High Risk,Yes
+RN0051,26.15,43.59,9.09,37.74,21.05,49,At Risk,-16.68,Chetan Kulkarni,At Risk,Excellent,High Risk,Yes
+RN0171,26.3,54.55,2.27,28.3,18.42,49,At Risk,-9.88,Varun Prabhu,Weak,Poor,High Risk,Yes
+RN0362,26.34,56.41,0.0,0.0,52.63,48,At Risk,52.63,Priya Iyer,Weak,Poor,High Risk,Yes
+RN1041,26.48,67.44,2.13,7.55,44.74,50,At Risk,37.19,Inder Tiwari,Weak,Poor,High Risk,Yes
+RN1489,26.49,64.44,5.45,24.53,18.42,45,At Risk,-6.11,Juhi Kamath,At Risk,Good,High Risk,Yes
+RN0991,26.6,60.42,2.13,49.06,31.58,49,At Risk,-17.48,Payal Gill,Weak,Poor,High Risk,Yes
+RN0852,26.64,55.56,0.0,24.53,13.16,45,At Risk,-11.37,Utkarsh Kumar,At Risk,Good,High Risk,Yes
+RN0551,26.67,61.54,0.0,36.17,31.58,49,At Risk,-4.59,Mansi Sen,Weak,Poor,High Risk,Yes
+RN0433,26.78,54.55,7.89,15.09,7.89,48,At Risk,-7.2,Deepa Murthy,Weak,Poor,High Risk,Yes
+RN1857,26.93,57.14,2.13,16.98,39.47,47,At Risk,22.49,Nisha Gill,Weak,Poor,High Risk,Yes
+RN0286,26.94,55.26,5.77,24.53,55.26,50,At Risk,30.73,Isha Pai,Weak,Average,High Risk,Yes
+RN0804,27.0,54.76,1.96,20.75,26.32,47,At Risk,5.56,Aditya Mukherjee,Weak,Average,High Risk,Yes
+RN0996,27.06,50.0,9.26,30.19,28.95,47,At Risk,-1.24,Brijesh Bose,Weak,Poor,High Risk,Yes
+RN1916,27.11,45.65,8.77,41.51,39.47,48,At Risk,-2.04,Bharat Kulkarni,At Risk,Excellent,High Risk,Yes
+RN0732,27.14,65.85,4.76,37.74,7.89,47,At Risk,-29.84,Deepika Prabhu,At Risk,Excellent,High Risk,Yes
+RN0927,27.16,68.25,5.56,28.3,23.68,50,At Risk,-4.62,Uma Acharya,At Risk,Good,High Risk,Yes
+RN0177,27.26,54.76,8.2,45.28,10.53,48,At Risk,-34.76,Kajal Mehta,Weak,Poor,High Risk,Yes
+RN0849,27.29,62.71,11.54,26.42,39.47,48,At Risk,13.06,Vikram Dutta,Weak,Poor,High Risk,Yes
+RN0128,27.34,58.18,2.56,15.09,42.11,47,At Risk,27.01,Kunwar Iyer,Weak,Poor,High Risk,Yes
+RN1454,27.35,55.56,2.13,30.19,26.32,47,At Risk,-3.87,Chetan Rao,Weak,Average,High Risk,Yes
+RN0891,27.36,58.14,6.38,6.38,34.21,49,At Risk,27.83,Neha Bhat,Weak,Poor,High Risk,Yes
+RN0213,27.38,62.22,5.45,13.21,23.68,48,At Risk,10.48,Tanya Banerjee,Weak,Poor,High Risk,Yes
+RN0484,27.38,54.72,5.0,43.4,15.79,45,At Risk,-27.61,Satish Sodhi,Weak,Poor,High Risk,Yes
+RN1628,27.43,48.72,3.7,30.19,26.32,46,At Risk,-3.87,Manoj Naik,At Risk,Good,High Risk,Yes
+RN1032,27.44,63.16,7.69,43.4,63.16,47,At Risk,19.76,Poonam Menon,Weak,Average,High Risk,Yes
+RN0940,27.45,57.14,8.47,13.21,18.42,49,At Risk,5.21,Suman Rao,Weak,Average,High Risk,Yes
+RN0287,27.47,59.09,3.92,24.53,50.0,46,At Risk,25.47,Karan Menon,At Risk,Good,High Risk,Yes
+RN0553,27.5,65.91,4.35,33.96,18.42,50,At Risk,-15.54,Aditya Bose,At Risk,Excellent,High Risk,Yes
+RN0739,27.54,72.55,6.52,28.3,34.21,46,At Risk,5.91,Manoj Gowda,At Risk,Good,High Risk,Yes
+RN1872,27.56,50.98,7.55,28.3,39.47,48,At Risk,11.17,Vikram Naik,At Risk,Excellent,High Risk,Yes
+RN1576,27.57,50.94,2.13,50.94,34.21,49,At Risk,-16.73,Umesh Ray,At Risk,Good,High Risk,Yes
+RN1200,27.6,68.09,5.26,45.28,34.21,46,At Risk,-11.07,Neha Murthy,Weak,Poor,High Risk,Yes
+RN1749,27.77,51.11,7.27,11.32,22.64,48,At Risk,11.32,Alok Naik,At Risk,Excellent,High Risk,Yes
+RN1456,28.04,53.57,5.26,41.51,36.84,49,At Risk,-4.67,Kriti Pandey,At Risk,Excellent,High Risk,Yes
+RN0180,28.06,63.83,6.38,16.98,44.74,49,At Risk,27.76,Dinesh Pillai,Weak,Poor,High Risk,Yes
+RN1814,28.09,61.9,11.32,11.32,52.63,47,At Risk,41.31,Ojaswini Pillai,Weak,Average,High Risk,Yes
+RN0942,28.11,55.74,2.13,39.62,34.21,49,At Risk,-5.41,Piyush Sodhi,Weak,Poor,High Risk,Yes
+RN0847,28.13,55.77,5.26,33.96,18.42,49,At Risk,-15.54,Vandana Naik,Weak,Average,High Risk,Yes
+RN0248,28.23,70.18,5.45,16.98,34.21,50,At Risk,17.23,Swati Singh,Weak,Poor,High Risk,Yes
+RN0176,28.3,60.0,5.0,28.3,26.32,49,At Risk,-1.99,Pari Hegde,At Risk,Good,High Risk,Yes
+RN1838,28.34,54.76,2.13,40.43,15.79,46,At Risk,-24.64,Tushar Kapoor,Weak,Average,High Risk,Yes
+RN0973,28.37,51.79,4.44,18.87,36.84,47,At Risk,17.97,Vivaan Sen,Weak,Average,High Risk,Yes
+RN1560,28.6,69.23,2.13,13.21,26.32,50,At Risk,13.11,Kamal Chatterjee,Weak,Average,High Risk,Yes
+RN1658,28.71,57.89,10.71,33.96,23.68,48,At Risk,-10.28,Lakshmi Bhat,Weak,Average,High Risk,Yes
+RN1964,28.74,55.74,2.56,18.87,15.79,49,At Risk,-3.08,Pallavi Kulkarni,Weak,Poor,High Risk,Yes
+RN0547,28.81,64.1,7.5,28.3,44.74,48,At Risk,16.43,Barkha Shetty,At Risk,Excellent,High Risk,Yes
+RN1414,28.84,61.7,5.13,43.4,23.68,50,At Risk,-19.71,Naveen Rao,Weak,Poor,High Risk,Yes
+RN0164,28.85,51.16,4.92,22.64,18.42,48,At Risk,-4.22,Priya Anand,At Risk,Excellent,High Risk,Yes
+RN0969,28.9,58.93,4.44,15.09,23.68,47,At Risk,8.59,Deepa Pillai,At Risk,Excellent,High Risk,Yes
+RN1116,28.95,56.82,8.7,22.64,21.05,49,At Risk,-1.59,Yash Gowda,At Risk,Excellent,High Risk,Yes
+RN0539,28.98,58.97,5.0,28.3,50.0,50,At Risk,21.7,Vaishnavi Malhotra,At Risk,Excellent,High Risk,Yes
+RN1366,29.07,52.73,6.38,26.42,31.58,47,At Risk,5.16,Kavya Dhillon,At Risk,Excellent,High Risk,Yes
+RN1017,29.29,53.33,4.76,39.62,52.63,50,At Risk,13.01,Deepika Murthy,Weak,Average,High Risk,Yes
+RN0812,29.32,56.82,7.41,35.85,13.16,50,At Risk,-22.69,Ishita Sodhi,At Risk,Excellent,High Risk,Yes
+RN1583,29.32,62.75,6.67,22.64,28.95,50,At Risk,6.31,Gayatri Grover,At Risk,Excellent,High Risk,Yes
+RN1644,29.35,56.41,5.66,11.11,39.47,45,At Risk,28.36,Jatin Dutta,Weak,Average,High Risk,Yes
+RN1449,29.36,55.1,4.26,50.94,21.05,50,At Risk,-29.89,Ayush Chawla,Weak,Average,High Risk,Yes
+RN0470,29.38,64.44,8.51,20.75,34.21,48,At Risk,13.46,Uma Sodhi,Weak,Average,High Risk,Yes
+RN1308,29.4,71.11,1.59,28.3,39.47,49,At Risk,11.17,Arjun Das,At Risk,Excellent,High Risk,Yes
+RN0636,29.5,64.44,4.08,41.51,21.05,49,At Risk,-20.46,Sandeep Sharma,At Risk,Excellent,High Risk,Yes
+RN0728,29.52,63.83,0.0,26.42,31.58,48,At Risk,5.16,Raman Choudhury,Weak,Average,High Risk,Yes
+RN1207,29.56,55.32,7.89,32.08,7.89,49,At Risk,-24.18,Himanshu Shetty,Weak,Average,High Risk,Yes
+RN0822,29.59,53.85,8.2,30.19,28.95,48,At Risk,-1.24,Bharat Joshi,At Risk,Excellent,High Risk,Yes
+RN0136,29.63,62.5,5.13,20.75,23.68,46,At Risk,2.93,Abha Malhotra,At Risk,Excellent,High Risk,Yes
+RN1921,29.72,55.77,10.26,28.3,10.53,49,At Risk,-17.78,Nandini Chawla,At Risk,Excellent,High Risk,Yes
+RN0699,29.83,60.71,4.26,23.4,44.74,46,At Risk,21.33,Tanvi Pradhan,Weak,Average,High Risk,Yes
+RN0265,29.86,62.96,1.82,15.09,39.47,47,At Risk,24.38,Manoj Dhillon,Weak,Average,High Risk,Yes
+RN0402,29.87,50.0,5.88,18.87,47.37,49,At Risk,28.5,Jaideep Rao,Weak,Average,High Risk,Yes
+RN1882,29.88,55.81,5.13,13.21,26.32,46,At Risk,13.11,Akash Roy,At Risk,Excellent,High Risk,Yes
+RN1698,29.95,57.45,8.51,24.53,13.16,48,At Risk,-11.37,Rajesh Gowda,At Risk,Excellent,High Risk,Yes
+RN0166,30.01,59.62,10.64,33.96,34.21,46,At Risk,0.25,Aniruddh Jain,At Risk,Excellent,High Risk,Yes
+RN0772,30.01,53.7,6.78,39.62,36.84,48,At Risk,-2.78,Raman Pillai,Weak,Average,High Risk,Yes
+RN0859,30.11,67.27,7.5,33.96,31.58,48,At Risk,-2.38,Suresh Choudhury,At Risk,Excellent,High Risk,Yes
+RN1363,30.28,61.82,3.39,58.49,42.11,47,At Risk,-16.39,Neha Mishra,Weak,Average,High Risk,Yes
+RN0972,30.31,62.75,8.33,26.42,18.42,49,At Risk,-7.99,Zara Shetty,At Risk,Excellent,High Risk,Yes
+RN1513,30.32,62.22,0.0,33.96,20.75,45,At Risk,-13.21,Sakshi Sen,Weak,Average,High Risk,Yes
+RN1511,30.33,56.41,3.7,50.94,18.42,50,At Risk,-32.52,Nandini Kumar,At Risk,Excellent,High Risk,Yes
+RN1101,30.52,51.92,7.41,39.62,34.21,49,At Risk,-5.41,Tejaswini Choudhury,Weak,Good,High Risk,Yes
+RN1025,30.55,60.0,6.38,28.3,36.84,50,At Risk,8.54,Nidhi Nair,Weak,Average,High Risk,Yes
+RN1191,30.61,58.14,6.52,32.08,47.37,49,At Risk,15.29,Jatin Mishra,Weak,Good,High Risk,Yes
+RN0226,30.63,58.97,3.17,47.17,31.58,49,At Risk,-15.59,Om Shenoy,Weak,Average,High Risk,Yes
+RN1822,30.64,78.57,6.25,37.74,18.42,48,At Risk,-19.31,Vijay Joshi,Weak,Average,High Risk,Yes
+RN0481,30.7,57.69,6.98,33.96,18.42,47,At Risk,-15.54,Kriti Singh,Weak,Average,High Risk,Yes
+RN1679,30.7,62.22,4.76,30.19,18.42,48,At Risk,-11.77,Uma Nayak,Weak,Average,High Risk,Yes
+RN0115,30.72,57.78,4.26,33.96,5.26,46,At Risk,-28.7,Meera Pillai,Weak,Good,High Risk,Yes
+RN0552,30.75,61.36,5.13,49.06,34.21,47,At Risk,-14.85,Deepika Mukherjee,Weak,Good,High Risk,Yes
+RN1405,30.76,64.1,5.13,22.64,23.68,48,At Risk,1.04,Harish Sharma,Weak,Average,High Risk,Yes
+RN0644,30.85,56.82,6.67,35.85,34.21,49,At Risk,-1.64,Ishita Malhotra,At Risk,Excellent,High Risk,Yes
+RN1082,30.93,65.96,6.98,35.85,28.95,45,At Risk,-6.9,Manav Shetty,Weak,Average,High Risk,Yes
+RN1053,30.94,64.15,2.5,35.85,39.47,49,At Risk,3.62,Brijesh Choudhury,At Risk,Excellent,High Risk,Yes
+RN0811,31.1,73.81,5.88,28.3,36.84,47,At Risk,8.54,Saanvi Malhotra,At Risk,Excellent,High Risk,Yes
+RN1813,31.23,64.44,6.38,47.17,13.16,49,At Risk,-34.01,Monika Kulkarni,Weak,Average,High Risk,Yes
+RN0687,31.26,57.14,2.17,24.53,44.74,49,At Risk,20.21,UrVashi Rai,At Risk,Excellent,High Risk,Yes
+RN1249,31.35,51.16,12.82,45.28,18.42,47,At Risk,-26.86,Nidhi Shenoy,Weak,Average,High Risk,Yes
+RN1827,31.37,55.56,15.09,15.09,50.0,47,At Risk,34.91,Kriti Naik,Weak,Good,High Risk,Yes
+RN1073,31.42,60.71,10.26,47.17,28.95,48,At Risk,-18.22,Kiran Kapoor,Weak,Average,High Risk,Yes
+RN1898,31.45,64.58,5.13,32.08,47.37,50,At Risk,15.29,Ipshita Jain,Weak,Good,High Risk,Yes
+RN0528,31.47,76.36,7.84,22.64,23.68,47,At Risk,1.04,Vandana Verma,At Risk,Excellent,High Risk,Yes
+RN0334,31.58,60.38,4.44,60.38,42.11,49,At Risk,-18.27,Mehak Menon,At Risk,Excellent,High Risk,Yes
+RN0261,31.59,52.27,6.38,36.17,13.16,45,At Risk,-23.01,Poonam Malhotra,Weak,Average,High Risk,Yes
+RN0152,31.72,68.75,6.98,16.98,31.58,48,At Risk,14.6,Harish Mehta,At Risk,Excellent,High Risk,Yes
+RN0012,31.77,66.67,5.56,13.21,44.74,49,At Risk,31.53,Suresh Pai,Weak,Average,High Risk,Yes
+RN1162,31.79,52.63,11.11,39.62,52.63,47,At Risk,13.01,Kriti Das,Weak,Good,High Risk,Yes
+RN1800,31.88,73.81,4.35,26.42,23.68,47,At Risk,-2.73,Nitish Tiwari,Weak,Good,High Risk,Yes
+RN0726,32.01,57.38,10.71,39.62,39.47,50,At Risk,-0.15,Manoj Acharya,At Risk,Excellent,High Risk,Yes
+RN1194,32.03,60.78,6.78,30.19,26.32,48,At Risk,-3.87,Yamini Banerjee,At Risk,Excellent,High Risk,Yes
+RN0192,32.08,64.29,3.77,49.06,39.47,50,At Risk,-9.58,Kriti Grover,Weak,Average,High Risk,Yes
+RN1537,32.22,68.42,5.26,32.08,5.26,48,At Risk,-26.81,Rashmi Ray,Weak,Average,High Risk,Yes
+RN0492,32.25,63.64,5.13,37.74,21.05,48,At Risk,-16.68,Pallavi Roy,Weak,Good,High Risk,Yes
+RN1321,32.29,61.7,10.91,50.94,34.21,49,At Risk,-16.73,Meera Prabhu,Weak,Average,High Risk,Yes
+RN0280,32.37,63.64,4.26,19.15,44.74,46,At Risk,25.59,Nitin Dhillon,Weak,Average,High Risk,Yes
+RN0817,32.37,70.91,7.69,35.85,47.37,49,At Risk,11.52,Jatin Tiwari,Weak,Average,High Risk,Yes
+RN1828,32.41,62.22,11.63,32.08,36.84,46,At Risk,4.77,Garima Sen,Weak,Average,High Risk,Yes
+RN0188,32.45,61.7,5.77,15.09,26.32,49,At Risk,11.22,Nidhi Iyer,Weak,Good,High Risk,Yes
+RN0509,32.47,61.02,5.88,60.38,37.74,48,At Risk,-22.64,Nitish Shenoy,Weak,Good,High Risk,Yes
+RN1065,32.47,59.26,8.51,49.06,44.74,48,At Risk,-4.32,Suhas Sodhi,Weak,Good,High Risk,Yes
+RN1663,32.47,62.5,7.41,35.85,18.42,50,At Risk,-17.43,Charu Dutta,Weak,Average,High Risk,Yes
+RN0355,32.49,74.36,12.96,30.19,31.58,48,At Risk,1.39,Monika Hegde,Weak,Average,High Risk,Yes
+RN0593,32.62,79.55,7.69,43.4,39.47,49,At Risk,-3.92,Pari Mehra,Weak,Good,High Risk,Yes
+RN0242,32.71,56.25,10.53,37.74,10.53,49,At Risk,-27.21,Umesh Pandey,Weak,Good,High Risk,Yes
+RN1904,32.79,54.72,6.82,41.51,39.47,47,At Risk,-2.04,Himanshu Jain,Weak,Good,High Risk,Yes
+RN1615,32.89,53.33,10.0,50.94,39.47,50,At Risk,-11.47,Payal Gowda,Weak,Good,High Risk,Yes
+RN0290,33.05,79.49,10.64,28.3,18.42,45,At Risk,-9.88,Neha Jain,Weak,Good,High Risk,Yes
+RN1526,33.33,59.09,7.69,36.17,42.11,48,At Risk,5.94,Chetan Prasad,Weak,Good,High Risk,Yes
+RN1811,33.52,64.91,2.13,43.4,13.16,45,At Risk,-30.24,Gagan Menon,Weak,Good,High Risk,Yes
+RN0029,33.56,62.26,12.5,62.26,28.95,47,At Risk,-33.32,Arunima Prabhu,Weak,Average,High Risk,Yes
+RN0892,33.62,57.14,7.27,49.06,55.26,47,At Risk,6.21,Ritu Sen,Weak,Good,High Risk,Yes
+RN0200,33.66,61.54,8.7,33.96,47.37,49,At Risk,13.41,Naveen Patel,Weak,Good,High Risk,Yes
+RN0516,33.66,60.47,8.51,18.87,34.21,50,At Risk,15.34,Pradeep Kamath,Weak,Average,High Risk,Yes
+RN0073,33.85,61.54,7.69,50.94,16.98,48,At Risk,-33.96,Anita Shetty,Weak,Good,High Risk,Yes
+RN1433,33.99,68.18,8.51,20.75,44.74,47,At Risk,23.98,Pallavi Verma,Weak,Average,High Risk,Yes
+RN0936,34.03,70.91,11.86,22.64,26.32,50,At Risk,3.67,Komal Chatterjee,Weak,Good,High Risk,Yes
+RN0401,34.12,57.45,9.8,18.87,23.68,48,At Risk,4.82,Bhumika Nayak,Weak,Good,High Risk,Yes
+RN1788,34.17,62.75,12.82,28.3,31.58,49,At Risk,3.28,Nisha Kapoor,Weak,Good,High Risk,Yes
+RN1165,34.19,59.18,4.76,49.06,31.58,49,At Risk,-17.48,Payal Patel,Weak,Good,High Risk,Yes
+RN1412,34.19,66.04,8.51,41.51,47.37,50,At Risk,5.86,Nisha Bhat,Weak,Good,High Risk,Yes
+RN0741,34.2,60.0,2.13,32.08,42.11,49,At Risk,10.03,Zara Grover,Weak,Good,High Risk,Yes
+RN0356,34.25,62.96,10.0,49.06,39.47,49,At Risk,-9.58,Alka Reddy,Weak,Good,High Risk,Yes
+RN1695,34.26,67.92,4.65,67.92,34.21,49,At Risk,-33.71,Manoj Gill,Weak,Good,High Risk,Yes
+RN0617,34.36,72.09,13.16,33.96,42.11,49,At Risk,8.14,Rajesh Mukherjee,Weak,Good,High Risk,Yes
+RN0260,34.39,63.27,7.84,33.96,34.21,47,At Risk,0.25,Yashaswini Kamath,Weak,Good,High Risk,Yes
+RN0613,34.39,64.58,12.77,33.96,23.68,48,At Risk,-10.28,Tanvi Nayak,Weak,Good,High Risk,Yes
+RN1771,34.53,57.89,4.08,37.74,57.89,46,At Risk,20.16,Drishti Pradhan,Weak,Good,High Risk,Yes
+RN0078,34.55,60.78,6.38,41.51,28.95,50,At Risk,-12.56,Nisha Bose,Weak,Average,High Risk,Yes
+RN1864,34.66,56.14,9.8,33.96,47.37,48,At Risk,13.41,Swati Verma,Weak,Good,High Risk,Yes
+RN1666,34.73,68.18,9.84,22.64,55.26,46,At Risk,32.62,Piyush Banerjee,Weak,Good,High Risk,Yes
+RN0222,34.81,58.73,14.89,32.08,39.62,47,At Risk,7.55,Anjali Gowda,Weak,Average,High Risk,Yes
+RN0275,34.84,69.64,12.82,41.51,21.05,47,At Risk,-20.46,Riya Deshmukh,Weak,Good,High Risk,Yes
+RN0514,34.94,71.43,11.11,67.92,28.95,46,At Risk,-38.98,Akash Menon,Weak,Good,High Risk,Yes
+RN1251,39.22,68.09,9.26,37.74,55.26,47,Needs Support,17.53,Yashaswini Mukherjee,Average,Poor,High Risk,Yes
+RN0489,39.68,70.73,11.11,64.15,44.74,48,Needs Support,-19.41,Uma Rao,Average,Poor,High Risk,Yes
+RN1393,40.37,78.69,12.82,50.94,63.16,50,Needs Support,12.21,Aniruddh Chawla,Average,Poor,High Risk,Yes
+RN0042,41.31,64.29,15.0,58.49,42.11,48,Needs Support,-16.39,Vandana Sen,Average,Poor,High Risk,Yes
+RN1107,41.61,68.18,13.73,41.51,47.37,49,Needs Support,5.86,Vidya Dutta,Average,Poor,High Risk,Yes
+RN0841,41.8,68.89,13.33,32.08,35.85,47,Needs Support,3.77,Tanvi Mallya,Average,Poor,High Risk,Yes
+RN0472,41.96,72.22,11.11,37.74,55.26,46,Needs Support,17.53,Sumit Murthy,Average,Poor,High Risk,Yes
+RN1907,42.04,66.07,12.82,32.08,57.89,48,Needs Support,25.82,Saanvi Rai,Average,Poor,High Risk,Yes
+RN0734,42.35,74.07,12.5,37.74,31.58,50,Needs Support,-6.16,Vidya Chatterjee,Average,Poor,High Risk,Yes
+RN1035,42.52,68.18,18.64,39.62,39.47,49,Needs Support,-0.15,Bhavna Banerjee,Average,Poor,High Risk,Yes
+RN1011,42.71,68.42,17.65,50.94,42.11,47,Needs Support,-8.84,Lakshmi Dutta,Average,Poor,High Risk,Yes
+RN0387,42.84,73.47,19.15,39.62,67.92,42,Needs Support,28.3,Khushi Kulkarni,Average,Poor,High Risk,Yes
+RN1427,42.99,75.0,19.61,37.74,36.84,48,Needs Support,-0.89,Monika Sharma,Average,Poor,High Risk,Yes
+RN1236,43.2,68.18,15.09,32.08,31.58,46,Needs Support,-0.5,Brijesh Joshi,Average,Poor,High Risk,Yes
+RN1854,43.2,80.0,10.91,50.94,39.47,50,Needs Support,-11.47,Abhishek Pradhan,Average,Poor,High Risk,Yes
+RN1910,43.31,78.05,7.69,30.19,42.11,49,Needs Support,11.92,Amita Sharma,Average,Poor,High Risk,Yes
+RN0417,43.56,76.74,15.0,49.06,42.11,46,Needs Support,-6.95,Inder Dhillon,Average,Poor,High Risk,Yes
+RN0920,43.91,68.25,7.89,39.62,34.21,49,Needs Support,-5.41,Isha Dutta,Average,Poor,High Risk,Yes
+RN1870,43.91,70.59,8.7,45.28,31.58,49,Needs Support,-13.7,Zara Kumar,Average,Poor,High Risk,Yes
+RN1820,44.0,72.09,6.38,52.83,60.53,50,Needs Support,7.7,Manish Hegde,Average,Poor,High Risk,Yes
+RN0956,44.06,68.09,18.52,54.72,52.63,48,Needs Support,-2.09,Aniruddh Choudhury,Average,Poor,High Risk,Yes
+RN1891,44.07,84.44,8.47,52.83,47.37,48,Needs Support,-5.46,Kapil Roy,Average,Poor,High Risk,Yes
+RN0310,44.18,75.0,12.77,41.51,47.37,49,Needs Support,5.86,Rashmi Mehra,Average,Poor,High Risk,Yes
+RN2000,44.19,65.96,23.08,47.17,50.0,49,Needs Support,2.83,Girish Menon,Average,Poor,High Risk,Yes
+RN0211,44.28,75.0,11.32,43.4,44.74,50,Needs Support,1.34,Pallavi Pai,Average,Poor,High Risk,Yes
+RN0405,44.4,73.33,9.26,64.15,39.47,48,Needs Support,-24.68,Vivek Banerjee,Average,Poor,High Risk,Yes
+RN0497,44.54,76.92,14.89,64.15,34.21,48,Needs Support,-29.94,Uma Reddy,Average,Poor,High Risk,Yes
+RN0298,44.62,71.7,17.02,71.7,57.89,50,Needs Support,-13.8,Pari Sodhi,Average,Poor,High Risk,Yes
+RN1737,44.84,73.58,24.56,73.58,50.0,49,Needs Support,-23.58,Gauri Menon,Average,Poor,High Risk,Yes
+RN0747,45.09,86.05,20.51,45.28,31.58,48,Needs Support,-13.7,Suman Deshmukh,Average,Poor,High Risk,Yes
+RN0777,45.19,72.55,15.69,43.4,34.21,50,Needs Support,-9.19,Vandana Joshi,Average,Poor,High Risk,Yes
+RN0655,45.21,85.19,17.95,37.74,47.37,50,Needs Support,9.63,Dilip Murthy,Average,Poor,High Risk,Yes
+RN1649,45.21,74.36,14.29,23.4,26.32,47,Needs Support,2.91,Manish Gupta,Average,Poor,High Risk,Yes
+RN0738,45.31,76.6,20.0,43.4,21.05,48,Needs Support,-22.34,Chandan Sodhi,Average,Poor,High Risk,Yes
+RN1476,45.39,75.0,20.45,60.38,39.47,49,Needs Support,-20.9,Dhruv Pradhan,Average,Poor,High Risk,Yes
+RN1402,45.56,81.4,14.89,56.6,52.63,45,Needs Support,-3.97,Kajal Joshi,Average,Poor,High Risk,Yes
+RN1494,45.57,75.0,16.36,66.04,26.32,49,Needs Support,-39.72,Tarun Sharma,Average,Poor,High Risk,Yes
+RN0592,46.01,70.21,13.56,56.6,57.89,45,Needs Support,1.29,Vandana Pradhan,Average,Poor,High Risk,Yes
+RN1557,46.17,68.85,15.91,62.26,44.74,49,Needs Support,-17.53,Charu Joshi,Average,Poor,High Risk,Yes
+RN0543,46.23,79.49,21.28,62.26,44.74,48,Needs Support,-17.53,Harish Gupta,Average,Poor,High Risk,Yes
+RN1750,46.23,71.11,20.41,41.51,47.37,50,Needs Support,5.86,Radhika Gill,Average,Poor,High Risk,Yes
+RN1863,46.29,81.48,17.02,60.38,65.79,48,Needs Support,5.41,Alka Kamath,Average,Poor,High Risk,Yes
+RN1911,46.34,75.0,11.54,43.4,44.74,46,Needs Support,1.34,Sandeep Mehta,Average,Poor,High Risk,Yes
+RN0524,46.47,88.1,25.49,48.94,42.11,48,Needs Support,-6.83,Hemant Bhat,Average,Poor,High Risk,Yes
+RN1912,46.48,80.39,14.55,52.83,55.26,49,Needs Support,2.43,Amit Chawla,Average,Poor,High Risk,Yes
+RN1028,46.52,74.51,24.07,67.92,44.74,47,Needs Support,-23.19,Tejas Mishra,Average,Poor,High Risk,Yes
+RN0957,46.66,70.59,17.65,35.85,44.74,45,Needs Support,8.89,Manoj Kumar,Average,Poor,High Risk,Yes
+RN0990,46.73,80.0,19.05,37.74,52.63,47,Needs Support,14.9,Raman Gowda,Average,Poor,High Risk,Yes
+RN0950,46.77,77.97,14.89,37.74,23.68,49,Needs Support,-14.05,Amit Mishra,Average,Poor,High Risk,Yes
+RN0558,46.81,78.95,12.77,60.38,47.37,47,Needs Support,-13.01,Jatin Nayak,Average,Poor,High Risk,Yes
+RN1367,46.88,66.04,15.69,66.04,50.0,49,Needs Support,-16.04,Yashaswini Kapoor,Average,Poor,High Risk,Yes
+RN1440,46.97,83.33,22.22,62.26,60.53,50,Needs Support,-1.74,Nidhi Kamath,Average,Poor,High Risk,Yes
+RN1288,46.98,77.27,20.0,39.62,44.74,50,Needs Support,5.11,Satish Joshi,Average,Poor,High Risk,Yes
+RN0983,47.05,79.49,17.86,43.4,63.16,48,Needs Support,19.76,Nidhi Ray,Average,Poor,High Risk,Yes
+RN0629,47.1,71.93,13.56,54.72,50.0,49,Needs Support,-4.72,Lakshmi Pillai,Average,Poor,High Risk,Yes
+RN1269,47.2,79.07,20.37,50.94,39.47,48,Needs Support,-11.47,Charu Chawla,Average,Poor,High Risk,Yes
+RN0744,47.3,79.49,15.79,37.74,15.79,48,Needs Support,-21.95,Suresh Mehta,Average,Poor,High Risk,Yes
+RN0743,47.36,79.25,12.82,58.49,68.42,47,Needs Support,9.93,Payal Dhillon,Average,Poor,High Risk,Yes
+RN0705,47.38,74.51,19.64,54.72,60.53,48,Needs Support,5.81,Diya Grover,Average,Poor,High Risk,Yes
+RN1340,47.6,72.73,15.56,50.94,50.0,49,Needs Support,-0.94,Gayatri Pandey,Average,Poor,High Risk,Yes
+RN1727,47.62,73.91,18.75,41.51,47.37,48,Needs Support,5.86,Dhruv Alva,Average,Poor,High Risk,Yes
+RN1518,47.92,81.97,23.4,28.3,39.47,47,Needs Support,11.17,Satish Rai,Average,Poor,High Risk,Yes
+RN0084,47.97,77.78,13.46,50.94,71.05,48,Needs Support,20.11,Gauri Mehra,Average,Poor,High Risk,Yes
+RN0842,48.05,80.0,17.95,43.4,57.89,48,Needs Support,14.5,Manav Deshmukh,Average,Poor,High Risk,Yes
+RN0315,48.43,78.72,20.51,54.72,31.58,50,Needs Support,-23.14,Inder Gupta,Average,Poor,High Risk,Yes
+RN0929,48.67,74.58,17.02,45.28,42.11,49,Needs Support,-3.18,Pallavi Chawla,Average,Poor,High Risk,Yes
+RN1763,48.67,76.19,18.52,45.28,65.79,49,Needs Support,20.51,Nitin Jain,Average,Poor,High Risk,Yes
+RN1087,48.76,78.26,15.91,47.17,42.11,49,Needs Support,-5.06,Aditya Bhat,Average,Poor,High Risk,Yes
+RN0032,49.49,79.07,18.18,67.92,60.53,48,Needs Support,-7.4,Yashaswini Dhillon,Average,Poor,High Risk,Yes
+RN0349,50.0,73.77,17.65,33.96,52.63,47,Average,18.67,Uma Prasad,Average,Average,Low Risk,No
+RN1310,50.01,75.51,25.0,56.6,68.42,46,Average,11.82,Pranav Gupta,Average,Average,Low Risk,No
+RN0899,50.02,84.75,28.21,50.94,65.79,49,Average,14.85,Amit Sodhi,Average,Average,Low Risk,No
+RN0540,50.11,80.39,20.34,49.06,55.26,48,Average,6.21,Arunima Roy,Average,Average,Low Risk,No
+RN1111,50.14,78.18,27.66,46.81,28.95,49,Average,-17.86,Vandana Hegde,Average,Average,Low Risk,No
+RN0007,50.15,70.91,15.38,60.38,60.53,48,Average,0.15,Piyush Nair,Average,Good,Low Risk,No
+RN0500,50.16,87.8,25.53,47.17,55.26,49,Average,8.09,Heena Pandey,Average,Average,Low Risk,No
+RN1646,50.2,73.08,27.91,67.92,68.42,50,Average,0.5,Zara Dutta,Average,Average,Low Risk,No
+RN0079,50.24,83.72,25.42,49.06,52.63,47,Average,3.57,Abha Pillai,Average,Average,Low Risk,No
+RN0984,50.27,80.39,19.15,54.72,65.79,50,Average,11.07,Nidhi Mallya,Average,Average,Low Risk,No
+RN1796,50.28,80.0,25.4,75.47,50.0,49,Average,-25.47,Naveen Hedge,Average,Average,Low Risk,No
+RN1553,50.32,78.43,21.82,75.47,55.26,49,Average,-20.21,Aanchal Pradhan,Average,Average,Low Risk,No
+RN1416,50.37,83.64,24.53,49.06,68.42,49,Average,19.36,Aditi Mehra,Average,Average,Low Risk,No
+RN1782,50.45,83.72,25.49,56.6,39.47,47,Average,-17.13,Pooja Prabhu,Average,Average,Low Risk,No
+RN1173,50.47,82.93,26.32,45.28,52.63,47,Average,7.35,Monika Dutta,Average,Good,Low Risk,No
+RN1329,50.5,82.61,13.73,69.81,73.68,48,Average,3.87,Abhishek Das,Average,Average,Low Risk,No
+RN0122,50.53,84.44,20.51,73.58,68.42,49,Average,-5.16,Ipshita Nayak,Average,Good,Low Risk,No
+RN0390,50.53,77.55,20.37,62.26,31.58,46,Average,-30.69,Sneha Tiwari,Average,Average,Low Risk,No
+RN1720,50.56,75.0,28.85,48.94,65.79,47,Average,16.85,Ganesh Khanna,Average,Good,Low Risk,No
+RN0954,50.58,80.0,21.82,47.17,63.16,48,Average,15.99,Kriti Hedge,Average,Good,Low Risk,No
+RN0105,50.66,77.78,23.08,50.94,42.11,47,Average,-8.84,Chetan Mukherjee,Average,Average,Low Risk,No
+RN1724,50.73,75.0,27.66,52.83,57.89,48,Average,5.06,Mohit Chawla,Average,Average,Low Risk,No
+RN1069,50.89,75.0,16.36,51.06,39.47,48,Average,-11.59,Ananya Prabhu,Average,Good,Low Risk,No
+RN0026,50.91,80.0,10.26,73.58,55.26,49,Average,-18.32,Umesh Rai,Average,Good,Low Risk,No
+RN0952,50.91,80.0,18.52,45.28,50.0,48,Average,4.72,Gaurav Prasad,Average,Good,Low Risk,No
+RN1384,50.92,90.48,19.23,41.51,52.63,45,Average,11.12,Rohan Verma,Average,Good,Low Risk,No
+RN1152,50.93,80.33,22.03,24.53,47.37,49,Average,22.84,Vineet Reddy,Average,Good,Low Risk,No
+RN0085,50.99,80.49,28.3,54.72,28.3,48,Average,-26.42,Suman Gill,Average,Average,Low Risk,No
+RN0224,51.03,91.8,22.73,35.85,65.79,48,Average,29.94,Radhika Dutta,Average,Average,Low Risk,No
+RN0600,51.03,79.49,25.53,69.81,55.26,49,Average,-14.55,Om Tiwari,Average,Average,Low Risk,No
+RN0779,51.05,75.56,15.87,60.38,47.37,49,Average,-13.01,Yashaswini Shenoy,Average,Average,Low Risk,No
+RN0323,51.06,82.5,22.22,62.26,60.53,48,Average,-1.74,Monika Gupta,Average,Average,Low Risk,No
+RN1002,51.06,79.17,25.53,47.17,50.94,44,Average,3.77,Rashmi Tiwari,Average,Average,Low Risk,No
+RN1764,51.08,79.49,15.56,79.25,50.0,50,Average,-29.25,Gayatri Kamath,Average,Average,Low Risk,No
+RN1509,51.1,84.09,19.05,30.19,63.16,50,Average,32.97,Tushar Singh,Average,Average,Low Risk,No
+RN0227,51.16,80.0,25.0,62.26,31.58,50,Average,-30.69,Brijesh Gill,Average,Average,Low Risk,No
+RN1901,51.21,78.57,19.15,49.06,55.26,50,Average,6.21,Tanvi Rao,Average,Average,Low Risk,No
+RN0904,51.26,87.27,19.23,45.28,57.89,50,Average,12.61,Dev Mallya,Average,Average,Low Risk,No
+RN0701,51.28,73.58,24.07,73.58,52.63,48,Average,-20.95,Tarun Patel,Average,Average,Low Risk,No
+RN1364,51.31,86.79,23.4,86.79,60.53,48,Average,-26.27,Monika Pai,Average,Average,Low Risk,No
+RN1626,51.39,78.57,30.23,71.7,63.16,49,Average,-8.54,Umesh Pradhan,Average,Average,Low Risk,No
+RN0729,51.4,88.89,19.57,67.92,68.42,47,Average,0.5,Diya Kapoor,Average,Average,Low Risk,No
+RN0566,51.41,78.72,25.49,66.04,68.42,49,Average,2.38,Gauri Ray,Average,Good,Low Risk,No
+RN1174,51.41,86.89,16.67,45.28,49.06,46,Average,3.77,Utkarsh Nair,Average,Good,Low Risk,No
+RN1710,51.42,79.07,25.0,43.4,47.37,48,Average,3.97,Kamal Khanna,Average,Average,Low Risk,No
+RN0785,51.43,73.33,17.5,48.94,65.79,49,Average,16.85,Riya Banerjee,Average,Good,Low Risk,No
+RN1484,51.47,84.21,25.0,49.06,36.84,50,Average,-12.21,Poonam Gupta,Average,Average,Low Risk,No
+RN1330,51.53,74.42,30.77,47.17,55.26,49,Average,8.09,Aniruddh Gill,Average,Good,Low Risk,No
+RN0195,51.56,74.36,23.73,71.7,55.26,49,Average,-16.43,Mayank Shenoy,Average,Good,Low Risk,No
+RN0935,51.58,76.74,26.67,56.6,57.89,45,Average,1.29,Rohan Patel,Average,Average,Low Risk,No
+RN1091,51.71,76.92,21.15,64.15,31.58,46,Average,-32.57,Yamini Mallya,Average,Good,Low Risk,No
+RN0031,51.72,84.44,23.21,67.92,57.89,49,Average,-10.03,Vandana Dhillon,Average,Good,Low Risk,No
+RN1110,51.75,86.79,21.57,86.79,52.63,48,Average,-34.16,Deepika Pandey,Average,Good,Low Risk,No
+RN0006,51.81,80.7,23.4,33.96,60.53,49,Average,26.56,Varun Mehta,Average,Average,Low Risk,No
+RN1161,51.89,77.27,27.27,56.6,71.05,45,Average,14.45,Komal Mehta,Average,Average,Low Risk,No
+RN0721,51.92,83.72,19.05,45.28,57.89,47,Average,12.61,Isha Rai,Average,Good,Low Risk,No
+RN1241,51.96,84.62,20.0,43.4,50.0,49,Average,6.6,Chitra Hegde,Average,Good,Low Risk,No
+RN0276,52.03,76.74,26.19,56.6,47.37,47,Average,-9.24,Aditya Naik,Average,Good,Low Risk,No
+RN1821,52.03,86.84,23.08,62.26,86.84,49,Average,24.58,Juhi Naik,Average,Good,Low Risk,No
+RN1252,52.09,82.22,20.51,58.49,57.89,47,Average,-0.6,Arjun Menon,Average,Good,Low Risk,No
+RN1598,52.09,79.25,27.12,79.25,50.0,48,Average,-29.25,Yamini Chatterjee,Average,Good,Low Risk,No
+RN0303,52.1,82.22,23.08,35.85,71.05,47,Average,35.2,Vineet Sen,Average,Average,Low Risk,No
+RN1849,52.11,75.0,21.43,43.4,50.0,49,Average,6.6,Shreya Mehta,Average,Average,Low Risk,No
+RN0330,52.12,86.67,32.14,64.15,73.68,47,Average,9.53,Hina Pandey,Average,Good,Low Risk,No
+RN1516,52.13,80.85,22.03,41.51,60.53,46,Average,19.02,Suhas Joshi,Average,Average,Low Risk,No
+RN0578,52.17,84.09,15.69,66.04,65.79,49,Average,-0.25,Pari Pradhan,Average,Good,Low Risk,No
+RN1406,52.17,71.15,20.51,60.38,44.74,49,Average,-15.64,Sachin Gowda,Average,Good,Low Risk,No
+RN0759,52.23,76.32,25.49,67.92,76.32,49,Average,8.39,Suman Mishra,Average,Good,Low Risk,No
+RN0872,52.25,79.55,11.11,50.94,60.53,48,Average,9.58,Charu Murthy,Average,Good,Low Risk,No
+RN1955,52.25,89.8,22.22,67.92,60.53,49,Average,-7.4,Nidhi Gupta,Average,Average,Low Risk,No
+RN1045,52.26,73.68,14.89,67.92,73.68,49,Average,5.76,Dinesh Naik,Average,Good,Low Risk,No
+RN1186,52.31,78.43,7.69,67.92,55.26,48,Average,-12.66,Suman Naik,Average,Good,Low Risk,No
+RN1839,52.32,77.78,27.45,58.49,39.47,47,Average,-19.02,Divya Prabhu,Average,Average,Low Risk,No
+RN1336,52.4,78.72,15.69,50.94,60.53,50,Average,9.58,Aditi Shenoy,Average,Good,Low Risk,No
+RN1385,52.4,71.43,28.57,54.72,50.0,45,Average,-4.72,Amita Bhat,Average,Good,Low Risk,No
+RN0933,52.42,85.42,13.73,79.25,47.37,50,Average,-31.88,Tanya Dutta,Average,Average,Low Risk,No
+RN1858,52.43,74.51,23.53,64.15,50.0,46,Average,-14.15,Nandini Joshi,Average,Good,Low Risk,No
+RN0720,52.44,82.22,25.0,69.81,50.0,45,Average,-19.81,Gaurav Kulkarni,Average,Good,Low Risk,No
+RN0832,52.47,77.78,27.45,66.04,63.16,49,Average,-2.88,Inder Bose,Average,Good,Low Risk,No
+RN1383,52.48,82.05,19.61,45.28,76.32,49,Average,31.03,Radhika Sen,Average,Good,Low Risk,No
+RN0999,52.53,88.37,21.05,67.92,47.17,48,Average,-20.75,Lata Banerjee,Average,Good,Low Risk,No
+RN0069,52.55,89.47,30.51,67.92,89.47,45,Average,21.55,Priya Acharya,Average,Good,Low Risk,No
+RN1995,52.59,79.07,17.5,50.94,52.63,46,Average,1.69,Akash Mallya,Average,Good,Low Risk,No
+RN0212,52.62,84.62,23.53,50.94,50.0,47,Average,-0.94,Girish Shenoy,Average,Good,Low Risk,No
+RN0725,52.65,90.91,22.22,81.13,47.37,48,Average,-33.76,Kavya Mukherjee,Average,Good,Low Risk,No
+RN0309,52.67,93.33,24.07,37.74,60.53,49,Average,22.79,Rajat Jain,Average,Good,Low Risk,No
+RN0127,52.7,76.74,23.4,60.38,57.89,49,Average,-2.48,Komal Tiwari,Average,Average,Low Risk,No
+RN1255,52.71,78.43,25.4,73.58,73.68,50,Average,0.1,Amita Kulkarni,Average,Average,Low Risk,No
+RN0598,52.74,75.0,32.5,43.4,52.63,46,Average,9.24,Radhika Mallya,Average,Average,Low Risk,No
+RN0050,52.82,86.44,15.69,58.49,60.53,45,Average,2.04,Raman Kamath,Average,Good,Low Risk,No
+RN0493,52.84,79.63,28.26,69.81,42.11,50,Average,-27.71,Harini Mehta,Average,Good,Low Risk,No
+RN0766,52.84,81.4,32.73,75.47,42.11,46,Average,-33.37,Pooja Deshmukh,Average,Average,Low Risk,No
+RN1735,52.87,81.82,21.31,69.81,65.79,48,Average,-4.02,Nidhi Verma,Average,Average,Low Risk,No
+RN0625,52.88,80.77,31.91,49.06,55.26,48,Average,6.21,Vidya Bhat,Average,Good,Low Risk,No
+RN0769,52.88,82.22,20.51,77.36,60.53,48,Average,-16.83,Anuj Shenoy,Average,Average,Low Risk,No
+RN0831,52.91,73.81,26.23,67.92,65.79,50,Average,-2.14,Ojaswini Pandey,Average,Average,Low Risk,No
+RN1600,52.91,76.19,25.64,71.7,57.89,50,Average,-13.8,Tejaswini Sen,Average,Good,Low Risk,No
+RN0207,52.94,85.45,26.79,71.7,42.11,48,Average,-29.59,Tanya Gill,Average,Good,Low Risk,No
+RN0476,52.94,85.25,22.73,60.38,44.74,48,Average,-15.64,Diya Choudhury,Average,Good,Low Risk,No
+RN1461,52.95,72.73,29.63,47.17,71.05,47,Average,23.88,Sunil Banerjee,Average,Good,Low Risk,No
+RN1988,52.96,90.7,28.3,50.94,52.63,50,Average,1.69,Saanvi Acharya,Average,Good,Low Risk,No
+RN1908,52.97,93.18,23.81,60.38,52.63,47,Average,-7.75,Pari Mishra,Average,Good,Low Risk,No
+RN1286,52.99,79.17,25.64,41.51,65.79,48,Average,24.28,UrVashi Chatterjee,Average,Good,Low Risk,No
+RN0156,53.01,87.27,25.53,75.47,55.26,50,Average,-20.21,Ritu Shetty,Average,Good,Low Risk,No
+RN1018,53.03,88.37,25.53,71.7,71.05,48,Average,-0.65,Charu Jain,Average,Good,Low Risk,No
+RN1846,53.03,80.0,28.81,56.6,63.16,50,Average,6.55,Ganesh Gupta,Average,Good,Low Risk,No
+RN0937,53.1,89.74,18.64,56.6,68.42,50,Average,11.82,Chitra Kapoor,Average,Good,Low Risk,No
+RN0987,53.12,85.11,14.63,60.38,58.49,48,Average,-1.89,Pankaj Nair,Average,Good,Low Risk,No
+RN1937,53.14,81.63,26.09,45.28,71.05,44,Average,25.77,Gagan Verma,Average,Good,Low Risk,No
+RN1182,53.15,85.71,30.77,64.15,57.89,49,Average,-6.26,Chetan Sinha,Average,Good,Low Risk,No
+RN1852,53.16,83.72,17.95,66.04,50.0,48,Average,-16.04,Prisha Gupta,Average,Good,Low Risk,No
+RN1604,53.17,78.72,12.82,56.6,34.21,49,Average,-22.39,Meera Mehra,Average,Good,Low Risk,No
+RN0591,53.22,92.98,28.21,58.49,57.89,48,Average,-0.6,Naveen Reddy,Average,Good,Low Risk,No
+RN0140,53.26,78.72,23.91,69.81,73.68,50,Average,3.87,Ananya Nayak,Average,Good,Low Risk,No
+RN1961,53.26,83.33,21.28,66.04,76.32,48,Average,10.28,Suhas Chawla,Average,Good,Low Risk,No
+RN1278,53.3,89.29,20.0,81.13,26.32,48,Average,-54.82,Payal Mallya,Average,Average,Low Risk,No
+RN1927,53.31,72.34,21.28,54.72,68.42,49,Average,13.7,Yamini Tiwari,Average,Good,Low Risk,No
+RN0400,53.32,86.84,23.64,54.72,78.95,49,Average,24.23,Nandini Gowda,Average,Good,Low Risk,No
+RN0750,53.32,86.79,14.89,86.79,68.42,47,Average,-18.37,Amita Singh,Average,Average,Low Risk,No
+RN0534,53.33,84.21,28.21,50.94,84.21,47,Average,33.27,Riya Bhat,Average,Good,Low Risk,No
+RN1938,53.33,80.0,29.55,51.11,71.05,46,Average,19.94,Karan Verma,Average,Good,Low Risk,No
+RN1270,53.34,91.84,20.37,43.4,55.26,47,Average,11.87,Riya Joshi,Average,Good,Low Risk,No
+RN1143,53.35,75.0,25.0,49.06,65.79,47,Average,16.73,Dev Iyer,Average,Good,Low Risk,No
+RN1896,53.37,76.92,19.61,50.94,63.16,48,Average,12.21,Malini Iyer,Average,Good,Low Risk,No
+RN1060,53.39,73.68,22.64,22.64,73.68,50,Average,51.04,Hemant Anand,Average,Good,Low Risk,No
+RN0030,53.4,81.4,25.49,54.72,31.58,48,Average,-23.14,Tejaswini Malhotra,Average,Good,Low Risk,No
+RN0533,53.42,88.89,27.5,52.83,71.05,48,Average,18.22,Chetan Menon,Average,Good,Low Risk,No
+RN0646,53.43,95.35,23.81,69.81,55.26,48,Average,-14.55,Heena Hegde,Average,Good,Low Risk,No
+RN0915,53.48,81.4,21.57,77.36,60.53,49,Average,-16.83,Lokesh Murthy,Average,Good,Low Risk,No
+RN1083,53.48,77.78,25.58,58.49,63.16,47,Average,4.67,Girish Sinha,Average,Good,Low Risk,No
+RN0965,53.49,83.02,23.08,83.02,76.32,49,Average,-6.7,Vaishnavi Nayak,Average,Good,Low Risk,No
+RN1044,53.49,88.89,23.64,75.47,65.79,50,Average,-9.68,Vaishnavi Pai,Average,Good,Low Risk,No
+RN1662,53.49,80.0,19.61,67.92,42.11,48,Average,-25.82,Amita Nayak,Average,Good,Low Risk,No
+RN0986,53.52,82.98,23.26,69.81,47.37,49,Average,-22.44,Utkarsh Pillai,Average,Good,Low Risk,No
+RN1136,53.58,82.35,23.08,58.49,65.79,46,Average,7.3,Amit Mehta,Average,Good,Low Risk,No
+RN1977,53.58,94.34,20.51,56.6,52.63,49,Average,-3.97,Utkarsh Hegde,Average,Average,Low Risk,No
+RN0361,53.66,85.25,20.51,62.26,44.74,49,Average,-17.53,Brijesh Jain,Average,Good,Low Risk,No
+RN1956,53.67,78.57,30.23,56.6,52.63,49,Average,-3.97,Akash Chawla,Average,Good,Low Risk,No
+RN0413,53.71,82.05,17.86,64.15,55.26,47,Average,-8.89,Prisha Das,Average,Good,Low Risk,No
+RN1170,53.75,84.09,25.0,60.38,47.37,50,Average,-13.01,Tejaswini Jain,Average,Good,Low Risk,No
+RN1654,53.77,86.89,27.78,66.04,42.11,45,Average,-23.93,Gagan Chawla,Average,Good,Low Risk,No
+RN0385,53.78,75.0,30.16,66.04,60.53,45,Average,-5.51,Vineet Roy,Average,Good,Low Risk,No
+RN0698,53.8,78.43,20.51,43.4,71.05,49,Average,27.66,Yamini Prabhu,Average,Good,Low Risk,No
+RN0946,53.85,85.71,30.43,62.26,54.72,45,Average,-7.55,Ojaswini Dutta,Average,Good,Low Risk,No
+RN0798,53.86,82.05,20.63,58.49,57.89,49,Average,-0.6,Rohan Ray,Average,Good,Low Risk,No
+RN0008,53.88,81.13,25.53,81.13,71.05,48,Average,-10.08,Aditi Rao,Average,Good,Low Risk,No
+RN0064,53.89,81.48,21.82,62.26,65.79,50,Average,3.53,Ishita Jain,Average,Good,Low Risk,No
+RN1549,53.97,86.67,17.02,45.28,55.26,47,Average,9.98,Yamini Pandey,Average,Good,Low Risk,No
+RN0895,53.98,80.0,28.21,43.4,63.16,49,Average,19.76,Manoj Prasad,Average,Good,Low Risk,No
+RN0665,53.99,81.82,18.52,49.06,63.16,48,Average,14.1,Riya Mallya,Average,Good,Low Risk,No
+RN1647,54.01,82.5,17.95,39.62,52.63,47,Average,13.01,Alok Bose,Average,Good,Low Risk,No
+RN1307,54.02,89.83,17.46,62.26,44.74,48,Average,-17.53,Nitin Chawla,Average,Average,Low Risk,No
+RN0495,54.03,80.0,21.74,56.6,75.47,47,Average,18.87,Rashmi Verma,Average,Average,Low Risk,No
+RN1007,54.03,78.43,23.4,47.17,57.89,48,Average,10.72,Mansi Mallya,Average,Good,Low Risk,No
+RN1806,54.06,76.19,29.41,47.17,55.26,48,Average,8.09,Vikram Joshi,Average,Good,Low Risk,No
+RN0529,54.07,85.42,16.67,79.25,68.42,47,Average,-10.82,Abha Mishra,Average,Good,Low Risk,No
+RN0232,54.09,83.64,25.49,69.81,68.42,50,Average,-1.39,Tejas Bhat,Average,Good,Low Risk,No
+RN0583,54.11,83.72,30.0,71.7,60.53,48,Average,-11.17,Pankaj Chawla,Average,Good,Low Risk,No
+RN0531,54.12,82.69,28.57,75.47,68.42,49,Average,-7.05,Aadhya Hegde,Average,Good,Low Risk,No
+RN1297,54.16,76.47,16.95,45.28,55.26,48,Average,9.98,Ritu Rai,Average,Good,Low Risk,No
+RN0482,54.19,87.18,16.36,47.17,60.53,48,Average,13.36,Pankaj Hegde,Average,Good,Low Risk,No
+RN0067,54.2,75.56,27.78,64.15,42.11,49,Average,-22.05,Ipshita Kulkarni,Average,Good,Low Risk,No
+RN0765,54.2,78.85,13.16,42.55,55.26,46,Average,12.71,Isha Mehta,Average,Good,Low Risk,No
+RN0889,54.24,81.4,11.36,75.47,55.26,49,Average,-20.21,Deepak Anand,Average,Good,Low Risk,No
+RN1592,54.24,84.09,25.42,56.6,31.58,48,Average,-25.02,Payal Verma,Average,Good,Low Risk,No
+RN1208,54.27,80.0,27.5,67.92,73.68,49,Average,5.76,Anjali Jain,Average,Good,Low Risk,No
+RN0813,54.28,93.02,26.42,77.36,68.42,50,Average,-8.94,Payal Hegde,Average,Good,Low Risk,No
+RN1619,54.3,78.72,27.66,45.28,63.16,49,Average,17.87,Khushi Mallya,Average,Average,Low Risk,No
+RN0675,54.31,75.61,26.67,54.72,42.11,48,Average,-12.61,Jyothi Sinha,Average,Good,Low Risk,No
+RN1105,54.33,81.36,13.95,56.6,55.26,49,Average,-1.34,Meera Dhillon,Average,Good,Low Risk,No
+RN0427,54.35,82.05,23.4,69.81,55.26,46,Average,-14.55,Malini Kulkarni,Average,Good,Low Risk,No
+RN1856,54.36,84.31,21.05,39.62,55.26,49,Average,15.64,Tanya Acharya,Average,Good,Low Risk,No
+RN1996,54.38,84.62,10.53,50.94,55.26,46,Average,4.32,Anjali Kapoor,Average,Good,Low Risk,No
+RN0199,54.41,86.67,31.25,60.38,55.26,49,Average,-5.11,Manoj Shenoy,Average,Excellent,Low Risk,No
+RN1631,54.42,79.63,21.15,60.38,36.84,46,Average,-23.54,Abha Sen,Average,Good,Low Risk,No
+RN0383,54.47,81.25,29.55,67.92,47.37,46,Average,-20.56,Tanvi Patel,Average,Good,Low Risk,No
+RN0755,54.48,77.36,27.91,77.36,71.05,48,Average,-6.31,Pankaj Khanna,Average,Good,Low Risk,No
+RN1477,54.49,86.67,17.02,66.04,52.63,50,Average,-13.41,Kiran Joshi,Average,Good,Low Risk,No
+RN0754,54.51,82.05,23.4,50.94,32.08,45,Average,-18.87,Khushi Chatterjee,Average,Excellent,Low Risk,No
+RN1661,54.52,88.37,20.45,50.94,52.63,46,Average,1.69,Komal Pandey,Average,Good,Low Risk,No
+RN0206,54.53,74.42,30.36,50.94,52.63,48,Average,1.69,Brijesh Dhillon,Average,Excellent,Low Risk,No
+RN0017,54.58,91.67,35.29,67.92,65.79,47,Average,-2.14,Suhas Menon,Average,Good,Low Risk,No
+RN0850,54.6,81.4,22.5,45.28,63.16,47,Average,17.87,Brijesh Verma,Average,Good,Low Risk,No
+RN1132,54.6,77.78,23.08,48.94,55.26,48,Average,6.33,Nidhi Murthy,Average,Good,Low Risk,No
+RN1315,54.61,83.67,20.0,62.26,57.89,46,Average,-4.37,Neha Acharya,Average,Good,Low Risk,No
+RN1359,54.61,93.02,27.45,60.38,65.79,49,Average,5.41,Ritu Jain,Average,Good,Low Risk,No
+RN1670,54.63,90.7,27.5,33.96,52.63,50,Average,18.67,Alok Jain,Average,Good,Low Risk,No
+RN1807,54.64,76.92,25.0,73.58,60.53,48,Average,-13.06,Pradeep Gill,Average,Good,Low Risk,No
+RN1556,54.65,87.18,33.33,60.38,73.68,47,Average,13.31,Suresh Bose,Average,Good,Low Risk,No
+RN0541,54.66,89.09,27.27,60.38,57.89,46,Average,-2.48,Meera Mehta,Average,Good,Low Risk,No
+RN0449,54.67,92.31,25.53,71.7,42.11,47,Average,-29.59,Drishti Mishra,Average,Good,Low Risk,No
+RN0783,54.67,78.72,30.0,49.06,73.68,50,Average,24.63,Vivek Gowda,Average,Good,Low Risk,No
+RN0786,54.67,87.18,12.96,62.26,50.0,48,Average,-12.26,Nidhi Mehta,Average,Good,Low Risk,No
+RN0925,54.69,84.31,25.0,83.02,55.26,49,Average,-27.76,Juhi Verma,Average,Good,Low Risk,No
+RN1577,54.69,83.02,31.37,60.38,63.16,50,Average,2.78,Bhumika Prasad,Average,Good,Low Risk,No
+RN1221,54.7,80.0,17.95,50.94,78.95,48,Average,28.0,Tejaswini Sharma,Average,Good,Low Risk,No
+RN1544,54.72,79.55,23.68,54.72,52.63,48,Average,-2.09,Priya Bose,Average,Good,Low Risk,No
+RN0243,54.73,81.13,17.02,81.13,71.05,45,Average,-10.08,Radhika Naik,Average,Good,Low Risk,No
+RN1293,54.75,82.05,29.09,50.94,34.21,49,Average,-16.73,Jatin Kapoor,Average,Good,Low Risk,No
+RN0871,54.78,90.16,31.58,47.17,31.58,49,Average,-15.59,Lata Deshmukh,Average,Good,Low Risk,No
+RN0435,54.82,89.09,28.57,45.28,65.79,46,Average,20.51,Gaurav Ray,Average,Good,Low Risk,No
+RN0960,54.83,87.27,31.91,73.58,60.53,48,Average,-13.06,Payal Mehra,Average,Good,Low Risk,No
+RN1009,54.86,78.57,27.27,56.6,47.37,47,Average,-9.24,Yash Nayak,Average,Good,Low Risk,No
+RN1501,54.91,79.17,29.41,54.72,47.37,48,Average,-7.35,Kapil Kulkarni,Average,Good,Low Risk,No
+RN0555,54.94,86.36,26.92,66.04,73.68,49,Average,7.65,Priya Mehra,Average,Excellent,Low Risk,No
+RN0223,54.96,80.39,28.21,47.17,65.79,49,Average,18.62,Yashaswini Patel,Average,Good,Low Risk,No
+RN0873,54.97,77.78,18.18,69.81,52.63,48,Average,-17.18,Rahul Kapoor,Average,Good,Low Risk,No
+RN0884,54.98,82.22,31.91,58.49,60.53,50,Average,2.04,Hemant Pillai,Average,Excellent,Low Risk,No
+RN0792,55.03,89.58,30.23,51.06,60.53,45,Average,9.46,Deepika Sinha,Average,Good,Low Risk,No
+RN0249,55.04,85.19,25.93,77.36,73.68,43,Average,-3.67,Juhi Rai,Average,Good,Low Risk,No
+RN0664,55.06,90.16,23.08,58.49,55.26,48,Average,-3.23,Harini Banerjee,Average,Good,Low Risk,No
+RN0757,55.07,81.58,19.64,75.47,57.89,47,Average,-17.58,Yash Sinha,Average,Good,Low Risk,No
+RN0049,55.08,84.62,23.4,52.83,60.53,46,Average,7.7,Amit Pandey,Average,Good,Low Risk,No
+RN1627,55.08,90.38,31.71,54.72,65.79,48,Average,11.07,Riya Tiwari,Average,Good,Low Risk,No
+RN0614,55.1,83.02,30.77,83.02,55.26,48,Average,-27.76,Arunima Rao,Average,Good,Low Risk,No
+RN0020,55.11,92.73,25.64,58.49,44.74,50,Average,-13.75,Vandana Prabhu,Average,Good,Low Risk,No
+RN1331,55.11,79.17,21.28,56.6,52.63,48,Average,-3.97,Ipshita Roy,Average,Good,Low Risk,No
+RN0507,55.12,87.18,15.79,60.38,55.26,50,Average,-5.11,Diya Roy,Average,Good,Low Risk,No
+RN1026,55.13,88.89,28.81,49.06,52.63,48,Average,3.57,Radhika Gupta,Average,Good,Low Risk,No
+RN1272,55.14,86.79,23.08,86.79,65.79,45,Average,-21.0,Vikram Reddy,Average,Good,Low Risk,No
+RN0191,55.15,92.45,25.53,92.45,50.0,49,Average,-42.45,Ishita Pillai,Average,Good,Low Risk,No
+RN0981,55.16,81.82,21.05,64.15,34.21,48,Average,-29.94,Deepa Banerjee,Average,Good,Low Risk,No
+RN1994,55.16,76.92,35.71,54.72,39.47,49,Average,-15.24,Anuj Tiwari,Average,Good,Low Risk,No
+RN0485,55.17,90.16,29.41,54.72,81.58,48,Average,26.86,Chirag Verma,Average,Good,Low Risk,No
+RN1097,55.19,80.85,28.21,64.15,52.83,49,Average,-11.32,Zara Prabhu,Average,Good,Low Risk,No
+RN1917,55.19,87.18,22.5,64.15,54.72,48,Average,-9.43,Swati Mukherjee,Average,Good,Low Risk,No
+RN1118,55.2,90.16,17.02,51.06,73.68,46,Average,22.62,Diya Khanna,Average,Good,Low Risk,No
+RN1374,55.2,93.44,28.3,33.96,50.0,50,Average,16.04,Isha Banerjee,Average,Good,Low Risk,No
+RN0642,55.22,88.37,23.81,43.4,42.11,49,Average,-1.29,Ramya_M Anand,Average,Excellent,Low Risk,No
+RN0446,55.23,84.91,21.82,50.94,52.63,49,Average,1.69,Mehak Dutta,Average,Good,Low Risk,No
+RN1869,55.28,82.69,16.95,66.04,71.05,49,Average,5.01,Khushi Sinha,Average,Good,Low Risk,No
+RN0693,55.3,80.95,24.53,49.06,52.63,48,Average,3.57,Swati Iyer,Average,Excellent,Low Risk,No
+RN0239,55.32,77.55,35.29,62.26,63.16,46,Average,0.89,Vandana Chatterjee,Average,Good,Low Risk,No
+RN0313,55.32,92.16,30.77,73.58,42.11,47,Average,-31.48,Chirag Mehta,Average,Good,Low Risk,No
+RN1428,55.33,87.72,30.91,60.38,65.79,50,Average,5.41,Abhishek Rai,Average,Good,Low Risk,No
+RN0830,55.35,94.87,15.79,66.04,76.32,47,Average,10.28,Ipshita Chatterjee,Average,Good,Low Risk,No
+RN1034,55.37,81.82,28.21,75.47,63.16,48,Average,-12.31,Mohit Kumar,Average,Good,Low Risk,No
+RN0490,55.38,78.43,20.37,52.83,76.32,48,Average,23.49,Khushi Menon,Average,Good,Low Risk,No
+RN1943,55.39,82.22,33.93,58.49,52.63,49,Average,-5.86,Bhavna Pai,Average,Good,Low Risk,No
+RN1376,55.4,80.77,20.51,62.26,44.74,46,Average,-17.53,Tejaswini Rao,Average,Good,Low Risk,No
+RN0499,55.41,82.22,27.78,41.51,55.26,46,Average,13.75,Riya Malhotra,Average,Good,Low Risk,No
+RN1725,55.44,79.66,35.29,44.68,78.95,48,Average,34.27,Priya Hedge,Average,Good,Low Risk,No
+RN1878,55.49,80.39,25.45,79.25,44.74,49,Average,-34.51,Aanchal Pillai,Average,Good,Low Risk,No
+RN0797,55.57,83.33,23.4,50.94,73.68,47,Average,22.74,Gauri Prasad,Average,Good,Low Risk,No
+RN0599,55.61,80.0,27.27,69.81,60.53,50,Average,-9.29,Karan Grover,Average,Good,Low Risk,No
+RN1128,55.61,84.62,27.66,47.17,47.37,46,Average,0.2,Nitin Sharma,Average,Good,Low Risk,No
+RN1411,55.63,89.74,31.91,64.15,60.53,48,Average,-3.62,Malini Roy,Average,Excellent,Low Risk,No
+RN0345,55.65,80.0,16.67,73.58,50.94,48,Average,-22.64,Vikas Murthy,Average,Good,Low Risk,No
+RN1768,55.65,86.79,22.22,86.79,28.95,47,Average,-57.85,Juhi Pradhan,Average,Good,Low Risk,No
+RN1929,55.68,80.7,17.95,52.83,63.16,49,Average,10.33,Pari Kapoor,Average,Good,Low Risk,No
+RN1444,55.72,90.91,31.37,49.06,76.32,48,Average,27.26,Pallavi Dutta,Average,Good,Low Risk,No
+RN1415,55.76,83.02,20.63,70.21,47.37,49,Average,-22.84,Meera Sinha,Average,Good,Low Risk,No
+RN1498,55.8,82.05,27.27,62.26,65.79,48,Average,3.53,Prisha Pradhan,Average,Good,Low Risk,No
+RN1575,55.89,81.82,22.22,68.89,73.68,44,Average,4.8,UrVashi Nair,Average,Good,Low Risk,No
+RN1676,55.9,93.33,26.92,66.04,47.37,48,Average,-18.67,Zara Joshi,Average,Good,Low Risk,No
+RN0875,55.91,90.91,29.63,69.81,57.89,47,Average,-11.92,Om Dutta,Average,Good,Low Risk,No
+RN0722,55.92,84.62,14.75,62.26,78.95,49,Average,16.68,Gayatri Mukherjee,Average,Good,Low Risk,No
+RN1732,55.93,76.74,34.78,66.04,68.42,49,Average,2.38,Jaideep Mishra,Average,Good,Low Risk,No
+RN0296,55.96,92.73,19.05,47.17,50.0,49,Average,2.83,Radhika Gowda,Average,Good,Low Risk,No
+RN0851,55.96,90.57,11.63,90.57,73.68,45,Average,-16.88,Mansi Pradhan,Average,Good,Low Risk,No
+RN1541,55.97,89.47,23.08,60.38,55.26,48,Average,-5.11,Hemant Kamath,Average,Good,Low Risk,No
+RN0388,55.98,77.78,36.36,52.83,50.0,49,Average,-2.83,Manoj Joshi,Average,Excellent,Low Risk,No
+RN0992,56.04,83.33,10.53,64.15,55.26,49,Average,-8.89,Chitra Dhillon,Average,Good,Low Risk,No
+RN1346,56.06,95.45,14.29,58.49,55.26,49,Average,-3.23,Aadhya Kumar,Average,Good,Low Risk,No
+RN0218,56.07,78.18,33.33,54.72,60.53,49,Average,5.81,Alka Hegde,Average,Excellent,Low Risk,No
+RN0825,56.09,75.56,34.04,50.94,55.26,46,Average,4.32,Drishti Grover,Average,Good,Low Risk,No
+RN0953,56.09,90.38,22.03,64.15,84.21,49,Average,20.06,Prisha Khanna,Average,Good,Low Risk,No
+RN1905,56.1,93.18,29.79,64.15,63.16,46,Average,-0.99,Vidya Das,Average,Good,Low Risk,No
+RN0538,56.11,84.62,23.21,60.38,47.37,50,Average,-13.01,Ishita Murthy,Average,Good,Low Risk,No
+RN0618,56.11,83.64,17.95,58.49,47.37,49,Average,-11.12,Monika Rao,Average,Good,Low Risk,No
+RN1531,56.11,84.62,31.58,64.15,47.37,46,Average,-16.78,Alka Deshmukh,Average,Excellent,Low Risk,No
+RN1968,56.13,81.82,32.5,56.6,55.26,47,Average,-1.34,Isha Gowda,Average,Good,Low Risk,No
+RN1223,56.15,83.33,21.05,71.7,57.89,48,Average,-13.8,Kamal Das,Average,Good,Low Risk,No
+RN0643,56.16,88.89,31.91,47.17,73.68,47,Average,26.51,Dhruv Bose,Average,Good,Low Risk,No
+RN0982,56.16,81.48,21.28,62.26,50.0,50,Average,-12.26,Riya Ray,Average,Good,Low Risk,No
+RN0773,56.17,82.14,29.27,71.7,50.0,50,Average,-21.7,Drishti Verma,Average,Good,Low Risk,No
+RN0789,56.17,83.64,25.58,50.94,68.42,49,Average,17.48,Chandan Khanna,Average,Good,Low Risk,No
+RN0459,56.18,81.13,32.2,81.13,50.0,48,Average,-31.13,Amita Mallya,Average,Good,Low Risk,No
+RN1348,56.18,75.56,27.78,67.92,63.16,48,Average,-4.77,Deepa Verma,Average,Excellent,Low Risk,No
+RN1130,56.21,84.62,25.53,73.58,76.32,49,Average,2.73,Bharat Roy,Average,Good,Low Risk,No
+RN0088,56.23,82.05,21.28,69.81,55.26,50,Average,-14.55,Prisha Reddy,Average,Excellent,Low Risk,No
+RN1146,56.23,88.89,29.79,58.49,65.79,49,Average,7.3,Tejaswini Patel,Average,Good,Low Risk,No
+RN1122,56.29,76.19,29.79,64.15,37.74,48,Average,-26.42,Garima Kulkarni,Average,Excellent,Low Risk,No
+RN1590,56.29,86.84,12.77,47.17,63.16,48,Average,15.99,Monika Jain,Average,Good,Low Risk,No
+RN0351,56.33,79.49,33.33,58.49,57.89,49,Average,-0.6,Vikram Murthy,Average,Excellent,Low Risk,No
+RN1790,56.35,90.2,25.53,67.92,57.89,49,Average,-10.03,Mehak Anand,Average,Good,Low Risk,No
+RN0567,56.37,81.82,22.64,73.58,73.68,48,Average,0.1,Dev Dutta,Average,Excellent,Low Risk,No
+RN1785,56.41,83.02,25.64,52.83,50.0,49,Average,-2.83,Deepak Murthy,Average,Excellent,Low Risk,No
+RN1246,56.42,87.27,11.11,60.38,73.68,49,Average,13.31,Deepika Pillai,Average,Excellent,Low Risk,No
+RN1156,56.48,84.21,23.68,60.38,84.21,49,Average,23.83,Kunwar Choudhury,Average,Good,Low Risk,No
+RN1519,56.48,88.89,31.58,50.94,52.63,48,Average,1.69,UrVashi Kumar,Average,Good,Low Risk,No
+RN0367,56.53,92.31,31.91,66.04,44.74,49,Average,-21.3,Pari Shetty,Average,Good,Low Risk,No
+RN1413,56.53,89.09,29.55,67.92,55.26,47,Average,-12.66,Yamini Acharya,Average,Excellent,Low Risk,No
+RN0068,56.59,86.05,30.77,62.26,73.68,49,Average,11.42,Prisha Hegde,Average,Good,Low Risk,No
+RN0328,56.6,84.75,36.54,62.26,71.05,48,Average,8.79,Raman Shenoy,Average,Good,Low Risk,No
+RN0922,56.6,83.72,28.85,75.47,60.53,47,Average,-14.95,Vidya Kamath,Average,Good,Low Risk,No
+RN0292,56.62,90.24,38.89,64.15,58.49,44,Average,-5.66,Nitish Kamath,Average,Good,Low Risk,No
+RN0562,56.64,74.42,14.29,56.6,50.0,49,Average,-6.6,Tarun Hedge,Average,Excellent,Low Risk,No
+RN1470,56.67,91.11,29.51,52.83,63.16,49,Average,10.33,Kapil Chatterjee,Average,Good,Low Risk,No
+RN1400,56.71,79.59,35.56,61.7,63.16,46,Average,1.46,Nikhil Mukherjee,Average,Good,Low Risk,No
+RN1765,56.76,88.37,30.77,39.62,50.0,48,Average,10.38,Mohit Kapoor,Average,Good,Low Risk,No
+RN1155,56.77,82.22,27.91,77.36,73.68,50,Average,-3.67,Vikas Anand,Average,Good,Low Risk,No
+RN0620,56.83,88.52,25.45,60.38,55.26,48,Average,-5.11,Kajal Banerjee,Average,Good,Low Risk,No
+RN1650,56.83,85.11,31.91,81.13,44.74,48,Average,-36.4,Alok Pai,Average,Good,Low Risk,No
+RN0616,56.86,81.4,35.9,60.38,52.63,48,Average,-7.75,Aanchal Sodhi,Average,Good,Low Risk,No
+RN1605,56.88,87.18,27.66,66.04,71.05,48,Average,5.01,Nikhil Kulkarni,Average,Excellent,Low Risk,No
+RN0091,56.89,80.36,25.0,45.28,50.0,50,Average,4.72,Raman Acharya,Average,Good,Low Risk,No
+RN1395,56.91,90.91,29.55,43.4,47.37,49,Average,3.97,Nitish Sharma,Average,Good,Low Risk,No
+RN1534,56.92,86.05,22.5,56.6,73.68,47,Average,17.08,Suhas Kumar,Average,Excellent,Low Risk,No
+RN1572,56.92,97.67,33.33,49.06,63.16,49,Average,14.1,Nikhil Jain,Average,Excellent,Low Risk,No
+RN0621,56.96,84.44,27.78,60.38,44.74,49,Average,-15.64,Juhi Chatterjee,Average,Good,Low Risk,No
+RN1726,56.99,84.91,31.58,84.91,39.47,47,Average,-45.43,Dhruv Banerjee,Average,Good,Low Risk,No
+RN1799,57.01,90.2,20.51,71.7,81.58,48,Average,9.88,Naveen Nair,Average,Excellent,Low Risk,No
+RN1826,57.02,82.22,17.95,81.13,71.05,48,Average,-10.08,Ganesh Prasad,Average,Good,Low Risk,No
+RN0157,57.03,83.72,27.27,75.47,65.79,49,Average,-9.68,Aanchal Dhillon,Average,Excellent,Low Risk,No
+RN0288,57.04,84.44,18.64,81.13,65.79,47,Average,-15.34,Pari Roy,Average,Good,Low Risk,No
+RN0921,57.05,87.18,28.85,77.36,76.32,48,Average,-1.04,Heena Tiwari,Average,Good,Low Risk,No
+RN1399,57.08,87.8,23.08,50.94,63.16,48,Average,12.21,Lakshmi Murthy,Average,Excellent,Low Risk,No
+RN1135,57.09,84.09,30.77,69.81,57.89,50,Average,-11.92,Dhruv Shenoy,Average,Good,Low Risk,No
+RN1823,57.1,83.72,27.5,33.96,49.06,46,Average,15.09,Aditi Mallya,Average,Excellent,Low Risk,No
+RN1368,57.16,83.05,34.55,60.38,76.32,48,Average,15.94,Nandini Shetty,Average,Good,Low Risk,No
+RN1050,57.18,86.36,25.49,57.45,73.68,48,Average,16.24,Mehak Pillai,Average,Excellent,Low Risk,No
+RN0828,57.2,83.33,12.82,44.68,71.05,47,Average,26.37,Abhishek Sen,Average,Good,Low Risk,No
+RN0225,57.29,78.18,31.11,73.58,57.89,50,Average,-15.69,Uma Rai,Average,Good,Low Risk,No
+RN1731,57.31,82.14,28.21,64.15,50.0,48,Average,-14.15,Rajesh Malhotra,Average,Excellent,Low Risk,No
+RN1500,57.35,82.5,36.84,79.25,63.16,50,Average,-16.09,Kriti Sharma,Average,Good,Low Risk,No
+RN1743,57.35,78.95,25.49,47.17,49.06,48,Average,1.89,Uma Iyer,Average,Good,Low Risk,No
+RN0086,57.38,88.37,30.16,52.83,71.05,49,Average,18.22,Khushi Bhat,Average,Good,Low Risk,No
+RN0398,57.41,79.07,21.43,49.06,63.16,48,Average,14.1,Meera Rao,Average,Good,Low Risk,No
+RN0346,57.45,92.73,28.21,37.74,44.74,49,Average,7.0,Ritu Menon,Average,Good,Low Risk,No
+RN0279,57.46,87.04,31.15,64.15,71.05,49,Average,6.9,Prisha Alva,Average,Good,Low Risk,No
+RN1103,57.46,90.16,22.64,60.38,65.79,46,Average,5.41,Komal Pai,Average,Excellent,Low Risk,No
+RN0939,57.47,78.43,29.63,77.36,60.53,48,Average,-16.83,Amita Kumar,Average,Excellent,Low Risk,No
+RN1079,57.48,83.72,22.5,67.92,65.79,47,Average,-2.14,Tanvi Dhillon,Average,Excellent,Low Risk,No
+RN1417,57.48,84.44,31.37,37.74,63.16,49,Average,25.42,Komal Bhat,Average,Excellent,Low Risk,No
+RN1421,57.49,88.89,29.79,84.91,63.16,47,Average,-21.75,Raman Menon,Average,Good,Low Risk,No
+RN0054,57.5,83.64,30.61,67.92,60.53,49,Average,-7.4,Rajat Sodhi,Average,Excellent,Low Risk,No
+RN0780,57.51,89.47,18.42,52.83,71.05,48,Average,18.22,Khushi Bose,Average,Good,Low Risk,No
+RN0806,57.53,87.72,32.73,60.38,44.74,50,Average,-15.64,Naveen Sharma,Average,Excellent,Low Risk,No
+RN0641,57.59,82.98,23.91,54.72,68.42,48,Average,13.7,Malini Singh,Average,Excellent,Low Risk,No
+RN1989,57.59,86.44,25.53,60.38,58.49,47,Average,-1.89,Manoj Patel,Average,Excellent,Low Risk,No
+RN0671,57.61,84.78,26.42,66.04,60.53,49,Average,-5.51,Kavya Mishra,Average,Good,Low Risk,No
+RN0844,57.61,86.27,34.78,83.02,63.16,48,Average,-19.86,Raman Pradhan,Average,Excellent,Low Risk,No
+RN0299,57.65,85.11,21.57,84.91,76.32,49,Average,-8.59,Ramya_M Murthy,Average,Good,Low Risk,No
+RN1867,57.7,88.89,35.0,62.26,60.53,47,Average,-1.74,Girish Nair,Average,Good,Low Risk,No
+RN0486,57.71,83.67,26.32,79.25,55.26,48,Average,-23.98,Arunima Malhotra,Average,Excellent,Low Risk,No
+RN0731,57.71,83.33,22.5,79.25,55.26,48,Average,-23.98,Yash Patel,Average,Excellent,Low Risk,No
+RN1514,57.71,80.0,28.89,67.92,68.42,46,Average,0.5,Sanjay Rai,Average,Good,Low Risk,No
+RN1274,57.72,89.83,30.77,58.49,60.53,48,Average,2.04,Diya Mehta,Average,Excellent,Low Risk,No
+RN1696,57.72,85.96,33.33,54.72,50.0,47,Average,-4.72,Lakshmi Grover,Average,Good,Low Risk,No
+RN0648,57.74,90.91,32.2,56.6,65.79,47,Average,9.19,Kunwar Tiwari,Average,Excellent,Low Risk,No
+RN0943,57.75,86.05,27.66,52.83,52.63,50,Average,-0.2,Aanchal Naik,Average,Good,Low Risk,No
+RN1197,57.82,80.0,23.53,56.6,63.16,50,Average,6.55,Kamal Verma,Average,Good,Low Risk,No
+RN1081,57.84,87.18,30.77,67.92,32.08,47,Average,-35.85,Jyothi Nayak,Average,Good,Low Risk,No
+RN1301,57.85,87.76,23.08,79.25,44.74,48,Average,-34.51,Alok Acharya,Average,Good,Low Risk,No
+RN0281,57.87,86.05,29.79,49.06,31.58,48,Average,-17.48,Mehak Sharma,Average,Good,Low Risk,No
+RN1180,57.89,82.22,34.15,64.15,68.42,48,Average,4.27,Ananya Hedge,Average,Good,Low Risk,No
+RN1992,57.89,81.36,32.08,56.6,44.74,50,Average,-11.87,Shreya Dutta,Average,Good,Low Risk,No
+RN0840,57.92,90.91,23.64,71.7,65.79,49,Average,-5.91,Kavya Iyer,Average,Good,Low Risk,No
+RN1693,57.93,90.48,29.79,67.92,57.89,49,Average,-10.03,Bhumika Kapoor,Average,Good,Low Risk,No
+RN1023,57.99,90.2,19.05,66.04,76.32,49,Average,10.28,Shreya Mehra,Average,Good,Low Risk,No
+RN1311,58.0,87.72,33.33,62.26,60.53,48,Average,-1.74,Mehak Hedge,Average,Excellent,Low Risk,No
+RN0897,58.02,93.62,26.83,51.06,60.53,48,Average,9.46,Nandini Naik,Average,Excellent,Low Risk,No
+RN1088,58.02,81.82,28.95,81.13,65.79,49,Average,-15.34,Naveen Banerjee,Average,Good,Low Risk,No
+RN1171,58.02,87.18,27.5,39.62,68.42,48,Average,28.8,Pallavi Grover,Average,Good,Low Risk,No
+RN0322,58.04,90.48,28.57,62.26,55.26,46,Average,-7.0,Arunima Sodhi,Average,Good,Low Risk,No
+RN0462,58.05,86.67,18.18,73.58,68.42,50,Average,-5.16,Indu Banerjee,Average,Good,Low Risk,No
+RN1766,58.07,87.23,25.64,47.17,63.16,49,Average,15.99,Gauri Verma,Average,Excellent,Low Risk,No
+RN0034,58.15,83.02,25.0,83.02,50.0,47,Average,-33.02,Vaishnavi Grover,Average,Good,Low Risk,No
+RN0994,58.15,82.22,31.48,71.7,52.63,48,Average,-19.07,Dinesh Das,Average,Excellent,Low Risk,No
+RN0194,58.2,82.05,27.78,60.38,68.42,49,Average,8.04,Ankit Tiwari,Average,Good,Low Risk,No
+RN0320,58.2,92.31,23.08,60.38,52.63,48,Average,-7.75,Juhi Sodhi,Average,Good,Low Risk,No
+RN1407,58.22,84.31,31.91,56.6,73.68,45,Average,17.08,Garima Kapoor,Average,Excellent,Low Risk,No
+RN1639,58.27,86.54,25.0,41.51,47.37,49,Average,5.86,Payal Anand,Average,Excellent,Low Risk,No
+RN1381,58.28,84.44,30.91,66.04,68.42,49,Average,2.38,Abha Alva,Average,Excellent,Low Risk,No
+RN1745,58.28,81.82,29.79,71.7,71.05,48,Average,-0.65,Varun Alva,Average,Excellent,Low Risk,No
+RN0663,58.3,86.05,29.41,58.49,65.79,48,Average,7.3,Riya Patel,Average,Excellent,Low Risk,No
+RN0853,58.32,81.4,34.04,49.06,76.32,46,Average,27.26,Sandeep Kulkarni,Average,Excellent,Low Risk,No
+RN1372,58.32,84.91,27.27,41.51,60.53,48,Average,19.02,Nidhi Malhotra,Average,Good,Low Risk,No
+RN1866,58.33,85.25,33.33,52.83,78.95,50,Average,26.12,Jyothi Mallya,Average,Excellent,Low Risk,No
+RN1675,58.35,83.72,28.57,69.81,57.89,48,Average,-11.92,Vivaan Gill,Average,Excellent,Low Risk,No
+RN1665,58.36,91.84,27.66,69.81,71.05,49,Average,1.24,Nisha Verma,Average,Excellent,Low Risk,No
+RN0158,58.5,79.37,26.09,69.81,71.05,49,Average,1.24,Kunwar Gupta,Average,Excellent,Low Risk,No
+RN1999,58.5,98.21,30.36,71.7,71.7,47,Average,0.0,Lata Chatterjee,Average,Excellent,Low Risk,No
+RN0542,58.51,88.68,30.0,43.4,50.0,49,Average,6.6,Kamal Ray,Average,Excellent,Low Risk,No
+RN1634,58.51,88.89,25.64,64.15,73.68,50,Average,9.53,Kriti Chatterjee,Average,Good,Low Risk,No
+RN1276,58.54,84.62,29.41,83.02,68.42,49,Average,-14.6,Manoj Deshmukh,Average,Excellent,Low Risk,No
+RN0216,58.59,84.31,25.0,62.26,73.68,50,Average,11.42,Ayush Anand,Average,Excellent,Low Risk,No
+RN0368,58.62,85.25,24.07,58.49,47.37,48,Average,-11.12,Ishita Bhat,Average,Excellent,Low Risk,No
+RN1291,58.64,85.71,22.73,75.47,34.21,50,Average,-41.26,Bharat Hegde,Average,Good,Low Risk,No
+RN1482,58.68,84.62,34.55,60.38,57.89,50,Average,-2.48,Vikram Mehta,Average,Excellent,Low Risk,No
+RN0301,58.69,90.2,22.45,66.04,60.53,49,Average,-5.51,Kamal Bhat,Average,Excellent,Low Risk,No
+RN0076,58.83,88.89,28.26,60.38,34.21,49,Average,-26.17,Sumit Kapoor,Average,Good,Low Risk,No
+RN0430,58.83,88.24,31.37,50.94,36.84,49,Average,-14.1,Deepika Naik,Average,Excellent,Low Risk,No
+RN1730,58.84,87.76,38.18,47.17,50.0,49,Average,2.83,Ojaswini Iyer,Average,Excellent,Low Risk,No
+RN0589,58.87,87.5,28.89,60.38,71.05,47,Average,10.68,Ayush Sodhi,Average,Excellent,Low Risk,No
+RN1648,58.87,92.73,30.91,37.74,76.32,49,Average,38.58,Payal Das,Average,Excellent,Low Risk,No
+RN1047,59.05,82.05,34.21,66.04,76.32,48,Average,10.28,Alok Rao,Average,Excellent,Low Risk,No
+RN0463,59.06,88.37,25.64,77.36,63.16,48,Average,-14.2,Charu Gill,Average,Excellent,Low Risk,No
+RN0764,59.08,77.36,28.57,77.36,63.16,49,Average,-14.2,Rajat Choudhury,Average,Excellent,Low Risk,No
+RN0919,59.08,86.84,29.09,41.51,42.11,49,Average,0.6,Tejas Pillai,Average,Excellent,Low Risk,No
+RN1451,59.1,89.74,33.33,67.92,50.0,49,Average,-17.92,Tejas Sinha,Average,Excellent,Low Risk,No
+RN1070,59.11,80.39,31.91,46.81,47.37,44,Average,0.56,Sneha Nayak,Average,Excellent,Low Risk,No
+RN0670,59.12,82.93,28.07,60.38,63.16,49,Average,2.78,Sakshi Rai,Average,Excellent,Low Risk,No
+RN1369,59.13,90.38,25.53,75.47,36.84,49,Average,-38.63,Aadhya Mallya,Average,Good,Low Risk,No
+RN0297,59.17,88.89,28.21,55.32,60.53,47,Average,5.21,Ritu Patel,Average,Excellent,Low Risk,No
+RN1210,59.18,88.46,33.33,67.92,57.89,50,Average,-10.03,Tanya Choudhury,Average,Excellent,Low Risk,No
+RN0331,59.2,87.27,27.45,83.02,60.53,48,Average,-22.49,Juhi Grover,Average,Good,Low Risk,No
+RN0964,59.2,86.05,40.0,62.26,71.05,49,Average,8.79,Tarun Deshmukh,Average,Excellent,Low Risk,No
+RN1094,59.2,88.1,33.33,57.45,71.05,47,Average,13.61,Deepa Iyer,Average,Excellent,Low Risk,No
+RN0038,59.21,87.5,36.84,79.25,63.16,48,Average,-16.09,Chitra Sinha,Average,Excellent,Low Risk,No
+RN0577,59.21,85.42,27.27,60.38,47.37,48,Average,-13.01,Kiran Roy,Average,Excellent,Low Risk,No
+RN0396,59.22,84.21,25.64,51.06,84.21,46,Average,33.15,Mansi Shetty,Average,Excellent,Low Risk,No
+RN0874,59.23,92.73,33.96,73.58,52.63,46,Average,-20.95,Nikhil Hedge,Average,Excellent,Low Risk,No
+RN0003,59.24,90.24,37.21,49.06,50.0,48,Average,0.94,Sanjay Malhotra,Average,Excellent,Low Risk,No
+RN1243,59.25,87.18,28.21,79.25,52.63,50,Average,-26.61,Tejaswini Kamath,Average,Excellent,Low Risk,No
+RN1237,59.27,84.21,24.44,56.6,68.42,48,Average,11.82,Kavya Shetty,Average,Excellent,Low Risk,No
+RN1674,59.27,84.91,32.73,84.91,60.53,48,Average,-24.38,Suresh Bhat,Average,Excellent,Low Risk,No
+RN0865,59.29,90.91,25.53,56.6,60.53,47,Average,3.92,Arjun Jain,Average,Excellent,Low Risk,No
+RN0028,59.31,92.16,20.37,88.68,65.79,47,Average,-22.89,Sneha Kulkarni,Average,Good,Low Risk,No
+RN1643,59.33,87.5,35.19,67.92,63.16,46,Average,-4.77,Hina Pillai,Average,Excellent,Low Risk,No
+RN0901,59.42,87.5,27.5,47.17,77.36,46,Average,30.19,Anuj Dhillon,Average,Good,Low Risk,No
+RN1893,59.45,80.49,31.75,71.7,36.84,49,Average,-34.86,Manav Verma,Average,Excellent,Low Risk,No
+RN0544,59.48,95.08,32.65,62.26,60.53,47,Average,-1.74,Vivek Anand,Average,Excellent,Low Risk,No
+RN0522,59.52,86.05,28.57,69.81,68.42,47,Average,-1.39,Mansi Chatterjee,Average,Excellent,Low Risk,No
+RN1919,59.52,85.71,25.49,84.91,60.53,49,Average,-24.38,Mohit Shetty,Average,Excellent,Low Risk,No
+RN1483,59.55,86.84,28.21,60.38,63.16,46,Average,2.78,Satish Mehra,Average,Excellent,Low Risk,No
+RN1177,59.56,93.33,25.49,71.7,55.26,49,Average,-16.43,Chirag Jain,Average,Excellent,Low Risk,No
+RN0560,59.57,80.0,33.33,60.38,76.32,50,Average,15.94,Gauri Hedge,Average,Excellent,Low Risk,No
+RN1204,59.57,91.11,22.22,73.58,71.05,47,Average,-2.53,Gaurav Banerjee,Average,Excellent,Low Risk,No
+RN0457,59.64,81.58,23.81,60.38,81.58,49,Average,21.2,Saanvi Menon,Average,Excellent,Low Risk,No
+RN1436,59.64,84.44,23.4,69.81,52.63,47,Average,-17.18,Swati Sinha,Average,Excellent,Low Risk,No
+RN0090,59.67,84.75,23.4,81.13,52.63,48,Average,-28.5,Vikas Mukherjee,Average,Excellent,Low Risk,No
+RN0146,59.68,84.31,35.19,66.04,65.79,48,Average,-0.25,Swati Mehra,Average,Excellent,Low Risk,No
+RN0386,59.69,85.19,29.79,60.38,71.05,46,Average,10.68,Bhavna Reddy,Average,Excellent,Low Risk,No
+RN0682,59.69,93.02,30.91,66.04,60.53,48,Average,-5.51,Vidya Shenoy,Average,Excellent,Low Risk,No
+RN1239,59.7,88.89,35.29,73.58,47.37,46,Average,-26.22,Chandan Joshi,Average,Good,Low Risk,No
+RN0426,59.71,85.25,26.92,62.26,52.63,48,Average,-9.63,Riya Chatterjee,Average,Excellent,Low Risk,No
+RN0733,59.73,82.46,31.48,48.94,55.26,47,Average,6.33,Bhumika Verma,Average,Excellent,Low Risk,No
+RN1875,59.76,82.69,33.33,66.04,68.42,47,Average,2.38,Ankit Patel,Average,Excellent,Low Risk,No
+RN0477,59.77,85.25,40.43,52.83,57.89,49,Average,5.06,Vijay Anand,Average,Excellent,Low Risk,No
+RN1253,59.79,88.37,31.91,50.94,47.37,49,Average,-3.57,Vivek Dutta,Average,Excellent,Low Risk,No
+RN1567,59.79,85.11,25.64,71.7,55.26,47,Average,-16.43,Ganesh Alva,Average,Good,Low Risk,No
+RN0587,59.8,85.45,30.77,49.06,65.79,49,Average,16.73,Yashaswini Bhat,Average,Excellent,Low Risk,No
+RN0083,59.82,87.18,30.77,81.13,78.95,49,Average,-2.18,Shreya Rao,Average,Excellent,Low Risk,No
+RN1098,59.82,90.48,24.44,66.04,71.05,49,Average,5.01,Manoj Kapoor,Average,Excellent,Low Risk,No
+RN0979,59.83,91.8,36.17,50.94,52.63,48,Average,1.69,Nandini Murthy,Average,Excellent,Low Risk,No
+RN0117,59.84,88.89,25.64,60.38,81.58,47,Average,21.2,Zara Singh,Average,Excellent,Low Risk,No
+RN1159,59.85,90.7,28.57,86.79,52.63,48,Average,-34.16,Vaishnavi Nair,Average,Excellent,Low Risk,No
+RN1855,59.88,80.85,31.71,52.83,63.16,48,Average,10.33,Bhuvnesh Rai,Average,Excellent,Low Risk,No
+RN1532,59.89,89.29,30.77,69.81,42.11,50,Average,-27.71,Rashmi Reddy,Average,Excellent,Low Risk,No
+RN1783,59.89,84.62,28.89,64.15,76.32,49,Average,12.16,Neha Pai,Average,Excellent,Low Risk,No
+RN1046,59.9,84.44,25.45,66.04,78.95,47,Average,12.91,Malini Chawla,Average,Excellent,Low Risk,No
+RN0572,60.01,87.27,31.25,71.7,71.05,49,Average,-0.65,Deepa Shenoy,Average,Excellent,Low Risk,No
+RN0135,60.07,91.11,27.45,67.92,63.16,47,Average,-4.77,Aditya Pai,Average,Excellent,Low Risk,No
+RN0634,60.08,94.23,16.67,56.6,50.0,47,Average,-6.6,Prisha Chawla,Average,Excellent,Low Risk,No
+RN1817,60.08,86.84,28.26,66.04,55.26,47,Average,-10.77,Harini Verma,Average,Excellent,Low Risk,No
+RN0247,60.12,96.61,35.9,79.25,65.79,47,Average,-13.46,Rashmi Bhat,Average,Excellent,Low Risk,No
+RN1306,60.12,89.09,34.62,75.47,55.26,46,Average,-20.21,Yamini Mishra,Average,Excellent,Low Risk,No
+RN1953,60.13,86.44,22.22,83.02,31.58,49,Average,-51.44,Vikram Patel,Average,Excellent,Low Risk,No
+RN1151,60.14,96.15,25.93,66.04,65.79,48,Average,-0.25,Vivaan Das,Average,Excellent,Low Risk,No
+RN0423,60.17,87.23,25.49,62.26,71.05,48,Average,8.79,Vineet Kumar,Average,Excellent,Low Risk,No
+RN0708,60.19,90.74,28.57,79.25,36.84,48,Average,-42.4,Sakshi Mehra,Average,Excellent,Low Risk,No
+RN1744,60.19,80.36,38.46,62.26,68.42,47,Average,6.16,Yash Pillai,Average,Excellent,Low Risk,No
+RN1404,60.21,89.47,28.81,56.6,89.47,47,Average,32.87,Kajal Pillai,Average,Excellent,Low Risk,No
+RN1209,60.22,83.64,32.69,42.55,71.05,47,Average,28.5,Umesh Gill,Average,Excellent,Low Risk,No
+RN0337,60.24,89.09,23.81,64.15,68.42,49,Average,4.27,Uma Alva,Average,Excellent,Low Risk,No
+RN1539,60.25,88.24,30.43,69.81,60.53,49,Average,-9.29,Ankit Kamath,Average,Excellent,Low Risk,No
+RN0300,60.26,93.02,17.95,66.04,65.79,48,Average,-0.25,Suhas Mukherjee,Average,Excellent,Low Risk,No
+RN1889,60.27,83.72,36.36,50.94,71.05,48,Average,20.11,Vikram Bose,Average,Excellent,Low Risk,No
+RN1344,60.28,88.89,32.56,76.6,63.16,48,Average,-13.44,Barkha Khanna,Average,Excellent,Low Risk,No
+RN1379,60.28,86.05,23.08,66.04,47.37,48,Average,-18.67,Rajat Mukherjee,Average,Excellent,Low Risk,No
+RN1739,60.28,96.36,25.64,84.91,47.37,47,Average,-37.54,Abhishek Acharya,Average,Excellent,Low Risk,No
+RN0125,60.29,89.74,23.53,67.92,52.63,49,Average,-15.29,Lata Kulkarni,Average,Excellent,Low Risk,No
+RN0001,60.3,93.33,27.66,75.47,65.79,48,Average,-9.68,Divya Menon,Average,Excellent,Low Risk,No
+RN1410,60.3,94.87,26.42,81.13,55.26,49,Average,-25.87,Dilip Malhotra,Average,Excellent,Low Risk,No
+RN0429,60.31,85.96,23.53,43.4,78.95,48,Average,35.55,Lata Mehra,Average,Excellent,Low Risk,No
+RN0818,60.45,80.36,29.79,50.94,71.05,47,Average,20.11,Bhavna Sharma,Average,Excellent,Low Risk,No
+RN1387,60.5,88.37,27.78,53.19,63.16,47,Average,9.97,Sneha Pai,Average,Excellent,Low Risk,No
+RN1691,60.5,87.3,25.64,60.38,44.74,47,Average,-15.64,Poonam Acharya,Average,Excellent,Low Risk,No
+RN1718,60.5,95.56,33.33,58.49,71.05,47,Average,12.56,Diya Prasad,Average,Excellent,Low Risk,No
+RN0691,60.52,87.5,34.62,64.15,71.05,47,Average,6.9,Piyush Chawla,Average,Excellent,Low Risk,No
+RN1888,60.54,97.44,31.58,62.26,57.89,46,Average,-4.37,Neha Tiwari,Average,Excellent,Low Risk,No
+RN1234,60.56,92.31,38.6,60.38,78.95,43,Average,18.57,Amit Kamath,Average,Excellent,Low Risk,No
+RN1784,60.56,94.12,35.71,84.91,81.58,49,Average,-3.33,Vidya Roy,Average,Excellent,Low Risk,No
+RN0869,60.58,82.14,35.09,73.58,57.89,48,Average,-15.69,Aditi Mehta,Average,Excellent,Low Risk,No
+RN0119,60.63,86.67,25.0,64.15,78.95,46,Average,14.8,Manoj Murthy,Average,Excellent,Low Risk,No
+RN0674,60.64,90.38,25.64,45.28,73.68,49,Average,28.4,Lokesh Menon,Average,Excellent,Low Risk,No
+RN0961,60.64,95.35,25.64,62.26,52.63,49,Average,-9.63,Varun Malhotra,Average,Excellent,Low Risk,No
+RN1986,60.65,87.3,35.56,64.15,65.79,48,Average,1.64,Kriti Nayak,Average,Excellent,Low Risk,No
+RN0838,60.71,85.37,31.91,66.04,63.16,50,Average,-2.88,Kavya Nair,Average,Excellent,Low Risk,No
+RN0570,60.73,86.67,25.93,64.15,42.11,48,Average,-22.05,Chitra Reddy,Average,Excellent,Low Risk,No
+RN1179,60.75,92.31,32.69,86.79,57.89,49,Average,-28.9,Zara Dhillon,Average,Excellent,Low Risk,No
+RN1582,60.76,94.23,35.9,60.38,63.16,50,Average,2.78,Harini Nayak,Average,Excellent,Low Risk,No
+RN0264,60.77,95.35,29.41,62.26,78.95,49,Average,16.68,Inder Pillai,Average,Excellent,Low Risk,No
+RN0607,60.77,93.62,28.89,64.15,89.47,48,Average,25.32,Bhavna Prabhu,Average,Excellent,Low Risk,No
+RN0131,60.8,91.11,28.26,73.58,55.26,47,Average,-18.32,Vivek Mehra,Average,Excellent,Low Risk,No
+RN0016,60.82,88.89,39.22,69.81,55.26,50,Average,-14.55,Ananya Pai,Average,Excellent,Low Risk,No
+RN1625,60.82,93.75,30.77,64.15,65.79,50,Average,1.64,Divya Pai,Average,Excellent,Low Risk,No
+RN1683,60.86,90.7,25.49,39.62,68.42,48,Average,28.8,Sandeep Naik,Average,Excellent,Low Risk,No
+RN1230,60.88,88.89,28.21,73.58,63.16,49,Average,-10.43,Anuj Iyer,Average,Excellent,Low Risk,No
+RN0590,60.92,93.02,38.3,69.81,55.26,50,Average,-14.55,Mehak Choudhury,Average,Excellent,Low Risk,No
+RN0014,60.94,90.57,33.33,69.81,63.16,47,Average,-6.65,Suman Iyer,Average,Excellent,Low Risk,No
+RN1685,60.94,85.45,29.63,32.08,73.68,49,Average,41.61,Rohan Murthy,Average,Excellent,Low Risk,No
+RN0662,60.95,84.78,38.3,64.15,60.53,49,Average,-3.62,UrVashi Gill,Average,Excellent,Low Risk,No
+RN1945,60.95,89.74,24.07,66.04,55.26,50,Average,-10.77,Nandini Grover,Average,Excellent,Low Risk,No
+RN1198,60.96,90.48,39.53,69.81,57.89,47,Average,-11.92,Rahul Kulkarni,Average,Excellent,Low Risk,No
+RN0376,60.97,84.62,26.92,60.38,58.49,47,Average,-1.89,Anjali Kamath,Average,Excellent,Low Risk,No
+RN1884,61.0,88.37,34.04,64.15,60.53,49,Average,-3.62,Prisha Verma,Average,Excellent,Low Risk,No
+RN1003,61.05,87.23,36.84,45.28,36.84,50,Average,-8.44,Manoj Hegde,Average,Excellent,Low Risk,No
+RN0496,61.07,84.62,41.46,56.6,63.16,48,Average,6.55,Gauri Deshmukh,Average,Excellent,Low Risk,No
+RN1245,61.07,92.16,20.0,67.92,47.37,46,Average,-20.56,Alka Chawla,Average,Excellent,Low Risk,No
+RN0178,61.08,95.08,36.17,60.38,36.84,49,Average,-23.54,Heena Gowda,Average,Excellent,Low Risk,No
+RN1965,61.08,79.55,25.93,79.25,68.42,50,Average,-10.82,Utkarsh Pandey,Average,Excellent,Low Risk,No
+RN1542,61.09,84.09,26.19,79.25,60.53,50,Average,-18.72,Sneha Gowda,Average,Excellent,Low Risk,No
+RN1719,61.1,92.31,25.42,71.7,57.89,50,Average,-13.8,Ipshita Acharya,Average,Excellent,Low Risk,No
+RN0410,61.18,92.16,25.64,62.26,60.53,46,Average,-1.74,Yashaswini Prabhu,Average,Excellent,Low Risk,No
+RN0955,61.19,83.61,33.33,52.83,42.11,47,Average,-10.72,Tejas Kamath,Average,Excellent,Low Risk,No
+RN0106,61.2,86.67,40.0,62.26,47.37,46,Average,-14.9,Girish Nayak,Average,Excellent,Low Risk,No
+RN1193,61.29,90.48,27.66,73.58,76.32,46,Average,2.73,Varun Banerjee,Average,Excellent,Low Risk,No
+RN1510,61.34,91.23,27.27,62.26,50.0,49,Average,-12.26,Sneha Hegde,Average,Excellent,Low Risk,No
+RN1102,61.37,84.62,23.64,61.7,68.42,46,Average,6.72,Anjali Shenoy,Average,Excellent,Low Risk,No
+RN0466,61.41,93.33,24.07,63.83,73.68,47,Average,9.85,Vijay Naik,Average,Excellent,Low Risk,No
+RN1680,61.42,84.62,32.79,55.32,78.95,49,Average,23.63,Tanvi Pillai,Average,Excellent,Low Risk,No
+RN1900,61.42,88.52,37.04,77.36,71.05,49,Average,-6.31,Manish Rai,Average,Excellent,Low Risk,No
+RN1897,61.46,86.67,28.21,81.13,49.06,49,Average,-32.08,Om Nair,Average,Excellent,Low Risk,No
+RN1671,61.48,91.67,27.66,71.7,86.84,50,Average,15.14,Aditi Patel,Average,Excellent,Low Risk,No
+RN0807,61.5,86.05,31.91,66.04,55.26,44,Average,-10.77,Nandini Reddy,Average,Excellent,Low Risk,No
+RN0790,61.54,86.05,18.18,67.92,42.11,48,Average,-25.82,Monika Nayak,Average,Excellent,Low Risk,No
+RN1538,61.54,90.7,27.66,58.49,50.0,50,Average,-8.49,Vijay Alva,Average,Excellent,Low Risk,No
+RN0101,61.62,84.44,33.33,81.13,57.89,49,Average,-23.24,Tejas Sodhi,Average,Excellent,Low Risk,No
+RN0829,61.62,95.56,26.42,75.47,55.26,49,Average,-20.21,Ipshita Khanna,Average,Excellent,Low Risk,No
+RN1993,61.63,83.33,21.82,67.92,76.32,49,Average,8.39,Tushar Rao,Average,Excellent,Low Risk,No
+RN1150,61.64,88.89,30.43,39.62,73.68,47,Average,34.06,Saanvi Choudhury,Average,Excellent,Low Risk,No
+RN1351,61.67,92.45,35.56,67.92,65.79,47,Average,-2.14,Juhi Murthy,Average,Excellent,Low Risk,No
+RN1488,61.69,86.67,36.36,43.4,52.63,48,Average,9.24,Aditi Reddy,Average,Excellent,Low Risk,No
+RN0745,61.74,91.11,35.71,58.49,76.32,48,Average,17.83,Ishaan Bose,Average,Excellent,Low Risk,No
+RN0505,61.82,90.57,36.73,90.57,71.05,48,Average,-19.51,Suman Malhotra,Average,Excellent,Low Risk,No
+RN0605,61.82,89.83,38.3,77.36,78.95,50,Average,1.59,Jyothi Khanna,Average,Excellent,Low Risk,No
+RN0183,61.84,93.02,27.66,60.38,76.32,47,Average,15.94,Hina Murthy,Average,Excellent,Low Risk,No
+RN0706,61.87,89.09,25.0,64.15,55.26,49,Average,-8.89,Aanchal Malhotra,Average,Excellent,Low Risk,No
+RN1962,61.88,90.74,37.25,73.58,68.42,48,Average,-5.16,Arunima Alva,Average,Excellent,Low Risk,No
+RN1478,61.89,88.68,38.89,69.81,88.68,48,Average,18.87,Vikram Anand,Average,Excellent,Low Risk,No
+RN0080,61.9,87.18,35.29,69.81,63.16,48,Average,-6.65,Riya Sharma,Average,Excellent,Low Risk,No
+RN1371,61.99,84.44,31.58,67.92,63.16,50,Average,-4.77,Yashaswini Chawla,Average,Excellent,Low Risk,No
+RN1775,62.0,88.89,33.33,86.79,55.26,46,Average,-31.53,Charu Sinha,Average,Excellent,Low Risk,No
+RN1920,62.08,90.57,20.51,90.57,65.79,49,Average,-24.78,Isha Kumar,Average,Excellent,Low Risk,No
+RN1370,62.1,85.42,23.53,60.38,63.16,48,Average,2.78,Pranav Rao,Average,Excellent,Low Risk,No
+RN0958,62.15,87.18,29.09,60.38,57.89,47,Average,-2.48,Swati Dhillon,Average,Excellent,Low Risk,No
+RN1078,62.15,87.04,23.53,58.49,47.37,48,Average,-11.12,Manish Acharya,Average,Excellent,Low Risk,No
+RN1303,62.15,88.68,35.19,88.68,52.83,47,Average,-35.85,Himanshu Patel,Average,Excellent,Low Risk,No
+RN1051,62.17,93.48,33.33,67.92,73.68,48,Average,5.76,Hina Sen,Average,Excellent,Low Risk,No
+RN0471,62.19,88.68,29.79,88.68,65.79,45,Average,-22.89,Meera Kapoor,Average,Excellent,Low Risk,No
+RN1622,62.31,86.67,20.63,58.49,73.68,47,Average,15.19,Dev Pandey,Average,Excellent,Low Risk,No
+RN1801,62.33,87.8,26.32,69.81,63.16,50,Average,-6.65,UrVashi Hedge,Average,Excellent,Low Risk,No
+RN0082,62.38,95.35,23.53,62.26,44.74,48,Average,-17.53,Varun Kulkarni,Average,Excellent,Low Risk,No
+RN0914,62.41,91.8,23.08,67.92,84.21,49,Average,16.29,Tanvi Shetty,Average,Excellent,Low Risk,No
+RN0452,62.42,81.82,30.19,60.38,68.42,47,Average,8.04,Dilip Dhillon,Average,Excellent,Low Risk,No
+RN0053,62.43,90.74,40.38,71.7,50.0,48,Average,-21.7,Sakshi Mallya,Average,Excellent,Low Risk,No
+RN1714,62.49,90.91,30.95,64.15,63.16,49,Average,-0.99,Yashaswini Mehta,Average,Excellent,Low Risk,No
+RN0861,62.5,93.22,15.38,64.15,68.42,50,Average,4.27,Aadhya Tiwari,Average,Excellent,Low Risk,No
+RN0294,62.51,88.64,27.5,69.81,68.42,49,Average,-1.39,Charu Bose,Average,Excellent,Low Risk,No
+RN1845,62.54,93.02,35.29,64.15,71.05,50,Average,6.9,Malini Naik,Average,Excellent,Low Risk,No
+RN0650,62.57,90.91,29.63,81.13,65.79,50,Average,-15.34,Mansi Das,Average,Excellent,Low Risk,No
+RN1786,62.62,91.11,24.07,64.15,76.32,49,Average,12.16,Gauri Iyer,Average,Excellent,Low Risk,No
+RN1902,62.74,86.05,33.33,79.25,50.0,50,Average,-29.25,Nitish Naik,Average,Excellent,Low Risk,No
+RN1037,62.76,82.22,35.9,60.38,52.63,50,Average,-7.75,Chitra Nair,Average,Excellent,Low Risk,No
+RN0107,62.8,88.89,26.42,73.58,68.42,46,Average,-5.16,Chirag Kapoor,Average,Excellent,Low Risk,No
+RN0877,62.93,93.62,28.21,62.26,81.58,47,Average,19.31,Gauri Pradhan,Average,Excellent,Low Risk,No
+RN1422,62.98,91.8,27.27,79.25,76.32,47,Average,-2.93,Pradeep Sharma,Average,Excellent,Low Risk,No
+RN1524,63.0,90.7,37.74,71.7,63.16,49,Average,-8.54,Vaishnavi Choudhury,Average,Excellent,Low Risk,No
+RN1883,63.07,89.74,40.74,84.91,57.89,50,Average,-27.01,Indu Shenoy,Average,Excellent,Low Risk,No
+RN1847,63.13,90.91,35.9,62.26,65.79,49,Average,3.53,Jatin Menon,Average,Excellent,Low Risk,No
+RN0454,63.27,86.67,28.21,54.72,60.53,47,Average,5.81,Sneha Chawla,Average,Excellent,Low Risk,No
+RN1016,63.37,90.91,35.19,66.04,71.7,47,Average,5.66,Satish Kulkarni,Average,Excellent,Low Risk,No
+RN0269,63.5,90.2,34.04,70.21,73.68,49,Average,3.47,Nandini Alva,Good,Average,Low Risk,No
+RN1580,63.53,88.89,39.29,62.26,71.05,50,Average,8.79,Riya Das,Average,Excellent,Low Risk,No
+RN0151,63.57,88.89,19.61,60.38,71.05,48,Average,10.68,Karan Joshi,Average,Excellent,Low Risk,No
+RN0467,63.73,88.64,31.58,54.72,60.53,47,Average,5.81,Riya Naik,Average,Excellent,Low Risk,No
+RN0259,63.75,84.62,35.0,73.58,68.42,48,Average,-5.16,Kamal Murthy,Good,Average,Low Risk,No
+RN0907,63.83,93.62,41.07,84.91,71.05,49,Average,-13.85,Chandan Mehra,Average,Excellent,Low Risk,No
+RN0305,63.87,90.57,34.78,90.57,63.16,48,Average,-27.41,Dev Tiwari,Average,Excellent,Low Risk,No
+RN1551,63.91,86.89,17.95,81.13,47.37,49,Average,-33.76,Kajal Menon,Average,Excellent,Low Risk,No
+RN0392,63.98,85.71,34.09,64.15,52.63,48,Average,-11.52,Tanvi Anand,Good,Average,Low Risk,No
+RN0501,64.0,90.7,34.04,66.04,52.63,49,Average,-13.41,Kajal Rao,Good,Average,Low Risk,No
+RN0912,64.17,89.74,32.61,66.04,73.68,47,Average,7.65,Sneha Mishra,Good,Average,Low Risk,No
+RN0052,64.46,95.56,40.74,54.72,68.42,49,Average,13.7,Pallavi Mehra,Good,Average,Low Risk,No
+RN0504,64.47,93.02,32.69,54.72,89.47,48,Average,34.76,Arjun Sinha,Good,Average,Low Risk,No
+RN0962,64.55,86.36,37.5,56.6,71.05,50,Average,14.45,Kavya Malhotra,Good,Average,Low Risk,No
+RN0934,64.57,95.35,21.28,83.02,63.16,50,Average,-19.86,Komal Dhillon,Good,Average,Low Risk,No
+RN1812,64.62,94.23,36.36,64.15,76.32,46,Average,12.16,Radhika Hegde,Good,Average,Low Risk,No
+RN1435,64.73,94.34,35.0,94.34,71.05,48,Average,-23.29,Sakshi Shenoy,Average,Excellent,Low Risk,No
+RN1747,65.22,86.27,36.17,62.26,76.32,49,Average,14.05,Sunil Bhat,Good,Average,Low Risk,No
+RN1837,65.67,93.02,28.85,67.92,57.89,45,Average,-10.03,Sanjay Singh,Good,Average,Low Risk,No
+RN0753,65.8,92.31,35.9,77.36,73.68,48,Average,-3.67,Garima Sinha,Good,Average,Low Risk,No
+RN0784,65.85,91.11,33.33,88.68,62.26,46,Average,-26.42,Gayatri Mehta,Good,Average,Low Risk,No
+RN0483,65.93,100.0,31.37,75.47,65.79,47,Average,-9.68,Alka Kapoor,Good,Average,Low Risk,No
+RN0089,66.01,90.24,41.18,60.38,76.32,47,Average,15.94,Nidhi Rao,Good,Average,Low Risk,No
+RN0172,66.18,91.11,40.74,86.79,60.53,50,Average,-26.27,Ishaan Mishra,Good,Average,Low Risk,No
+RN0341,66.26,95.35,31.82,86.79,68.42,48,Average,-18.37,Naveen Singh,Good,Average,Low Risk,No
+RN0782,66.51,87.18,39.22,71.7,65.79,49,Average,-5.91,Barkha Joshi,Good,Average,Low Risk,No
+RN1273,66.61,100.0,36.36,54.72,73.68,49,Average,18.97,Neha Ray,Good,Average,Low Risk,No
+RN0453,66.71,98.11,41.82,98.11,76.32,45,Average,-21.8,Rajesh Gill,Good,Average,Low Risk,No
+RN1586,67.08,92.73,31.37,75.47,65.79,48,Average,-9.68,Akash Pillai,Good,Average,Low Risk,No
+RN1479,67.13,93.62,24.44,67.92,81.58,49,Average,13.65,Himanshu Reddy,Good,Average,Low Risk,No
+RN1228,67.2,95.83,37.5,79.25,81.58,49,Average,2.33,Vikas Hegde,Good,Average,Low Risk,No
+RN1682,67.2,93.62,34.43,66.04,71.05,47,Average,5.01,Kapil Anand,Good,Average,Low Risk,No
+RN1108,67.21,88.89,40.0,75.47,81.58,47,Average,6.11,Tushar Chawla,Good,Average,Low Risk,No
+RN0174,67.23,98.25,38.1,71.7,86.84,49,Average,15.14,Jyothi Sharma,Good,Average,Low Risk,No
+RN1633,67.26,97.67,41.03,67.92,65.79,46,Average,-2.14,Sakshi Kapoor,Good,Average,Low Risk,No
+RN0512,67.39,87.23,23.4,66.04,84.21,49,Average,18.17,Rohan Kamath,Good,Average,Low Risk,No
+RN0132,67.47,94.87,48.08,88.68,81.58,50,Average,-7.1,Divya Khanna,Good,Average,Low Risk,No
+RN1401,67.56,95.56,25.45,83.02,76.32,48,Average,-6.7,Vikram Pillai,Good,Average,Low Risk,No
+RN0317,67.6,96.23,39.29,69.81,84.21,50,Average,14.4,Yash Prasad,Good,Average,Low Risk,No
+RN0843,67.63,100.0,33.33,64.15,65.79,47,Average,1.64,Heena Rai,Good,Average,Low Risk,No
+RN1926,67.68,92.86,38.1,73.58,84.21,49,Average,10.63,Anita Pandey,Good,Average,Low Risk,No
+RN0369,67.74,88.68,38.1,83.02,73.68,45,Average,-9.33,Drishti Anand,Good,Average,Low Risk,No
+RN1704,67.75,91.49,28.21,88.68,76.32,47,Average,-12.36,Anita Sodhi,Good,Average,Low Risk,No
+RN1931,67.75,95.56,42.55,83.02,60.53,46,Average,-22.49,Kunwar Menon,Good,Good,Low Risk,No
+RN1141,67.77,86.67,47.17,47.17,57.89,48,Average,10.72,Vijay Mallya,Good,Average,Low Risk,No
+RN1168,68.14,94.34,40.43,71.7,73.68,49,Average,1.99,Chetan Alva,Good,Average,Low Risk,No
+RN0096,68.21,97.67,35.56,71.7,55.26,47,Average,-16.43,Gayatri Prabhu,Good,Average,Low Risk,No
+RN1039,68.23,97.92,39.53,71.7,68.42,49,Average,-3.28,Aanya Gupta,Good,Average,Low Risk,No
+RN0858,68.29,92.98,30.91,81.13,63.16,48,Average,-17.97,Tarun Rao,Good,Average,Low Risk,No
+RN0451,68.3,100.0,45.83,75.47,86.84,49,Average,11.37,Vikas Jain,Good,Good,Low Risk,No
+RN0110,68.37,88.24,40.74,69.81,78.95,48,Average,9.14,Kunwar Bose,Good,Average,Low Risk,No
+RN0800,68.38,92.31,35.56,77.36,73.68,48,Average,-3.67,Uma Deshmukh,Good,Average,Low Risk,No
+RN1881,68.72,95.92,40.0,75.47,78.95,48,Average,3.48,Indu Kamath,Good,Average,Low Risk,No
+RN0526,68.74,86.67,42.5,75.47,78.95,48,Average,3.48,Aditi Hedge,Good,Good,Low Risk,No
+RN1394,68.74,97.67,23.91,79.25,63.16,48,Average,-16.09,Isha Shetty,Good,Average,Low Risk,No
+RN0450,68.76,95.56,42.86,75.47,65.79,46,Average,-9.68,Arunima Pai,Good,Average,Low Risk,No
+RN1442,68.76,91.49,25.64,84.91,73.68,46,Average,-11.22,Heena Mehra,Good,Average,Low Risk,No
+RN1190,68.8,94.12,33.33,62.26,89.47,46,Average,27.21,Ritu Pillai,Good,Good,Low Risk,No
+RN0268,68.84,88.89,31.37,71.7,84.21,48,Average,12.51,UrVashi Grover,Good,Average,Low Risk,No
+RN1573,68.85,95.56,21.82,59.57,63.16,48,Average,3.58,Dinesh Singh,Good,Average,Low Risk,No
+RN1976,68.99,100.0,17.95,75.47,63.16,48,Average,-12.31,Vandana Das,Good,Average,Low Risk,No
+RN1681,69.05,100.0,40.0,69.81,78.95,49,Average,9.14,Diya Alva,Good,Average,Low Risk,No
+RN1419,69.08,90.2,38.46,77.36,71.05,49,Average,-6.31,Sakshi Bose,Good,Good,Low Risk,No
+RN0081,69.09,93.33,44.23,79.25,68.42,47,Average,-10.82,Arunima Sen,Good,Good,Low Risk,No
+RN0608,69.11,86.89,33.33,60.38,71.05,48,Average,10.68,Aanchal Shetty,Good,Average,Low Risk,No
+RN1403,69.13,89.36,36.73,62.26,68.42,49,Average,6.16,Khushi Shetty,Good,Good,Low Risk,No
+RN1632,69.16,95.56,39.29,73.58,73.68,46,Average,0.1,Pari Shenoy,Good,Average,Low Risk,No
+RN0118,69.18,93.02,38.64,77.36,76.32,49,Average,-1.04,Himanshu Ray,Good,Good,Low Risk,No
+RN1706,69.2,96.36,28.21,69.81,86.84,47,Average,17.03,Zara Acharya,Good,Good,Low Risk,No
+RN1780,69.2,97.78,43.14,71.7,73.68,49,Average,1.99,Ojaswini Tiwari,Good,Good,Low Risk,No
+RN0690,69.28,96.49,48.72,64.15,81.58,48,Average,17.43,Nitish Reddy,Good,Average,Low Risk,No
+RN1332,69.29,93.75,35.19,75.47,78.95,47,Average,3.48,Kriti Murthy,Good,Good,Low Risk,No
+RN1217,69.3,93.62,41.03,86.79,86.84,46,Average,0.05,Bhavna Singh,Good,Good,Low Risk,No
+RN1354,69.31,97.62,43.59,86.79,65.79,49,Average,-21.0,Inder Mishra,Good,Average,Low Risk,No
+RN0129,69.36,91.49,38.46,64.15,73.68,48,Average,9.53,Ishita Prasad,Good,Good,Low Risk,No
+RN1247,69.38,96.36,35.19,75.47,81.13,46,Average,5.66,Aanya Kumar,Good,Average,Low Risk,No
+RN0428,69.4,93.22,39.29,90.57,60.53,50,Average,-30.04,Shreya Shetty,Good,Good,Low Risk,No
+RN1851,69.42,91.11,50.0,88.68,72.13,47,Average,-16.55,Vidya Dhillon,Good,Average,Low Risk,No
+RN1465,69.44,94.87,31.58,81.13,68.42,49,Average,-12.71,Piyush Mehra,Good,Good,Low Risk,No
+RN1460,69.49,93.18,31.82,83.02,71.05,47,Average,-11.97,Dev Malhotra,Good,Average,Low Risk,No
+RN1987,69.5,96.23,40.43,96.23,78.95,49,Average,-17.28,Sanjay Khanna,Good,Good,Low Risk,No
+RN0624,69.55,96.72,43.4,43.4,78.95,48,Average,35.55,Yash Iyer,Good,Average,Low Risk,No
+RN1058,69.55,91.8,15.0,73.58,57.89,49,Average,-15.69,Mehak Kulkarni,Good,Average,Low Risk,No
+RN1684,69.58,94.34,40.74,94.34,73.68,48,Average,-20.66,Ramya_M Pradhan,Good,Good,Low Risk,No
+RN0033,69.78,93.33,41.18,79.25,76.32,48,Average,-2.93,Gauri Sen,Good,Average,Low Risk,No
+RN1940,69.8,93.33,38.46,67.92,71.7,46,Average,3.77,Vivek Hegde,Good,Average,Low Risk,No
+RN1206,69.86,95.45,35.29,79.25,73.68,49,Average,-5.56,Charu Gupta,Good,Average,Low Risk,No
+RN0537,69.9,91.11,33.33,86.79,65.79,47,Average,-21.0,Uma Bose,Good,Good,Low Risk,No
+RN1975,69.9,96.23,37.25,96.23,78.95,48,Average,-17.28,Bhavna Choudhury,Good,Average,Low Risk,No
+RN0896,69.91,97.87,30.77,84.91,47.37,49,Average,-37.54,Manoj Pillai,Good,Average,Low Risk,No
+RN1409,69.93,95.56,37.5,77.36,86.84,49,Average,9.48,Amita Rao,Good,Good,Low Risk,No
+RN0888,69.94,97.87,31.48,75.47,57.89,48,Average,-17.58,Vidya Gill,Good,Good,Low Risk,No
+RN0594,69.95,92.06,45.45,64.15,65.79,49,Average,1.64,Swati Bhat,Good,Average,Low Risk,No
+RN1049,69.96,100.0,38.46,77.36,75.47,46,Average,-1.89,Abhishek Menon,Good,Average,Low Risk,No
+RN1115,70.03,93.33,39.47,92.45,76.32,48,High Performer,-16.14,Barkha Bhat,Good,Average,Low Risk,No
+RN1265,70.07,95.35,34.21,92.45,71.05,47,High Performer,-21.4,Sachin Patel,Good,Average,Low Risk,No
+RN1142,70.13,94.34,29.41,94.34,47.37,49,High Performer,-46.97,Deepak Mehra,Good,Average,Low Risk,No
+RN1493,70.3,97.73,28.95,64.15,81.58,49,High Performer,17.43,Rohan Sinha,Good,Good,Low Risk,No
+RN0375,70.31,93.33,42.59,79.25,86.84,46,High Performer,7.6,Komal Pillai,Good,Good,Low Risk,No
+RN1802,70.32,90.7,37.21,66.04,76.32,47,High Performer,10.28,Kriti Rao,Good,Good,Low Risk,No
+RN1117,70.34,95.56,44.44,84.91,65.79,50,High Performer,-19.12,Nidhi Singh,Good,Average,Low Risk,No
+RN1215,70.4,93.02,44.44,64.15,71.05,46,High Performer,6.9,Pranav Pillai,Good,Good,Low Risk,No
+RN1029,70.44,100.0,33.33,92.45,100.0,48,High Performer,7.55,Vivaan Bose,Good,Average,Low Risk,No
+RN1702,70.44,98.04,36.84,77.36,84.21,48,High Performer,6.85,Zara Tiwari,Good,Good,Low Risk,No
+RN1324,70.48,95.12,44.07,73.58,71.05,50,High Performer,-2.53,Himanshu Mehta,Good,Good,Low Risk,No
+RN1664,70.5,100.0,39.53,73.58,71.05,48,High Performer,-2.53,Varun Hedge,Good,Average,Low Risk,No
+RN1824,70.53,92.11,40.74,88.68,92.11,49,High Performer,3.43,Inder Verma,Good,Good,Low Risk,No
+RN0209,70.57,96.36,49.06,79.25,49.06,47,High Performer,-30.19,Anita Khanna,Good,Average,Low Risk,No
+RN0678,70.57,90.38,48.94,84.91,68.42,49,High Performer,-16.48,Girish Murthy,Good,Average,Low Risk,No
+RN0597,70.6,96.36,32.56,69.81,81.58,50,High Performer,11.77,Ishita Pandey,Good,Good,Low Risk,No
+RN1536,70.69,95.12,33.9,83.02,84.21,48,High Performer,1.19,Mehak Prabhu,Good,Good,Low Risk,No
+RN1946,70.71,93.75,42.59,81.13,78.95,49,High Performer,-2.18,Abha Nayak,Good,Good,Low Risk,No
+RN0461,70.72,92.31,43.59,88.68,78.95,48,High Performer,-9.73,Rohan Prabhu,Good,Good,Low Risk,No
+RN1791,70.72,97.44,39.47,69.81,73.68,44,High Performer,3.87,Prisha Mehta,Good,Good,Low Risk,No
+RN1779,70.76,93.02,38.98,69.81,84.21,49,High Performer,14.4,Tushar Bose,Good,Good,Low Risk,No
+RN0968,70.77,89.74,39.47,79.25,63.16,46,High Performer,-16.09,Vidya Deshmukh,Good,Good,Low Risk,No
+RN1960,70.82,97.78,40.74,92.45,68.42,50,High Performer,-24.03,Vijay Roy,Good,Good,Low Risk,No
+RN1169,70.86,100.0,40.43,62.26,94.74,46,High Performer,32.47,Gauri Alva,Good,Good,Low Risk,No
+RN1981,70.86,92.11,42.5,88.68,92.11,46,High Performer,3.43,Om Banerjee,Good,Good,Low Risk,No
+RN0438,70.93,93.33,41.82,77.36,60.53,47,High Performer,-16.83,Chitra Kumar,Good,Good,Low Risk,No
+RN0730,71.01,98.18,27.27,75.47,66.04,48,High Performer,-9.43,Kajal Dhillon,Good,Good,Low Risk,No
+RN1655,71.01,91.11,46.81,84.91,84.21,47,High Performer,-0.7,Rashmi Singh,Good,Average,Low Risk,No
+RN0352,71.03,93.18,48.15,64.15,81.58,48,High Performer,17.43,Kamal Gupta,Good,Good,Low Risk,No
+RN0669,71.03,91.84,46.15,81.13,52.83,46,High Performer,-28.3,Dhruv Mehta,Good,Good,Low Risk,No
+RN1232,71.06,96.72,50.0,69.81,63.16,47,High Performer,-6.65,Diya Kulkarni,Good,Good,Low Risk,No
+RN0046,71.07,93.75,48.72,66.04,73.68,49,High Performer,7.65,Vidya Rai,Good,Good,Low Risk,No
+RN1254,71.11,97.92,44.44,62.26,86.84,49,High Performer,24.58,Ankit Mukherjee,Good,Good,Low Risk,No
+RN0295,71.12,95.24,38.46,70.21,64.15,47,High Performer,-6.06,Shreya Bose,Good,Good,Low Risk,No
+RN0406,71.13,94.44,47.27,75.47,92.11,49,High Performer,16.63,Chirag Shenoy,Good,Good,Low Risk,No
+RN0153,71.2,100.0,26.67,79.25,81.58,48,High Performer,2.33,Vidya Chawla,Good,Good,Low Risk,No
+RN1496,71.2,92.73,47.62,92.45,65.79,50,High Performer,-26.66,Isha Pillai,Good,Average,Low Risk,No
+RN0252,71.24,94.87,33.33,69.81,76.32,49,High Performer,6.5,Barkha Murthy,Good,Average,Low Risk,No
+RN0887,71.25,93.75,43.59,88.68,78.95,50,High Performer,-9.73,Diya Patel,Good,Good,Low Risk,No
+RN1437,71.25,95.45,45.0,86.79,73.68,48,High Performer,-13.11,Vineet Chawla,Good,Good,Low Risk,No
+RN0756,71.3,98.25,32.5,77.36,76.32,49,High Performer,-1.04,Piyush Shenoy,Good,Good,Low Risk,No
+RN0848,71.31,98.36,27.66,52.83,68.42,49,High Performer,15.59,Divya Murthy,Good,Average,Low Risk,No
+RN1874,71.31,90.91,39.47,64.15,78.95,50,High Performer,14.8,Nitish Alva,Good,Good,Low Risk,No
+RN0588,71.32,93.33,41.18,92.45,78.95,49,High Performer,-13.51,Vikram Gupta,Good,Good,Low Risk,No
+RN0707,71.38,91.49,42.59,75.47,84.21,47,High Performer,8.74,Suresh Kulkarni,Good,Good,Low Risk,No
+RN1798,71.39,96.15,38.46,73.58,68.42,44,High Performer,-5.16,Tarun Mehta,Good,Good,Low Risk,No
+RN0714,71.45,96.49,46.67,83.02,75.47,49,High Performer,-7.55,Naveen Dhillon,Good,Good,Low Risk,No
+RN0045,71.46,97.62,47.73,70.21,84.21,47,High Performer,14.0,Harini Mishra,Good,Good,Low Risk,No
+RN1125,71.5,94.64,38.89,75.47,78.95,49,High Performer,3.48,Chirag Nayak,Good,Good,Low Risk,No
+RN0037,71.59,94.55,48.94,79.25,86.84,47,High Performer,7.6,Nidhi Banerjee,Good,Good,Low Risk,No
+RN1214,71.6,97.67,35.0,67.92,78.95,48,High Performer,11.02,Ramya_M Hedge,Good,Good,Low Risk,No
+RN0019,71.62,95.56,33.33,88.68,76.32,49,High Performer,-12.36,Ankit Malhotra,Good,Good,Low Risk,No
+RN1876,71.65,100.0,35.0,77.36,86.84,50,High Performer,9.48,Anita Pillai,Good,Average,Low Risk,No
+RN1520,71.68,95.45,39.22,86.79,73.68,50,High Performer,-13.11,Alok Pradhan,Good,Average,Low Risk,No
+RN1831,71.72,95.0,38.1,86.79,68.42,46,High Performer,-18.37,Brijesh Sodhi,Good,Good,Low Risk,No
+RN0332,71.73,95.83,44.44,77.36,86.84,47,High Performer,9.48,Jatin Hegde,Good,Average,Low Risk,No
+RN1358,71.78,95.35,34.09,86.79,84.21,49,High Performer,-2.58,Aanchal Jain,Good,Good,Low Risk,No
+RN0336,71.82,95.45,44.74,88.68,78.95,49,High Performer,-9.73,Arjun Bose,Good,Good,Low Risk,No
+RN0680,71.83,98.18,41.18,77.36,86.84,49,High Performer,9.48,Mayank Patel,Good,Good,Low Risk,No
+RN1418,71.85,91.23,50.0,60.38,71.05,48,High Performer,10.68,Manoj Pai,Good,Good,Low Risk,No
+RN1040,71.87,97.78,41.03,83.02,84.21,50,High Performer,1.19,Riya Kulkarni,Good,Good,Low Risk,No
+RN1941,71.92,94.74,41.03,88.68,94.74,48,High Performer,6.06,Rajesh Gupta,Good,Average,Low Risk,No
+RN0048,71.97,95.24,40.0,79.25,63.16,50,High Performer,-16.09,Monika Gill,Good,Good,Low Risk,No
+RN0102,71.97,92.73,49.02,71.7,65.79,49,High Performer,-5.91,Himanshu Hedge,Good,Good,Low Risk,No
+RN0692,72.02,95.12,35.9,67.92,81.58,48,High Performer,13.65,Neha Sen,Good,Good,Low Risk,No
+RN0565,72.07,100.0,45.1,88.68,76.32,46,High Performer,-12.36,UrVashi Pillai,Good,Good,Low Risk,No
+RN0187,72.09,96.08,44.44,69.81,94.74,48,High Performer,24.93,Yash Mallya,Good,Good,Low Risk,No
+RN0148,72.11,94.74,33.33,90.57,76.32,47,High Performer,-14.25,Lakshmi Dhillon,Good,Good,Low Risk,No
+RN0208,72.13,93.62,46.03,77.36,73.68,48,High Performer,-3.67,Anita Verma,Good,Good,Low Risk,No
+RN0271,72.13,97.44,40.74,84.91,65.79,50,High Performer,-19.12,Ankit Verma,Good,Good,Low Risk,No
+RN0319,72.22,96.3,38.46,69.81,73.68,50,High Performer,3.87,Jyothi Dhillon,Good,Good,Low Risk,No
+RN0854,72.31,97.44,38.46,69.81,73.68,48,High Performer,3.87,Kapil Sharma,Good,Good,Low Risk,No
+RN0458,72.33,93.22,30.77,67.92,78.95,48,High Performer,11.02,Kiran Murthy,Good,Good,Low Risk,No
+RN1462,72.33,100.0,45.45,71.7,100.0,49,High Performer,28.3,Aanchal Ray,Good,Good,Low Risk,No
+RN0694,72.35,100.0,45.45,81.13,71.7,49,High Performer,-9.43,Vikas Hedge,Good,Good,Low Risk,No
+RN1160,72.37,97.78,40.74,75.47,73.68,49,High Performer,-1.79,Himanshu Malhotra,Good,Good,Low Risk,No
+RN0696,72.39,100.0,43.59,96.23,86.84,49,High Performer,-9.38,Anuj Ray,Good,Good,Low Risk,No
+RN0170,72.42,95.35,50.0,73.58,86.84,46,High Performer,13.26,Chitra Bhat,Good,Good,Low Risk,No
+RN0997,72.42,100.0,47.5,79.25,65.79,48,High Performer,-13.46,Payal Chawla,Good,Good,Low Risk,No
+RN1692,72.43,93.33,43.48,56.6,84.21,47,High Performer,27.61,Vidya Prabhu,Good,Good,Low Risk,No
+RN1950,72.45,97.44,42.5,77.36,71.7,47,High Performer,-5.66,Pankaj Bose,Good,Good,Low Risk,No
+RN1523,72.46,95.83,29.63,56.6,68.42,50,High Performer,11.82,Lakshmi Pandey,Good,Good,Low Risk,No
+RN1841,72.5,96.23,50.0,69.81,78.95,47,High Performer,9.14,Komal Sharma,Good,Good,Low Risk,No
+RN1959,72.5,94.87,40.74,81.13,89.47,46,High Performer,8.34,Kavya Pandey,Good,Good,Low Risk,No
+RN0513,72.51,93.88,40.38,67.92,86.84,49,High Performer,18.92,Girish Sharma,Good,Good,Low Risk,No
+RN1320,72.51,89.74,42.11,56.6,68.42,45,High Performer,11.82,Rahul Prasad,Good,Good,Low Risk,No
+RN0845,72.52,94.87,48.72,56.6,71.05,48,High Performer,14.45,Nisha Pillai,Good,Good,Low Risk,No
+RN1317,72.57,96.08,38.98,68.09,76.32,48,High Performer,8.23,Mansi Verma,Good,Good,Low Risk,No
+RN0702,72.58,98.04,35.0,90.57,71.05,49,High Performer,-19.51,Kajal Gowda,Good,Good,Low Risk,No
+RN0824,72.6,97.44,45.0,75.47,94.74,48,High Performer,19.27,Chirag Sodhi,Good,Good,Low Risk,No
+RN0092,72.62,90.2,42.59,47.17,84.21,47,High Performer,37.04,Komal Prabhu,Good,Good,Low Risk,No
+RN1157,72.63,100.0,48.08,83.02,89.47,46,High Performer,6.45,Barkha Gupta,Good,Good,Low Risk,No
+RN1491,72.63,98.11,38.89,92.45,68.42,49,High Performer,-24.03,Aditi Bose,Good,Good,Low Risk,No
+RN0473,72.67,96.23,25.0,96.23,78.95,47,High Performer,-17.28,Rashmi Bose,Good,Good,Low Risk,No
+RN1564,72.67,95.74,45.1,86.79,81.58,48,High Performer,-5.21,Kriti Pai,Good,Good,Low Risk,No
+RN0917,72.7,96.36,43.18,96.23,76.32,49,High Performer,-19.91,Khushi Iyer,Good,Good,Low Risk,No
+RN1816,72.72,94.87,42.59,84.91,86.84,49,High Performer,1.94,Sakshi Das,Good,Good,Low Risk,No
+RN0893,72.74,98.08,40.0,79.25,71.05,47,High Performer,-8.19,Jatin Pillai,Good,Good,Low Risk,No
+RN1294,72.77,97.37,41.03,73.58,97.37,48,High Performer,23.78,Riya Menon,Good,Good,Low Risk,No
+RN1915,72.83,90.57,41.03,86.79,78.95,46,High Performer,-7.85,Kamal Pillai,Good,Good,Low Risk,No
+RN1909,72.84,97.78,35.9,90.57,76.32,49,High Performer,-14.25,Tanvi Tiwari,Good,Good,Low Risk,No
+RN1862,72.85,100.0,51.28,69.81,69.81,49,High Performer,0.0,Himanshu Roy,Good,Good,Low Risk,No
+RN0882,72.88,97.78,35.85,75.47,35.85,48,High Performer,-39.62,Vivaan Sodhi,Good,Good,Low Risk,No
+RN1678,72.89,98.04,44.23,75.47,73.68,44,High Performer,-1.79,Manish Rao,Good,Good,Low Risk,No
+RN1220,72.92,93.33,40.74,83.02,76.32,48,High Performer,-6.7,Nikhil Bhat,Good,Good,Low Risk,No
+RN1934,72.93,96.61,37.5,88.68,78.95,46,High Performer,-9.73,Rajat Prabhu,Good,Good,Low Risk,No
+RN1595,72.95,93.02,43.59,86.79,89.47,48,High Performer,2.68,Monika Choudhury,Good,Excellent,Low Risk,No
+RN0311,72.97,98.25,42.59,61.7,71.05,48,High Performer,9.35,Pallavi Naik,Good,Good,Low Risk,No
+RN0751,72.99,88.89,50.0,77.36,78.95,47,High Performer,1.59,Meera Sodhi,Good,Good,Low Risk,No
+RN1963,72.99,100.0,42.31,92.45,71.05,49,High Performer,-21.4,Chandan Mukherjee,Good,Good,Low Risk,No
+RN0217,73.0,97.44,48.72,56.6,94.74,48,High Performer,38.13,Komal Das,Good,Good,Low Risk,No
+RN0256,73.01,94.74,48.72,69.81,73.68,49,High Performer,3.87,Anita Anand,Good,Good,Low Risk,No
+RN1055,73.05,93.33,42.11,86.79,42.11,49,High Performer,-44.69,Deepak Chawla,Good,Good,Low Risk,No
+RN1966,73.06,92.98,48.98,86.79,89.47,48,High Performer,2.68,Arunima Kulkarni,Good,Good,Low Risk,No
+RN1971,73.15,96.43,43.59,86.79,55.26,47,High Performer,-31.53,Tarun Kamath,Good,Good,Low Risk,No
+RN1224,73.17,100.0,39.68,62.26,89.47,47,High Performer,27.21,Kunwar Naik,Good,Good,Low Risk,No
+RN0077,73.18,94.87,35.0,92.45,84.21,47,High Performer,-8.24,Swati Pillai,Good,Good,Low Risk,No
+RN0718,73.19,94.34,43.64,81.13,78.95,44,High Performer,-2.18,Chitra Gupta,Good,Good,Low Risk,No
+RN0506,73.21,100.0,47.92,69.81,78.95,48,High Performer,9.14,Yamini Jain,Good,Good,Low Risk,No
+RN0748,73.23,95.56,42.59,81.13,89.47,49,High Performer,8.34,Satish Hedge,Good,Good,Low Risk,No
+RN1716,73.27,95.35,48.15,64.15,68.42,48,High Performer,4.27,Manish Mallya,Good,Good,Low Risk,No
+RN1928,73.27,94.12,44.44,83.02,81.58,49,High Performer,-1.44,Mansi Menon,Good,Good,Low Risk,No
+RN0900,73.28,93.18,49.15,88.68,84.21,47,High Performer,-4.47,Lokesh Mukherjee,Good,Good,Low Risk,No
+RN1848,73.28,100.0,37.5,92.45,73.68,48,High Performer,-18.77,Naveen Mukherjee,Good,Good,Low Risk,No
+RN1295,73.3,100.0,49.21,67.92,84.21,49,High Performer,16.29,UrVashi Prabhu,Good,Good,Low Risk,No
+RN0910,73.31,92.31,44.44,83.02,78.95,49,High Performer,-4.07,Sumit Mallya,Good,Good,Low Risk,No
+RN0108,73.32,98.04,50.0,84.91,73.68,46,High Performer,-11.22,Drishti Mukherjee,Good,Good,Low Risk,No
+RN1617,73.34,96.23,43.59,83.02,86.84,48,High Performer,3.82,Pradeep Malhotra,Good,Good,Low Risk,No
+RN1939,73.39,100.0,41.07,86.79,78.95,49,High Performer,-7.85,Lata Shetty,Good,Good,Low Risk,No
+RN1085,73.4,94.12,37.5,79.25,76.32,50,High Performer,-2.93,Himanshu Khanna,Good,Good,Low Risk,No
+RN0862,73.41,100.0,46.3,88.68,65.79,50,High Performer,-22.89,Umesh Acharya,Good,Good,Low Risk,No
+RN1550,73.42,98.31,54.17,79.25,73.58,44,High Performer,-5.66,Indu Murthy,Good,Good,Low Risk,No
+RN0546,73.45,96.23,40.48,96.23,63.16,48,High Performer,-33.07,Charu Sharma,Good,Good,Low Risk,No
+RN0325,73.48,97.44,41.18,92.45,84.21,46,High Performer,-8.24,Kunwar Grover,Good,Good,Low Risk,No
+RN0229,73.5,97.44,42.59,84.91,71.05,49,High Performer,-13.85,Yamini Sharma,Good,Good,Low Risk,No
+RN1203,73.5,97.67,37.04,60.38,84.21,49,High Performer,23.83,Ananya Bhat,Good,Good,Low Risk,No
+RN0074,73.51,96.72,34.21,88.68,78.95,49,High Performer,-9.73,Uma Khanna,Good,Good,Low Risk,No
+RN1609,73.52,93.02,43.18,84.91,86.84,47,High Performer,1.94,Aadhya Gowda,Good,Good,Low Risk,No
+RN1659,73.53,95.35,47.62,64.15,55.26,47,High Performer,-8.89,Tanvi Iyer,Good,Good,Low Risk,No
+RN0198,73.55,95.24,44.68,81.13,65.79,49,High Performer,-15.34,Sanjay Mehta,Good,Good,Low Risk,No
+RN1089,73.55,93.33,48.72,81.13,65.79,48,High Performer,-15.34,Malini Pillai,Good,Good,Low Risk,No
+RN0679,73.57,97.78,42.55,81.13,81.58,48,High Performer,0.45,Nisha Reddy,Good,Good,Low Risk,No
+RN1548,73.57,100.0,50.85,71.7,96.23,48,High Performer,24.53,Kamal Hegde,Good,Good,Low Risk,No
+RN1024,73.63,100.0,36.36,84.91,71.05,48,High Performer,-13.85,Tanvi Gowda,Good,Good,Low Risk,No
+RN0948,73.64,97.56,37.25,84.91,81.58,48,High Performer,-3.33,Vivaan Pillai,Good,Good,Low Risk,No
+RN1770,73.69,94.87,48.72,84.91,76.32,48,High Performer,-8.59,Utkarsh Gill,Good,Good,Low Risk,No
+RN0685,73.7,97.78,44.68,83.02,65.79,49,High Performer,-17.23,Meera Mukherjee,Good,Good,Low Risk,No
+RN1906,73.71,100.0,55.32,77.36,68.42,49,High Performer,-8.94,Hina Choudhury,Good,Good,Low Risk,No
+RN0502,73.73,92.73,42.22,86.79,84.21,47,High Performer,-2.58,Mohit Kulkarni,Good,Good,Low Risk,No
+RN0571,73.73,95.35,34.04,92.45,86.84,49,High Performer,-5.61,Vijay Jain,Good,Good,Low Risk,No
+RN1362,73.76,98.18,35.85,86.79,84.21,47,High Performer,-2.58,Nikhil Gill,Good,Good,Low Risk,No
+RN0284,73.79,96.23,40.43,92.45,84.21,49,High Performer,-8.24,Jyothi Nair,Good,Good,Low Risk,No
+RN1471,73.79,97.78,50.0,90.57,60.53,47,High Performer,-30.04,Kiran Pillai,Good,Good,Low Risk,No
+RN0072,73.8,97.62,38.18,86.79,65.79,49,High Performer,-21.0,Ganesh Choudhury,Good,Good,Low Risk,No
+RN1225,73.81,97.44,38.18,92.45,71.05,45,High Performer,-21.4,Pari Sinha,Good,Good,Low Risk,No
+RN1982,73.84,95.35,43.59,81.13,84.21,46,High Performer,3.08,Manav Hedge,Good,Good,Low Risk,No
+RN0479,73.87,95.56,42.22,84.91,81.58,48,High Performer,-3.33,Harini Naik,Good,Good,Low Risk,No
+RN0837,73.87,100.0,44.44,79.25,86.84,49,High Performer,7.6,Sneha Nair,Good,Good,Low Risk,No
+RN0978,73.87,100.0,47.54,92.45,84.21,48,High Performer,-8.24,Kajal Gupta,Good,Good,Low Risk,No
+RN0947,73.88,95.08,46.15,69.81,71.05,47,High Performer,1.24,Ishaan Chawla,Good,Good,Low Risk,No
+RN1715,73.88,95.35,56.41,86.79,73.68,49,High Performer,-13.11,Tanya Menon,Good,Good,Low Risk,No
+RN0040,73.89,97.62,43.59,83.02,86.84,49,High Performer,3.82,Monika Bose,Good,Good,Low Risk,No
+RN1653,73.9,100.0,40.43,75.47,76.32,49,High Performer,0.84,Lokesh Gupta,Good,Excellent,Low Risk,No
+RN1540,73.92,97.78,43.14,96.23,76.32,49,High Performer,-19.91,Ishita Sen,Good,Good,Low Risk,No
+RN0190,73.96,95.56,47.37,73.58,89.47,49,High Performer,15.89,Tanya Grover,Good,Good,Low Risk,No
+RN1222,73.96,94.87,42.86,81.13,55.26,47,High Performer,-25.87,Kunwar Gill,Good,Good,Low Risk,No
+RN0595,73.97,98.08,40.0,64.15,94.74,48,High Performer,30.59,Bharat Mehta,Good,Good,Low Risk,No
+RN1196,74.02,100.0,28.21,81.13,84.21,49,High Performer,3.08,Deepa Hedge,Good,Good,Low Risk,No
+RN0285,74.04,94.87,48.72,83.02,71.7,47,High Performer,-11.32,Saanvi Naik,Good,Excellent,Low Risk,No
+RN0581,74.04,100.0,38.46,100.0,65.79,48,High Performer,-34.21,Jyothi Bose,Good,Good,Low Risk,No
+RN0770,74.05,100.0,55.32,71.7,65.79,49,High Performer,-5.91,Nandini Jain,Good,Good,Low Risk,No
+RN1738,74.05,95.56,46.81,83.02,78.95,47,High Performer,-4.07,Sunil Gupta,Good,Average,Low Risk,No
+RN0793,74.06,100.0,43.18,83.02,60.53,50,High Performer,-22.49,Pooja Sodhi,Good,Good,Low Risk,No
+RN0823,74.06,96.08,49.09,81.13,73.68,49,High Performer,-7.45,Amita Hedge,Good,Good,Low Risk,No
+RN0564,74.09,100.0,44.68,73.58,84.21,48,High Performer,10.63,Rajesh Mishra,Good,Good,Low Risk,No
+RN1464,74.15,95.35,46.03,77.36,90.57,47,High Performer,13.21,Mohit Naik,Good,Excellent,Low Risk,No
+RN1219,74.22,93.18,33.33,62.26,92.11,49,High Performer,29.84,Chetan Gill,Good,Good,Low Risk,No
+RN0569,74.25,97.67,46.15,84.91,78.95,48,High Performer,-5.96,Pallavi Tiwari,Good,Good,Low Risk,No
+RN1656,74.25,100.0,53.06,98.11,73.68,49,High Performer,-24.43,Garima Malhotra,Good,Good,Low Risk,No
+RN0667,74.26,97.44,46.15,66.04,86.84,47,High Performer,20.8,Kartik Gowda,Good,Good,Low Risk,No
+RN1333,74.29,100.0,42.59,81.13,50.0,48,High Performer,-31.13,Naveen Roy,Good,Good,Low Risk,No
+RN1121,74.3,95.92,34.21,62.26,92.11,47,High Performer,29.84,Meera Sen,Good,Good,Low Risk,No
+RN1299,74.31,96.36,38.46,81.13,86.84,47,High Performer,5.71,Tarun Banerjee,Good,Excellent,Low Risk,No
+RN1522,74.36,96.72,40.91,77.36,78.95,46,High Performer,1.59,Pooja Gill,Good,Good,Low Risk,No
+RN0761,74.37,98.21,29.09,81.13,78.95,50,High Performer,-2.18,Ramya_M Pillai,Good,Excellent,Low Risk,No
+RN1244,74.43,95.45,42.59,84.91,76.32,49,High Performer,-8.59,Sanjay Sen,Good,Good,Low Risk,No
+RN0112,74.45,94.34,51.11,94.34,86.84,45,High Performer,-7.5,Pranav Ray,Good,Good,Low Risk,No
+RN1124,74.46,93.02,38.64,92.45,63.16,48,High Performer,-29.29,Esha Pillai,Good,Good,Low Risk,No
+RN0799,74.48,95.56,51.11,68.09,84.21,48,High Performer,16.13,Abha Das,Good,Good,Low Risk,No
+RN1095,74.48,100.0,52.73,62.26,84.21,49,High Performer,21.95,Raman Mehra,Good,Good,Low Risk,No
+RN0580,74.51,95.35,51.85,83.02,71.05,47,High Performer,-11.97,Nisha Kamath,Good,Good,Low Risk,No
+RN0480,74.52,98.04,50.98,84.91,86.84,47,High Performer,1.94,Kunwar Anand,Good,Good,Low Risk,No
+RN1258,74.54,100.0,41.03,83.02,71.05,49,High Performer,-11.97,Jaideep Kumar,Good,Good,Low Risk,No
+RN0434,74.55,94.55,41.07,83.02,68.42,47,High Performer,-14.6,Dhruv Menon,Good,Good,Low Risk,No
+RN0399,74.58,97.78,48.15,75.47,78.95,49,High Performer,3.48,Arunima Kumar,Good,Good,Low Risk,No
+RN0098,74.61,100.0,42.31,91.49,73.68,49,High Performer,-17.81,Arjun Nayak,Good,Good,Low Risk,No
+RN0293,74.62,96.08,53.97,83.02,76.32,50,High Performer,-6.7,Harish Dhillon,Good,Good,Low Risk,No
+RN1279,74.62,94.87,52.17,81.13,73.68,49,High Performer,-7.45,Radhika Joshi,Good,Good,Low Risk,No
+RN1199,74.63,100.0,48.94,73.58,92.11,49,High Performer,18.52,Poonam Roy,Good,Good,Low Risk,No
+RN1006,74.65,94.55,51.28,83.02,68.42,47,High Performer,-14.6,Jyothi Anand,Good,Good,Low Risk,No
+RN0758,74.66,98.04,49.21,71.7,84.21,50,High Performer,12.51,Lata Pillai,Good,Good,Low Risk,No
+RN1015,74.68,100.0,48.94,92.45,89.47,47,High Performer,-2.98,Bhumika Murthy,Good,Good,Low Risk,No
+RN1235,74.68,95.24,41.03,75.47,68.42,48,High Performer,-7.05,Charu Shetty,Good,Good,Low Risk,No
+RN1240,74.68,100.0,48.94,66.04,81.58,47,High Performer,15.54,Priya Patel,Good,Good,Low Risk,No
+RN0932,74.69,100.0,48.72,98.11,86.84,49,High Performer,-11.27,Brijesh Khanna,Good,Excellent,Low Risk,No
+RN1458,74.71,98.18,43.59,86.79,92.11,47,High Performer,5.31,Jatin Gupta,Good,Excellent,Low Risk,No
+RN1298,74.82,95.92,40.38,84.91,60.53,48,High Performer,-24.38,Radhika Shetty,Good,Good,Low Risk,No
+RN1305,74.82,96.36,39.22,88.68,81.58,48,High Performer,-7.1,Vidya Nayak,Good,Good,Low Risk,No
+RN0666,74.87,95.24,53.19,92.45,86.84,47,High Performer,-5.61,Sachin Hegde,Good,Excellent,Low Risk,No
+RN1030,74.87,100.0,55.32,64.15,78.95,47,High Performer,14.8,Priya Sinha,Good,Good,Low Risk,No
+RN1166,74.87,97.83,42.55,83.02,76.32,50,High Performer,-6.7,Khushi Pandey,Good,Good,Low Risk,No
+RN0075,74.88,97.67,43.59,77.36,78.95,47,High Performer,1.59,Ishaan Prabhu,Good,Good,Low Risk,No
+RN0749,74.92,94.87,46.43,86.79,68.42,48,High Performer,-18.37,Vivek Pradhan,Good,Good,Low Risk,No
+RN1689,74.93,98.18,43.4,88.68,81.58,46,High Performer,-7.1,Kunwar Deshmukh,Good,Good,Low Risk,No
+RN1158,74.95,94.12,42.86,88.68,76.32,49,High Performer,-12.36,Rajat Pandey,Good,Good,Low Risk,No
+RN1382,74.96,98.18,46.81,88.68,71.05,47,High Performer,-17.63,Poonam Chawla,Good,Good,Low Risk,No
+RN1187,74.99,96.49,31.37,90.57,76.32,49,High Performer,-14.25,Malini Khanna,Good,Excellent,Low Risk,No
+RN0623,75.02,92.73,53.19,66.04,92.11,45,High Performer,26.07,Jyothi Pillai,Good,Excellent,Low Risk,No
+RN0364,75.05,96.08,26.19,92.45,86.84,49,High Performer,-5.61,Harini Kapoor,Good,Excellent,Low Risk,No
+RN1380,75.08,97.78,48.98,92.45,81.58,48,High Performer,-10.87,Mohit Anand,Good,Good,Low Risk,No
+RN1673,75.08,95.35,43.59,66.04,65.79,49,High Performer,-0.25,Sumit Verma,Good,Good,Low Risk,No
+RN1068,75.09,96.08,44.44,88.68,75.47,46,High Performer,-13.21,Ganesh Shetty,Good,Good,Low Risk,No
+RN1283,75.1,100.0,44.68,75.47,76.32,50,High Performer,0.84,Khushi Joshi,Good,Good,Low Risk,No
+RN1529,75.13,95.56,44.68,71.7,92.11,48,High Performer,20.41,Prisha Shetty,Good,Good,Low Risk,No
+RN0329,75.16,96.49,52.94,75.47,84.21,49,High Performer,8.74,Manoj Chawla,Good,Good,Low Risk,No
+RN1742,75.16,97.67,49.02,75.47,71.05,46,High Performer,-4.42,Rashmi Deshmukh,Good,Good,Low Risk,No
+RN0557,75.18,97.92,53.19,84.91,71.05,50,High Performer,-13.85,Indu Nayak,Good,Good,Low Risk,No
+RN0752,75.19,100.0,46.3,100.0,76.32,48,High Performer,-23.68,Yashaswini Pillai,Good,Excellent,Low Risk,No
+RN1133,75.19,97.62,46.67,88.68,71.05,49,High Performer,-17.63,Rashmi Gill,Good,Good,Low Risk,No
+RN1748,75.19,100.0,44.44,92.45,84.21,48,High Performer,-8.24,Rashmi Khanna,Good,Excellent,Low Risk,No
+RN1347,75.24,95.56,41.82,88.68,92.11,50,High Performer,3.43,Rashmi Mishra,Good,Good,Low Risk,No
+RN0763,75.25,97.44,35.9,86.79,76.32,49,High Performer,-10.48,Indu Mallya,Good,Excellent,Low Risk,No
+RN0645,75.27,97.87,44.68,88.68,81.58,50,High Performer,-7.1,Ishita Alva,Good,Good,Low Risk,No
+RN0002,75.29,97.78,48.72,63.83,76.32,48,High Performer,12.49,Harini Prabhu,Good,Good,Low Risk,No
+RN0179,75.34,95.83,42.31,88.68,76.32,48,High Performer,-12.36,Ojaswini Roy,Good,Excellent,Low Risk,No
+RN1127,75.48,100.0,47.73,62.26,78.95,48,High Performer,16.68,Kiran Choudhury,Good,Excellent,Low Risk,No
+RN1879,75.48,100.0,43.59,75.47,92.11,49,High Performer,16.63,Diya Gowda,Good,Excellent,Low Risk,No
+RN0966,75.49,96.23,42.86,96.23,73.68,48,High Performer,-22.54,Jyothi Mishra,Good,Excellent,Low Risk,No
+RN0866,75.53,97.67,43.14,80.0,92.11,45,High Performer,12.11,Khushi Mukherjee,Good,Excellent,Low Risk,No
+RN0945,75.55,100.0,40.43,69.81,84.91,49,High Performer,15.09,Pranav Khanna,Good,Good,Low Risk,No
+RN0120,75.57,98.21,42.59,92.45,86.84,49,High Performer,-5.61,Karan Tiwari,Good,Excellent,Low Risk,No
+RN1326,75.59,95.35,44.68,71.7,84.21,47,High Performer,12.51,Ipshita Grover,Good,Good,Low Risk,No
+RN0855,75.61,97.96,44.68,92.45,65.79,50,High Performer,-26.66,Manish Pillai,Good,Excellent,Low Risk,No
+RN1830,75.66,95.56,54.76,71.7,89.47,48,High Performer,17.78,Meera Acharya,Good,Good,Low Risk,No
+RN1134,75.67,95.35,56.86,83.02,73.68,48,High Performer,-9.33,Rashmi Sen,Good,Good,Low Risk,No
+RN1119,75.71,95.12,43.18,88.68,78.95,46,High Performer,-9.73,Hina Jain,Good,Good,Low Risk,No
+RN0326,75.72,95.45,45.45,75.47,71.05,48,High Performer,-4.42,Arunima Das,Good,Excellent,Low Risk,No
+RN0237,75.75,96.49,46.15,96.23,75.47,45,High Performer,-20.75,Nisha Mehta,Good,Excellent,Low Risk,No
+RN0113,75.78,95.74,44.68,90.57,92.11,50,High Performer,1.54,Radhika Bose,Good,Excellent,Low Risk,No
+RN1868,75.79,95.35,38.46,79.25,92.11,50,High Performer,12.86,Utkarsh Chawla,Good,Good,Low Risk,No
+RN0530,75.87,96.36,51.28,81.13,78.95,47,High Performer,-2.18,Vivaan Shetty,Good,Good,Low Risk,No
+RN0221,75.91,100.0,44.68,84.91,89.47,49,High Performer,4.57,Saanvi Bhat,Good,Excellent,Low Risk,No
+RN1211,75.92,100.0,42.59,73.58,94.74,47,High Performer,21.15,Suresh Deshmukh,Good,Excellent,Low Risk,No
+RN0306,75.95,97.73,48.08,83.02,81.58,48,High Performer,-1.44,Ishita Kumar,Good,Excellent,Low Risk,No
+RN1611,75.95,96.23,38.18,96.23,89.47,48,High Performer,-6.75,Juhi Anand,Good,Good,Low Risk,No
+RN1423,75.96,100.0,47.5,96.23,76.32,48,High Performer,-19.91,Shreya Alva,Good,Excellent,Low Risk,No
+RN1558,75.96,97.67,44.68,77.36,65.79,49,High Performer,-11.57,Inder Shenoy,Good,Excellent,Low Risk,No
+RN0210,75.97,100.0,50.0,75.47,92.11,49,High Performer,16.63,Nitin Dutta,Good,Excellent,Low Risk,No
+RN0498,75.99,97.44,46.15,96.23,92.11,46,High Performer,-4.12,Vivek Mukherjee,Good,Excellent,Low Risk,No
+RN1356,76.0,95.74,50.79,83.02,89.47,48,High Performer,6.45,Riya Shetty,Good,Good,Low Risk,No
+RN0737,76.02,100.0,39.29,92.45,89.47,48,High Performer,-2.98,Kapil Mishra,Good,Good,Low Risk,No
+RN1323,76.02,97.73,36.17,77.36,78.95,50,High Performer,1.59,Raman Mehta,Good,Good,Low Risk,No
+RN1547,76.03,100.0,46.15,81.13,78.95,48,High Performer,-2.18,Nisha Joshi,Good,Excellent,Low Risk,No
+RN0647,76.04,96.36,55.0,90.57,94.74,49,High Performer,4.17,Nikhil Naik,Good,Good,Low Risk,No
+RN0867,76.04,100.0,45.1,69.81,84.21,48,High Performer,14.4,Lata Gowda,Good,Good,Low Risk,No
+RN0640,76.05,97.78,54.76,86.79,92.11,48,High Performer,5.31,Deepak Sen,Good,Excellent,Low Risk,No
+RN0371,76.07,96.36,57.63,83.02,84.21,49,High Performer,1.19,Komal Deshmukh,Good,Excellent,Low Risk,No
+RN1377,76.1,90.24,38.3,81.13,86.84,47,High Performer,5.71,Zara Jain,Good,Excellent,Low Risk,No
+RN0975,76.14,97.73,40.43,84.91,96.23,49,High Performer,11.32,Abha Mehta,Good,Good,Low Risk,No
+RN0201,76.15,98.18,42.11,96.23,58.49,48,High Performer,-37.74,Harini Kumar,Good,Good,Low Risk,No
+RN1292,76.19,96.23,44.44,96.23,60.53,46,High Performer,-35.7,Ananya Mallya,Good,Good,Low Risk,No
+RN1979,76.19,100.0,46.03,84.91,86.84,47,High Performer,1.94,Juhi Rao,Good,Excellent,Low Risk,No
+RN0712,76.21,95.56,40.43,79.25,92.11,49,High Performer,12.86,Heena Naik,Good,Excellent,Low Risk,No
+RN1865,76.24,100.0,41.03,83.02,89.47,48,High Performer,6.45,Raman Bose,Good,Excellent,Low Risk,No
+RN0231,76.25,98.36,39.22,73.58,57.89,49,High Performer,-15.69,Riya Sen,Good,Good,Low Risk,No
+RN0970,76.25,100.0,57.5,83.02,89.47,48,High Performer,6.45,Kiran Kumar,Good,Excellent,Low Risk,No
+RN1969,76.25,95.56,48.72,79.25,84.21,49,High Performer,4.97,Tejas Malhotra,Good,Good,Low Risk,No
+RN1260,76.27,100.0,48.15,77.36,84.21,45,High Performer,6.85,Komal Gupta,Good,Excellent,Low Risk,No
+RN0820,76.34,97.78,50.0,88.68,81.58,46,High Performer,-7.1,Bhumika Acharya,Good,Excellent,Low Risk,No
+RN1562,76.35,100.0,46.15,92.45,75.47,48,High Performer,-16.98,Suman Bose,Good,Excellent,Low Risk,No
+RN0380,76.43,100.0,46.3,72.34,78.95,49,High Performer,6.61,Uma Pradhan,Good,Excellent,Low Risk,No
+RN1810,76.44,100.0,45.65,56.6,76.32,50,High Performer,19.71,Pooja Sharma,Good,Excellent,Low Risk,No
+RN0909,76.45,98.36,40.43,88.68,65.79,46,High Performer,-22.89,Gauri Pandey,Good,Excellent,Low Risk,No
+RN0214,76.47,98.11,54.9,69.81,71.05,49,High Performer,1.24,Manoj Mehra,Good,Good,Low Risk,No
+RN1728,76.53,100.0,53.85,79.25,84.21,48,High Performer,4.97,Vidya Tiwari,Good,Good,Low Risk,No
+RN0393,76.56,97.78,48.72,88.68,84.21,49,High Performer,-4.47,Ananya Mehta,Good,Excellent,Low Risk,No
+RN0366,76.58,98.25,53.85,75.47,65.79,49,High Performer,-9.68,Vineet Prasad,Good,Good,Low Risk,No
+RN0521,76.62,100.0,55.93,79.25,81.58,50,High Performer,2.33,Abha Chawla,Good,Excellent,Low Risk,No
+RN1365,76.63,96.08,41.03,66.04,76.32,48,High Performer,10.28,Heena Choudhury,Good,Good,Low Risk,No
+RN1450,76.64,96.36,53.97,67.92,81.58,47,High Performer,13.65,Saanvi Pillai,Good,Excellent,Low Risk,No
+RN0189,76.67,100.0,40.48,96.23,92.11,49,High Performer,-4.12,Deepak Patel,Good,Good,Low Risk,No
+RN0274,76.69,100.0,53.19,66.04,86.84,47,High Performer,20.8,Rajesh Rai,Good,Excellent,Low Risk,No
+RN1420,76.75,100.0,40.43,54.72,78.95,49,High Performer,24.23,Charu Rai,Good,Excellent,Low Risk,No
+RN1084,76.77,96.08,38.1,73.58,84.21,50,High Performer,10.63,Ipshita Malhotra,Good,Excellent,Low Risk,No
+RN1342,76.77,97.67,45.24,71.7,73.68,49,High Performer,1.99,Nisha Pai,Good,Excellent,Low Risk,No
+RN0139,76.8,100.0,49.02,77.36,89.47,49,High Performer,12.12,Hemant Mehra,Good,Excellent,Low Risk,No
+RN1113,76.83,100.0,42.86,76.6,92.11,47,High Performer,15.51,Ananya Gill,Good,Excellent,Low Risk,No
+RN0788,76.85,100.0,39.22,88.68,73.68,48,High Performer,-15.0,Zara Anand,Good,Excellent,Low Risk,No
+RN1554,76.85,100.0,45.45,100.0,89.47,48,High Performer,-10.53,Heena Banerjee,Excellent,Average,Low Risk,No
+RN1711,76.85,100.0,48.89,83.02,78.95,48,High Performer,-4.07,Nisha Mishra,Good,Excellent,Low Risk,No
+RN1776,76.85,95.45,42.86,90.57,92.11,49,High Performer,1.54,Satish Patel,Good,Excellent,Low Risk,No
+RN1334,76.89,100.0,48.94,73.58,73.68,48,High Performer,0.1,Deepak Sodhi,Good,Excellent,Low Risk,No
+RN1229,76.93,97.78,43.75,88.68,89.47,47,High Performer,0.79,Tanya Nair,Good,Excellent,Low Risk,No
+RN0041,76.96,98.11,50.0,77.36,84.21,47,High Performer,6.85,Divya Shetty,Good,Excellent,Low Risk,No
+RN1104,76.98,95.56,47.62,88.68,71.05,48,High Performer,-17.63,Rajesh Mehra,Good,Excellent,Low Risk,No
+RN1467,76.98,95.56,56.52,88.68,76.32,50,High Performer,-12.36,Ojaswini Shetty,Good,Good,Low Risk,No
+RN1787,77.01,100.0,36.51,83.02,60.53,50,High Performer,-22.49,Alka Nayak,Good,Excellent,Low Risk,No
+RN0727,77.02,97.44,52.94,92.45,86.84,46,High Performer,-5.61,Ipshita Mukherjee,Good,Excellent,Low Risk,No
+RN0827,77.14,100.0,42.55,86.79,86.84,46,High Performer,0.05,Vivaan Gupta,Good,Excellent,Low Risk,No
+RN0289,77.17,97.67,33.33,96.23,86.84,48,High Performer,-9.38,Jaideep Rai,Good,Excellent,Low Risk,No
+RN1242,77.26,100.0,32.5,69.81,78.95,50,High Performer,9.14,Aadhya Pandey,Good,Excellent,Low Risk,No
+RN1109,77.37,97.87,45.45,96.23,92.11,48,High Performer,-4.12,Mansi Prabhu,Good,Excellent,Low Risk,No
+RN0060,77.4,98.08,38.89,79.25,92.11,47,High Performer,12.86,Aadhya Kapoor,Good,Excellent,Low Risk,No
+RN1951,77.41,93.33,55.56,88.68,73.68,49,High Performer,-15.0,Suman Murthy,Good,Excellent,Low Risk,No
+RN0967,77.44,97.44,42.37,86.79,71.05,49,High Performer,-15.74,Ankit Pradhan,Good,Excellent,Low Risk,No
+RN1566,77.44,100.0,46.15,92.45,92.11,46,High Performer,-0.35,Hina Mallya,Good,Excellent,Low Risk,No
+RN0389,77.47,95.83,41.18,81.13,78.95,50,High Performer,-2.18,Vivek Kumar,Good,Excellent,Low Risk,No
+RN1054,77.51,97.67,46.81,92.45,68.42,50,High Performer,-24.03,Varun Murthy,Good,Excellent,Low Risk,No
+RN1343,77.55,96.36,50.0,73.58,68.42,50,High Performer,-5.16,Manav Patel,Good,Excellent,Low Risk,No
+RN1721,77.56,100.0,38.46,81.13,89.47,50,High Performer,8.34,Kajal Das,Good,Excellent,Low Risk,No
+RN1386,77.57,100.0,54.55,73.58,81.58,50,High Performer,7.99,Zara Kamath,Good,Good,Low Risk,No
+RN1697,77.57,96.3,48.84,90.57,92.11,50,High Performer,1.54,Yashaswini Nayak,Good,Excellent,Low Risk,No
+RN0215,77.58,95.74,42.11,92.45,81.58,48,High Performer,-10.87,Sanjay Gupta,Good,Excellent,Low Risk,No
+RN0468,77.58,100.0,45.24,83.02,94.74,46,High Performer,11.72,Vikram Roy,Good,Excellent,Low Risk,No
+RN0976,77.59,100.0,59.26,77.36,94.74,46,High Performer,17.38,Vandana Singh,Good,Excellent,Low Risk,No
+RN0436,77.6,100.0,48.72,81.13,78.95,45,High Performer,-2.18,Inder Mallya,Good,Excellent,Low Risk,No
+RN0951,77.64,100.0,38.46,84.91,73.68,48,High Performer,-11.22,Monika Mallya,Good,Excellent,Low Risk,No
+RN1472,77.64,100.0,47.73,96.23,76.32,49,High Performer,-19.91,Khushi Reddy,Good,Good,Low Risk,No
+RN1019,77.66,100.0,42.5,86.79,84.21,49,High Performer,-2.58,Mansi Khanna,Good,Excellent,Low Risk,No
+RN1794,77.67,93.33,50.0,86.79,89.47,49,High Performer,2.68,Aadhya Menon,Good,Excellent,Low Risk,No
+RN0013,77.74,97.67,56.41,67.92,94.74,50,High Performer,26.81,Dilip Pillai,Good,Excellent,Low Risk,No
+RN0365,77.74,94.74,53.97,88.68,73.68,49,High Performer,-15.0,Nidhi Choudhury,Good,Excellent,Low Risk,No
+RN0579,77.76,98.31,36.36,98.11,68.42,49,High Performer,-29.69,Nikhil Gowda,Good,Excellent,Low Risk,No
+RN1036,77.78,96.72,53.06,64.15,89.47,50,High Performer,25.32,Alka Gupta,Good,Good,Low Risk,No
+RN1313,77.8,95.35,40.91,86.79,71.05,49,High Performer,-15.74,Piyush Sharma,Good,Excellent,Low Risk,No
+RN1861,77.8,95.56,54.55,60.38,78.95,49,High Performer,18.57,Pallavi Rai,Good,Excellent,Low Risk,No
+RN1949,77.8,96.36,55.0,86.79,84.21,48,High Performer,-2.58,Poonam Shenoy,Good,Excellent,Low Risk,No
+RN1903,77.85,100.0,51.06,92.45,100.0,49,High Performer,7.55,Meera Gowda,Good,Excellent,Low Risk,No
+RN1850,77.91,100.0,29.41,77.36,84.21,46,High Performer,6.85,Dilip Bhat,Good,Excellent,Low Risk,No
+RN0835,77.92,100.0,55.0,96.23,92.11,48,High Performer,-4.12,Amita Grover,Good,Excellent,Low Risk,No
+RN1153,77.92,100.0,42.11,75.47,84.21,47,High Performer,8.74,Tanya Patel,Good,Excellent,Low Risk,No
+RN1789,77.92,98.18,48.72,71.7,76.32,48,High Performer,4.62,Kartik Bhat,Good,Excellent,Low Risk,No
+RN1503,77.94,100.0,44.44,100.0,73.68,48,High Performer,-26.32,Dinesh Jain,Good,Excellent,Low Risk,No
+RN1528,77.94,100.0,51.06,86.79,81.58,48,High Performer,-5.21,Aditya Mehta,Good,Excellent,Low Risk,No
+RN0169,77.96,100.0,44.44,83.02,94.74,47,High Performer,11.72,Rahul Kamath,Good,Excellent,Low Risk,No
+RN0998,77.97,96.61,44.74,86.79,89.47,49,High Performer,2.68,Deepa Dutta,Good,Excellent,Low Risk,No
+RN1066,77.97,98.04,56.41,83.02,81.58,46,High Performer,-1.44,Rashmi Kulkarni,Good,Excellent,Low Risk,No
+RN0023,77.98,96.36,50.91,94.34,71.05,48,High Performer,-23.29,Drishti Ray,Good,Excellent,Low Risk,No
+RN0443,78.01,100.0,55.56,86.79,86.84,46,High Performer,0.05,Nandini Pai,Good,Excellent,Low Risk,No
+RN0549,78.11,98.11,50.79,98.11,81.58,48,High Performer,-16.53,Pari Rai,Good,Excellent,Low Risk,No
+RN1189,78.12,96.49,58.82,83.02,86.84,47,High Performer,3.82,Sunil Pai,Good,Excellent,Low Risk,No
+RN1281,78.13,100.0,40.74,94.34,89.47,50,High Performer,-4.87,Utkarsh Sodhi,Good,Excellent,Low Risk,No
+RN1231,78.14,96.72,57.5,88.68,86.84,49,High Performer,-1.84,Mayank Kamath,Good,Excellent,Low Risk,No
+RN1455,78.15,97.62,55.56,88.68,84.21,50,High Performer,-4.47,Sunil Mishra,Good,Excellent,Low Risk,No
+RN0602,78.17,100.0,48.94,92.45,60.53,47,High Performer,-31.93,Kiran Prasad,Good,Excellent,Low Risk,No
+RN1020,78.18,97.44,55.56,70.21,71.05,47,High Performer,0.84,Lokesh Gowda,Good,Excellent,Low Risk,No
+RN0219,78.19,100.0,55.56,79.25,84.91,49,High Performer,5.66,Karan Dhillon,Good,Excellent,Low Risk,No
+RN1378,78.19,98.18,38.3,92.45,89.47,48,High Performer,-2.98,Kunwar Dhillon,Good,Excellent,Low Risk,No
+RN1149,78.2,100.0,46.81,79.25,84.21,48,High Performer,4.97,Brijesh Deshmukh,Good,Excellent,Low Risk,No
+RN1624,78.22,98.31,39.47,87.23,65.79,49,High Performer,-21.44,Dinesh Banerjee,Good,Excellent,Low Risk,No
+RN1000,78.29,97.67,51.85,92.45,92.11,48,High Performer,-0.35,Vaishnavi Pandey,Good,Excellent,Low Risk,No
+RN1677,78.29,100.0,44.19,66.04,65.79,49,High Performer,-0.25,Harini Mehra,Good,Excellent,Low Risk,No
+RN0574,78.33,97.44,60.78,86.79,76.32,46,High Performer,-10.48,Aanchal Alva,Good,Excellent,Low Risk,No
+RN1212,78.36,100.0,46.15,96.23,89.47,49,High Performer,-6.75,Deepak Kumar,Good,Excellent,Low Risk,No
+RN0668,78.38,100.0,53.19,90.57,89.47,48,High Performer,-1.09,Lata Nair,Good,Good,Low Risk,No
+RN0348,78.39,100.0,57.14,75.47,77.36,45,High Performer,1.89,Lakshmi Acharya,Good,Excellent,Low Risk,No
+RN1250,78.39,96.43,48.98,88.68,89.47,50,High Performer,0.79,Pallavi Gupta,Good,Excellent,Low Risk,No
+RN1652,78.45,100.0,37.29,100.0,73.68,47,High Performer,-26.32,Divya Verma,Good,Excellent,Low Risk,No
+RN0926,78.47,100.0,43.4,100.0,68.42,47,High Performer,-31.58,Monika Singh,Good,Excellent,Low Risk,No
+RN0510,78.5,98.04,46.3,67.92,86.84,50,High Performer,18.92,Deepika Dhillon,Good,Excellent,Low Risk,No
+RN1669,78.51,100.0,48.94,92.45,76.32,47,High Performer,-16.14,Suhas Gowda,Good,Excellent,Low Risk,No
+RN1729,78.52,96.23,47.73,96.23,78.95,46,High Performer,-17.28,Yamini Kumar,Good,Excellent,Low Risk,No
+RN1290,78.53,95.56,54.55,92.45,84.21,49,High Performer,-8.24,Hemant Iyer,Good,Excellent,Low Risk,No
+RN1067,78.59,100.0,38.46,73.58,78.95,48,High Performer,5.36,Saanvi Nair,Good,Excellent,Low Risk,No
+RN0713,78.62,97.78,42.55,83.02,84.21,50,High Performer,1.19,Divya Pradhan,Good,Excellent,Low Risk,No
+RN0658,78.64,97.78,42.11,66.04,89.47,46,High Performer,23.44,Bhumika Chawla,Excellent,Average,Low Risk,No
+RN1074,78.64,100.0,45.24,71.7,86.84,48,High Performer,15.14,Ayush Rao,Good,Excellent,Low Risk,No
+RN1267,78.68,100.0,47.06,100.0,81.58,49,High Performer,-18.42,Satish Bose,Good,Excellent,Low Risk,No
+RN0771,78.69,100.0,48.94,100.0,78.95,48,High Performer,-21.05,Bharat Rai,Good,Excellent,Low Risk,No
+RN1175,78.69,100.0,29.63,86.79,76.32,49,High Performer,-10.48,Gaurav Bose,Good,Excellent,Low Risk,No
+RN0347,78.72,100.0,52.94,81.13,84.21,49,High Performer,3.08,Anita Prabhu,Good,Excellent,Low Risk,No
+RN0425,78.78,100.0,47.83,92.45,76.32,49,High Performer,-16.14,Ipshita Hedge,Good,Excellent,Low Risk,No
+RN1569,78.78,100.0,51.92,94.34,89.47,48,High Performer,-4.87,Tanya Ray,Excellent,Average,Low Risk,No
+RN1314,78.84,100.0,46.43,79.25,81.58,49,High Performer,2.33,Tushar Khanna,Good,Excellent,Low Risk,No
+RN0781,78.85,98.36,48.15,96.23,56.6,48,High Performer,-39.62,Jatin Kumar,Good,Excellent,Low Risk,No
+RN1129,78.88,100.0,47.73,83.02,78.95,47,High Performer,-4.07,Mohit Choudhury,Good,Excellent,Low Risk,No
+RN1533,78.89,100.0,41.03,84.91,84.21,47,High Performer,-0.7,Divya Mehta,Good,Excellent,Low Risk,No
+RN0181,78.94,98.15,48.72,90.57,81.58,48,High Performer,-8.99,Deepa Pradhan,Good,Excellent,Low Risk,No
+RN0695,78.95,98.21,48.94,88.68,71.05,50,High Performer,-17.63,Yamini Khanna,Good,Excellent,Low Risk,No
+RN0314,78.97,100.0,48.08,71.7,81.58,49,High Performer,9.88,Neha Dhillon,Good,Excellent,Low Risk,No
+RN0360,78.97,97.44,46.15,94.34,97.37,49,High Performer,3.03,Suhas Dutta,Good,Excellent,Low Risk,No
+RN1184,78.97,100.0,48.94,100.0,86.84,48,High Performer,-13.16,Arunima Shetty,Good,Excellent,Low Risk,No
+RN1922,78.97,100.0,47.92,83.02,84.21,46,High Performer,1.19,Malini Menon,Good,Excellent,Low Risk,No
+RN0556,79.0,96.08,56.25,94.34,89.47,50,High Performer,-4.87,Sumit Dutta,Good,Excellent,Low Risk,No
+RN1361,79.0,95.56,46.15,79.25,86.84,48,High Performer,7.6,Neha Verma,Good,Excellent,Low Risk,No
+RN0971,79.03,100.0,47.06,88.68,86.84,47,High Performer,-1.84,Yashaswini Grover,Good,Excellent,Low Risk,No
+RN1218,79.03,100.0,40.74,75.47,81.58,47,High Performer,6.11,Ayush Prabhu,Good,Excellent,Low Risk,No
+RN0814,79.07,100.0,57.45,96.23,86.84,48,High Performer,-9.38,Esha Khanna,Good,Excellent,Low Risk,No
+RN0612,79.08,100.0,54.35,94.34,84.21,47,High Performer,-10.13,Gagan Hegde,Good,Excellent,Low Risk,No
+RN0995,79.16,100.0,51.28,88.68,86.84,50,High Performer,-1.84,Mehak Pradhan,Good,Excellent,Low Risk,No
+RN1756,79.22,95.45,56.86,92.45,89.47,48,High Performer,-2.98,Isha Menon,Good,Excellent,Low Risk,No
+RN1424,79.24,100.0,53.85,83.02,60.53,45,High Performer,-22.49,Tanya Pradhan,Good,Excellent,Low Risk,No
+RN0377,79.32,100.0,55.77,86.79,86.84,48,High Performer,0.05,Heena Mishra,Good,Excellent,Low Risk,No
+RN0638,79.32,100.0,51.28,69.81,73.68,48,High Performer,3.87,Nikhil Pandey,Good,Excellent,Low Risk,No
+RN1527,79.32,100.0,53.49,69.81,76.32,48,High Performer,6.5,Abha Rao,Good,Excellent,Low Risk,No
+RN1502,79.34,100.0,47.62,80.85,66.04,45,High Performer,-14.81,Kajal Anand,Good,Excellent,Low Risk,No
+RN1762,79.34,96.36,50.0,88.68,81.58,47,High Performer,-7.1,Vikram Jain,Good,Excellent,Low Risk,No
+RN0354,79.35,100.0,47.62,96.23,94.74,47,High Performer,-1.49,Ramya_M Nair,Good,Excellent,Low Risk,No
+RN1757,79.35,100.0,48.94,77.36,78.95,49,High Performer,1.59,Vandana Prasad,Good,Excellent,Low Risk,No
+RN1434,79.47,98.36,55.32,77.36,86.84,47,High Performer,9.48,Arunima Gupta,Good,Excellent,Low Risk,No
+RN1842,79.49,100.0,40.38,88.68,81.58,48,High Performer,-7.1,Tejaswini Grover,Good,Excellent,Low Risk,No
+RN0374,79.52,98.18,38.46,88.68,84.21,44,High Performer,-4.47,Garima Gupta,Good,Excellent,Low Risk,No
+RN0246,79.54,100.0,57.45,92.45,89.47,47,High Performer,-2.98,Deepika Shenoy,Good,Excellent,Low Risk,No
+RN0373,79.55,100.0,44.68,100.0,86.84,49,High Performer,-13.16,Manav Sodhi,Excellent,Average,Low Risk,No
+RN0184,79.56,100.0,46.81,92.45,78.95,49,High Performer,-13.51,Vidya Mishra,Good,Excellent,Low Risk,No
+RN0061,79.57,95.56,53.19,83.02,89.47,48,High Performer,6.45,Barkha Pai,Good,Excellent,Low Risk,No
+RN1777,79.66,100.0,51.28,92.45,86.84,50,High Performer,-5.61,Aditi Verma,Good,Excellent,Low Risk,No
+RN0836,79.67,100.0,54.9,83.02,73.68,50,High Performer,-9.33,Payal Jain,Good,Excellent,Low Risk,No
+RN1733,79.69,97.73,54.55,84.91,68.42,49,High Performer,-16.48,Nikhil Sharma,Good,Excellent,Low Risk,No
+RN1660,79.73,97.92,46.3,86.79,84.21,45,High Performer,-2.58,Chirag Das,Good,Excellent,Low Risk,No
+RN1439,79.74,97.37,43.59,92.45,97.37,50,High Performer,4.92,Nisha Dutta,Excellent,Average,Low Risk,No
+RN0735,79.8,95.12,56.86,73.58,83.02,46,High Performer,9.43,Kajal Mishra,Good,Excellent,Low Risk,No
+RN1396,79.8,100.0,53.19,79.25,65.79,46,High Performer,-13.46,Indu Mehta,Good,Excellent,Low Risk,No
+RN0318,79.85,96.36,59.57,69.81,86.84,49,High Performer,17.03,Juhi Dutta,Good,Excellent,Low Risk,No
+RN1942,79.89,97.44,53.85,94.34,84.21,46,High Performer,-10.13,UrVashi Bose,Good,Excellent,Low Risk,No
+RN1457,79.93,100.0,54.24,88.68,97.37,48,High Performer,8.69,Sumit Malhotra,Good,Excellent,Low Risk,No
+RN1031,80.01,98.04,44.68,86.79,89.47,49,High Performer,2.68,Sanjay Pillai,Good,Excellent,Low Risk,No
+RN1345,80.01,95.35,52.54,88.68,92.11,50,High Performer,3.43,Vidya Patel,Excellent,Average,Low Risk,No
+RN0908,80.06,100.0,47.06,92.45,81.58,48,High Performer,-10.87,Kiran Reddy,Good,Excellent,Low Risk,No
+RN0870,80.09,100.0,54.24,86.79,97.37,48,High Performer,10.58,Bharat Mehra,Good,Excellent,Low Risk,No
+RN1072,80.14,100.0,53.85,100.0,78.95,48,High Performer,-21.05,Harini Sinha,Good,Excellent,Low Risk,No
+RN1932,80.23,98.11,44.64,86.79,84.21,46,High Performer,-2.58,Ramya_M Banerjee,Good,Excellent,Low Risk,No
+RN1899,80.28,100.0,42.5,84.91,84.21,47,High Performer,-0.7,Meera Sharma,Good,Excellent,Low Risk,No
+RN1004,80.3,97.56,51.28,73.58,63.16,47,High Performer,-10.43,Suhas Nair,Good,Excellent,Low Risk,No
+RN0628,80.31,100.0,55.56,73.58,66.04,44,High Performer,-7.55,Priya Mehta,Good,Excellent,Low Risk,No
+RN0911,80.35,100.0,54.55,60.38,68.42,49,High Performer,8.04,Payal Mishra,Good,Excellent,Low Risk,No
+RN1623,80.4,95.65,58.82,86.79,86.84,47,High Performer,0.05,Prisha Shenoy,Good,Excellent,Low Risk,No
+RN0603,80.49,97.78,46.81,73.58,92.11,50,High Performer,18.52,Karan Pillai,Excellent,Average,Low Risk,No
+RN1563,80.5,100.0,50.85,96.23,92.11,49,High Performer,-4.12,Uma Mehra,Good,Excellent,Low Risk,No
+RN0010,80.54,97.87,48.15,81.13,85.25,43,High Performer,4.11,Hina Reddy,Excellent,Average,Low Risk,No
+RN0703,80.55,100.0,50.0,86.79,76.32,48,High Performer,-10.48,Yash Hegde,Good,Excellent,Low Risk,No
+RN0018,80.64,100.0,51.11,100.0,84.21,50,High Performer,-15.79,Arunima Shenoy,Good,Excellent,Low Risk,No
+RN1092,80.66,100.0,48.21,96.23,92.11,49,High Performer,-4.12,Kavya Singh,Excellent,Average,Low Risk,No
+RN1147,80.66,100.0,51.06,96.23,89.47,49,High Performer,-6.75,Komal Roy,Good,Excellent,Low Risk,No
+RN1746,80.68,98.04,51.28,90.57,78.95,48,High Performer,-11.62,Aanya Chatterjee,Good,Excellent,Low Risk,No
+RN0302,80.76,97.44,45.45,92.45,92.11,50,High Performer,-0.35,Bharat Iyer,Excellent,Average,Low Risk,No
+RN0710,80.78,95.56,52.63,90.57,73.68,48,High Performer,-16.88,Anita Hegde,Good,Excellent,Low Risk,No
+RN0283,80.8,98.18,50.0,81.13,73.68,49,High Performer,-7.45,Poonam Patel,Good,Excellent,Low Risk,No
+RN1492,80.84,100.0,62.75,84.91,92.11,47,High Performer,7.2,Satish Das,Good,Excellent,Low Risk,No
+RN0794,81.01,98.36,43.48,77.36,78.95,47,High Performer,1.59,Vineet Mehra,Good,Excellent,Low Risk,No
+RN1284,81.02,97.87,60.32,80.85,81.58,47,High Performer,0.73,Esha Kulkarni,Good,Excellent,Low Risk,No
+RN0826,81.08,100.0,54.55,73.58,84.21,50,High Performer,10.63,Radhika Roy,Excellent,Average,Low Risk,No
+RN0109,81.3,100.0,57.14,100.0,76.32,46,High Performer,-23.68,Satish Malhotra,Good,Excellent,Low Risk,No
+RN1712,81.37,100.0,58.18,96.23,92.11,50,High Performer,-4.12,Piyush Prabhu,Excellent,Average,Low Risk,No
+RN0391,81.41,100.0,48.94,83.02,86.84,47,High Performer,3.82,Harish Reddy,Good,Excellent,Low Risk,No
+RN1430,81.43,100.0,60.0,100.0,94.74,47,High Performer,-5.26,Mansi Patel,Excellent,Average,Low Risk,No
+RN0133,81.47,100.0,43.59,83.02,94.74,50,High Performer,11.72,Aniruddh Singh,Excellent,Average,Low Risk,No
+RN1140,81.63,98.31,61.11,86.79,97.37,48,High Performer,10.58,Pranav Patel,Excellent,Average,Low Risk,No
+RN0333,81.75,97.73,51.06,79.25,89.47,47,High Performer,10.23,Prisha Kapoor,Good,Excellent,Low Risk,No
+RN1835,81.8,100.0,53.85,84.91,76.32,49,High Performer,-8.59,Yamini Das,Good,Excellent,Low Risk,No
+RN0363,81.83,100.0,62.26,83.02,84.21,48,High Performer,1.19,Sandeep Joshi,Excellent,Average,Low Risk,No
+RN0250,81.91,100.0,47.37,96.23,78.95,48,High Performer,-17.28,Dinesh Hedge,Good,Excellent,Low Risk,No
+RN1052,81.97,97.73,50.98,90.57,86.84,48,High Performer,-3.72,Radhika Jain,Good,Excellent,Low Risk,No
+RN0141,82.03,100.0,48.72,92.45,97.37,49,High Performer,4.92,Ojaswini Grover,Excellent,Average,Low Risk,No
+RN1352,82.12,100.0,53.7,96.23,100.0,50,High Performer,3.77,Heena Alva,Excellent,Average,Low Risk,No
+RN0116,82.2,97.56,42.11,92.45,86.84,46,High Performer,-5.61,Gayatri Sinha,Excellent,Average,Low Risk,No
+RN1587,82.2,100.0,55.32,98.11,92.11,48,High Performer,-6.01,Vaishnavi Joshi,Excellent,Average,Low Risk,No
+RN1145,82.37,98.18,49.02,96.23,92.11,50,High Performer,-4.12,Jatin Kulkarni,Excellent,Average,Low Risk,No
+RN0104,82.42,100.0,58.18,96.23,78.95,49,High Performer,-17.28,Anjali Pai,Excellent,Average,Low Risk,No
+RN1504,82.52,100.0,55.36,100.0,73.68,48,High Performer,-26.32,Isha Sinha,Excellent,Good,Low Risk,No
+RN1100,82.55,100.0,48.94,76.6,86.84,46,High Performer,10.25,Arunima Naik,Good,Excellent,Low Risk,No
+RN0815,82.62,98.25,62.26,96.23,76.32,46,High Performer,-19.91,Tanvi Gupta,Excellent,Average,Low Risk,No
+RN0894,82.84,100.0,57.78,86.79,92.11,48,High Performer,5.31,Kiran Banerjee,Excellent,Good,Low Risk,No
+RN1192,82.84,100.0,44.74,88.68,86.84,47,High Performer,-1.84,Alka Mishra,Excellent,Average,Low Risk,No
+RN1552,82.93,100.0,59.57,86.79,97.37,48,High Performer,10.58,Brijesh Pradhan,Excellent,Average,Low Risk,No
+RN1601,82.94,100.0,59.32,88.68,75.47,49,High Performer,-13.21,UrVashi Patel,Excellent,Good,Low Risk,No
+RN1216,83.01,100.0,45.24,92.45,97.37,49,High Performer,4.92,Lokesh Verma,Excellent,Average,Low Risk,No
+RN0087,83.22,100.0,45.1,77.36,86.84,48,High Performer,9.48,Priya Dutta,Excellent,Good,Low Risk,No
+RN1713,83.37,100.0,50.0,100.0,92.11,49,High Performer,-7.89,Sakshi Reddy,Excellent,Good,Low Risk,No
+RN0559,83.42,100.0,53.19,100.0,92.11,48,High Performer,-7.89,Kunwar Chatterjee,Excellent,Average,Low Risk,No
+RN1944,83.46,100.0,59.26,92.45,92.11,49,High Performer,-0.35,Inder Dutta,Excellent,Average,Low Risk,No
+RN1741,83.49,100.0,42.5,96.23,94.74,49,High Performer,-1.49,Lokesh Mallya,Excellent,Average,Low Risk,No
+RN0740,83.53,100.0,61.54,86.79,89.47,45,High Performer,2.68,Vineet Iyer,Excellent,Average,Low Risk,No
+RN1972,83.54,100.0,38.46,96.23,94.74,47,High Performer,-1.49,Juhi Dhillon,Excellent,Good,Low Risk,No
+RN0657,83.58,100.0,57.14,86.79,86.84,49,High Performer,0.05,Pranav Alva,Excellent,Average,Low Risk,No
+RN0857,83.62,100.0,56.82,100.0,89.47,50,High Performer,-10.53,Harini Tiwari,Excellent,Average,Low Risk,No
+RN0055,83.91,100.0,52.27,66.04,94.74,46,High Performer,28.7,Jyothi Banerjee,Excellent,Average,Low Risk,No
+RN1048,83.93,100.0,50.0,96.23,97.37,46,High Performer,1.14,Vandana Gill,Excellent,Average,Low Risk,No
+RN0604,84.06,100.0,35.9,96.23,100.0,49,High Performer,3.77,Indu Singh,Excellent,Average,Low Risk,No
+RN1188,84.13,100.0,48.94,79.25,92.11,48,High Performer,12.86,Garima Hegde,Excellent,Average,Low Risk,No
+RN1833,84.2,100.0,50.0,86.79,94.74,48,High Performer,7.94,Tanvi Prabhu,Excellent,Average,Low Risk,No
+RN0863,84.37,100.0,56.86,100.0,89.47,48,High Performer,-10.53,Garima Banerjee,Excellent,Good,Low Risk,No
+RN1641,84.56,100.0,54.55,96.23,73.68,49,High Performer,-22.54,Lata Sodhi,Excellent,Average,Low Risk,No
+RN1213,84.67,100.0,64.44,100.0,89.47,49,High Performer,-10.53,Sakshi Acharya,Excellent,Average,Low Risk,No
+RN0686,84.77,100.0,41.82,100.0,97.37,49,High Performer,-2.63,Deepa Ray,Excellent,Average,Low Risk,No
+RN0898,84.77,100.0,58.97,96.23,88.52,44,High Performer,-7.7,Poonam Hedge,Excellent,Good,Low Risk,No
+RN0147,84.82,100.0,63.83,96.23,92.11,48,High Performer,-4.12,Harini Kamath,Excellent,Good,Low Risk,No
+RN1736,84.94,100.0,59.26,86.79,92.11,49,High Performer,5.31,Shreya Prabhu,Excellent,Good,Low Risk,No
+RN0257,84.95,100.0,50.0,88.68,92.11,49,High Performer,3.43,Vikas Dhillon,Excellent,Good,Low Risk,No
+RN1275,84.96,100.0,51.28,67.92,84.21,49,High Performer,16.29,Tushar Murthy,Excellent,Good,Low Risk,No
+RN1515,85.06,100.0,52.63,98.11,89.47,47,Top Performer,-8.64,Piyush Sinha,Excellent,Good,Low Risk,No
+RN0709,85.15,100.0,62.75,96.23,97.37,47,Top Performer,1.14,Vijay Deshmukh,Excellent,Good,Low Risk,No
+RN1138,85.16,100.0,64.1,86.79,100.0,45,Top Performer,13.21,Ojaswini Nair,Excellent,Good,Low Risk,No
+RN1614,85.17,100.0,59.09,92.45,100.0,47,Top Performer,7.55,Brijesh Kamath,Excellent,Good,Low Risk,No
+RN0439,85.2,100.0,61.11,90.57,92.11,50,Top Performer,1.54,Bhavna Acharya,Excellent,Good,Low Risk,No
+RN0523,85.35,100.0,52.38,90.57,94.74,50,Top Performer,4.17,Vaishnavi Gowda,Excellent,Good,Low Risk,No
+RN0350,85.4,100.0,47.06,100.0,97.37,48,Top Performer,-2.63,Yash Pai,Excellent,Good,Low Risk,No
+RN0688,85.46,100.0,53.85,92.45,84.21,49,Top Performer,-8.24,Drishti Prabhu,Excellent,Average,Low Risk,No
+RN0652,85.47,100.0,53.85,100.0,94.74,44,Top Performer,-5.26,Ramya_M Malhotra,Excellent,Good,Low Risk,No
+RN0876,85.52,100.0,59.09,96.23,97.37,48,Top Performer,1.14,Ojaswini Bose,Excellent,Good,Low Risk,No
+RN0475,85.6,100.0,55.77,90.57,92.11,46,Top Performer,1.54,Anita Gill,Excellent,Good,Low Risk,No
+RN0149,85.73,100.0,55.56,100.0,71.05,49,Top Performer,-28.95,Barkha Kumar,Excellent,Good,Low Risk,No
+RN0228,85.76,100.0,64.1,100.0,84.21,48,Top Performer,-15.79,Nandini Mukherjee,Excellent,Good,Low Risk,No
+RN1740,85.76,100.0,55.36,90.57,92.11,49,Top Performer,1.54,Tejas Dutta,Excellent,Average,Low Risk,No
+RN0487,85.78,100.0,57.14,74.47,97.37,49,Top Performer,22.9,Bharat Bose,Excellent,Good,Low Risk,No
+RN0649,85.86,100.0,59.57,96.23,92.11,45,Top Performer,-4.12,Radhika Pandey,Excellent,Good,Low Risk,No
+RN1201,85.86,100.0,57.41,100.0,94.74,45,Top Performer,-5.26,Arunima Kapoor,Excellent,Good,Low Risk,No
+RN1114,85.89,100.0,58.82,88.68,92.11,48,Top Performer,3.43,Komal Kulkarni,Excellent,Good,Low Risk,No
+RN1466,85.91,100.0,57.89,86.79,94.74,49,Top Performer,7.94,Jatin Anand,Excellent,Good,Low Risk,No
+RN1936,85.91,100.0,59.57,92.45,94.74,46,Top Performer,2.28,Juhi Nayak,Excellent,Good,Low Risk,No
+RN0494,86.01,100.0,52.63,96.23,78.95,47,Top Performer,-17.28,Himanshu Kapoor,Excellent,Good,Low Risk,No
+RN0903,86.01,100.0,57.14,100.0,88.68,45,Top Performer,-11.32,Pooja Grover,Excellent,Good,Low Risk,No
+RN0928,86.02,100.0,63.83,96.23,92.11,48,Top Performer,-4.12,Vivek Khanna,Excellent,Good,Low Risk,No
+RN1312,86.05,100.0,58.33,86.79,86.84,49,Top Performer,0.05,Drishti Chawla,Excellent,Good,Low Risk,No
+RN1751,86.05,100.0,52.27,92.45,94.74,50,Top Performer,2.28,Swati Banerjee,Excellent,Good,Low Risk,No
+RN0536,86.07,100.0,47.27,77.36,100.0,49,Top Performer,22.64,Umesh Sen,Excellent,Good,Low Risk,No
+RN0795,86.08,100.0,60.53,96.23,84.21,46,Top Performer,-12.02,Mayank Grover,Excellent,Good,Low Risk,No
+RN0902,86.15,100.0,62.79,79.25,86.84,50,Top Performer,7.6,Sneha Rai,Excellent,Good,Low Risk,No
+RN0659,86.16,100.0,43.18,98.11,97.37,49,Top Performer,-0.74,Riya Hegde,Excellent,Good,Low Risk,No
+RN1610,86.16,100.0,63.83,100.0,92.11,48,Top Performer,-7.89,Kiran Bose,Excellent,Good,Low Risk,No
+RN1781,86.2,100.0,66.67,96.23,94.74,47,Top Performer,-1.49,Inder Nair,Excellent,Good,Low Risk,No
+RN1131,86.21,100.0,58.82,96.23,81.58,48,Top Performer,-14.65,Kajal Pradhan,Excellent,Good,Low Risk,No
+RN0488,86.25,100.0,50.0,92.45,92.11,48,Top Performer,-0.35,Poonam Shetty,Excellent,Good,Low Risk,No
+RN0518,86.26,100.0,66.67,92.45,92.11,48,Top Performer,-0.35,Amit Mehra,Excellent,Good,Low Risk,No
+RN0959,86.31,100.0,63.83,100.0,100.0,49,Top Performer,0.0,Sunil Shenoy,Excellent,Good,Low Risk,No
+RN1602,86.31,100.0,46.3,93.62,86.84,47,Top Performer,-6.77,Nikhil Kapoor,Excellent,Good,Low Risk,No
+RN0563,86.35,100.0,61.9,96.23,98.11,48,Top Performer,1.89,Dilip Roy,Excellent,Excellent,Low Risk,No
+RN0154,86.36,100.0,54.55,88.68,100.0,49,Top Performer,11.32,Sumit Chatterjee,Excellent,Good,Low Risk,No
+RN1302,86.36,100.0,53.7,90.57,92.11,50,Top Performer,1.54,Kiran Mishra,Excellent,Good,Low Risk,No
+RN1350,86.4,100.0,61.54,86.79,86.84,49,Top Performer,0.05,Kavya Bose,Excellent,Good,Low Risk,No
+RN1687,86.45,100.0,58.97,100.0,92.11,49,Top Performer,-7.89,Swati Alva,Excellent,Good,Low Risk,No
+RN0058,86.5,100.0,41.03,92.45,86.84,50,Top Performer,-5.61,Yash Dhillon,Excellent,Good,Low Risk,No
+RN1589,86.56,100.0,56.82,96.23,89.47,47,Top Performer,-6.75,Garima Anand,Excellent,Good,Low Risk,No
+RN1603,86.56,100.0,61.9,77.36,86.84,50,Top Performer,9.48,Vaishnavi Gupta,Excellent,Good,Low Risk,No
+RN0307,86.61,100.0,62.96,85.11,97.37,47,Top Performer,12.26,Deepika Banerjee,Excellent,Good,Low Risk,No
+RN1205,86.62,100.0,48.84,100.0,86.84,49,Top Performer,-13.16,Vivaan Patel,Excellent,Good,Low Risk,No
+RN0043,86.65,100.0,66.67,90.57,94.74,47,Top Performer,4.17,Sakshi Pai,Excellent,Good,Low Risk,No
+RN0138,86.65,100.0,47.5,86.79,94.74,50,Top Performer,7.94,Deepa Mukherjee,Excellent,Good,Low Risk,No
+RN0601,86.67,100.0,57.5,83.02,89.47,46,Top Performer,6.45,Harish Pandey,Excellent,Good,Low Risk,No
+RN0719,86.67,100.0,56.52,84.91,97.37,49,Top Performer,12.46,Ishita Kulkarni,Excellent,Good,Low Risk,No
+RN1309,86.77,100.0,59.57,86.79,94.74,47,Top Performer,7.94,Chitra Gill,Excellent,Good,Low Risk,No
+RN1618,86.78,100.0,60.53,96.23,94.74,50,Top Performer,-1.49,Zara Nair,Excellent,Good,Low Risk,No
+RN1375,86.83,100.0,62.5,88.68,92.11,48,Top Performer,3.43,Gagan Gowda,Excellent,Good,Low Risk,No
+RN1804,86.83,100.0,48.72,86.79,94.74,49,Top Performer,7.94,Alok Kumar,Excellent,Good,Low Risk,No
+RN0611,86.85,100.0,58.97,82.98,89.47,48,Top Performer,6.49,Sneha Sen,Excellent,Good,Low Risk,No
+RN1596,86.87,100.0,58.97,100.0,97.37,48,Top Performer,-2.63,Pradeep Sinha,Excellent,Good,Low Risk,No
+RN1923,86.88,100.0,61.7,96.23,94.74,50,Top Performer,-1.49,Himanshu Iyer,Excellent,Good,Low Risk,No
+RN1431,87.0,100.0,63.16,96.23,89.47,49,Top Performer,-6.75,Uma Kulkarni,Excellent,Good,Low Risk,No
+RN0768,87.01,100.0,68.09,90.57,86.84,49,Top Performer,-3.72,Mansi Roy,Excellent,Good,Low Risk,No
+RN0548,87.06,100.0,61.9,90.57,97.37,50,Top Performer,6.8,Priya Shenoy,Excellent,Good,Low Risk,No
+RN1226,87.06,100.0,68.25,96.23,98.11,47,Top Performer,1.89,Kamal Pandey,Excellent,Good,Low Risk,No
+RN0672,87.08,100.0,51.85,96.23,89.47,49,Top Performer,-6.75,Naveen Chawla,Excellent,Good,Low Risk,No
+RN0619,87.15,100.0,59.26,94.34,89.47,47,Top Performer,-4.87,Shreya Bhat,Excellent,Good,Low Risk,No
+RN1667,87.16,100.0,53.85,100.0,86.84,49,Top Performer,-13.16,Payal Acharya,Excellent,Good,Low Risk,No
+RN0805,87.21,100.0,57.63,86.79,100.0,47,Top Performer,13.21,Ankit Pai,Excellent,Good,Low Risk,No
+RN1319,87.22,100.0,56.82,92.45,84.21,48,Top Performer,-8.24,Deepika Rao,Excellent,Good,Low Risk,No
+RN1581,87.22,100.0,58.97,75.47,94.74,49,Top Performer,19.27,Jatin Singh,Excellent,Good,Low Risk,No
+RN0880,87.24,100.0,56.41,86.79,92.11,48,Top Performer,5.31,Dhruv Pandey,Excellent,Good,Low Risk,No
+RN1163,87.25,100.0,69.84,92.45,86.84,49,Top Performer,-5.61,Pallavi Hedge,Excellent,Good,Low Risk,No
+RN0596,87.27,100.0,65.96,100.0,92.11,48,Top Performer,-7.89,Suman Dutta,Excellent,Good,Low Risk,No
+RN0787,87.28,100.0,56.41,100.0,92.11,48,Top Performer,-7.89,Vineet Kulkarni,Excellent,Good,Low Risk,No
+RN1183,87.29,100.0,61.54,86.79,94.34,48,Top Performer,7.55,Ojaswini Kapoor,Excellent,Good,Low Risk,No
+RN1475,87.3,100.0,68.09,86.79,97.37,50,Top Performer,10.58,Lakshmi Prasad,Excellent,Good,Low Risk,No
+RN0656,87.31,100.0,44.68,96.23,89.47,48,Top Performer,-6.75,UrVashi Nayak,Excellent,Good,Low Risk,No
+RN1064,87.39,100.0,60.71,88.68,94.74,49,Top Performer,6.06,Swati Patel,Excellent,Good,Low Risk,No
+RN1106,87.39,100.0,53.85,100.0,92.11,46,Top Performer,-7.89,Dinesh Dutta,Excellent,Good,Low Risk,No
+RN0622,87.41,100.0,58.73,92.45,81.58,44,Top Performer,-10.87,Indu Ray,Excellent,Good,Low Risk,No
+RN0397,87.44,100.0,54.55,100.0,92.11,47,Top Performer,-7.89,Varun Joshi,Excellent,Good,Low Risk,No
+RN0796,87.53,100.0,50.0,96.23,89.47,50,Top Performer,-6.75,Uma Patel,Excellent,Good,Low Risk,No
+RN1126,87.62,100.0,56.41,90.57,94.74,47,Top Performer,4.17,Khushi Pillai,Excellent,Good,Low Risk,No
+RN1761,87.64,100.0,61.22,92.45,100.0,49,Top Performer,7.55,Vineet Das,Excellent,Good,Low Risk,No
+RN1825,87.7,100.0,53.85,83.02,76.32,47,Top Performer,-6.7,Barkha Pandey,Excellent,Good,Low Risk,No
+RN0704,87.71,100.0,55.36,92.45,94.74,50,Top Performer,2.28,Kunwar Hegde,Excellent,Good,Low Risk,No
+RN1164,87.72,100.0,57.5,94.34,66.04,48,Top Performer,-28.3,Yashaswini Mallya,Excellent,Good,Low Risk,No
+RN0517,87.73,100.0,65.12,96.23,92.11,48,Top Performer,-4.12,Deepika Kamath,Excellent,Good,Low Risk,No
+RN0993,87.74,100.0,65.0,86.79,100.0,49,Top Performer,13.21,Diya Malhotra,Excellent,Good,Low Risk,No
+RN1805,87.74,100.0,64.29,88.68,97.37,50,Top Performer,8.69,Deepika Choudhury,Excellent,Good,Low Risk,No
+RN1341,87.79,100.0,64.71,92.45,90.57,48,Top Performer,-1.89,Manav Das,Excellent,Good,Low Risk,No
+RN1468,87.82,100.0,52.63,96.23,78.95,46,Top Performer,-17.28,Shreya Pandey,Excellent,Good,Low Risk,No
+RN1555,87.86,100.0,58.97,100.0,94.74,49,Top Performer,-5.26,Monika Sen,Excellent,Good,Low Risk,No
+RN0420,87.87,100.0,55.32,95.56,100.0,46,Top Performer,4.44,Garima Iyer,Excellent,Good,Low Risk,No
+RN1322,87.93,100.0,50.0,100.0,86.84,49,Top Performer,-13.16,Tejaswini Sinha,Excellent,Good,Low Risk,No
+RN1947,87.96,100.0,64.1,83.02,92.11,48,Top Performer,9.09,Deepa Malhotra,Excellent,Excellent,Low Risk,No
+RN1844,87.97,100.0,63.83,86.79,89.47,49,Top Performer,2.68,Vikram Choudhury,Excellent,Excellent,Low Risk,No
+RN0931,87.98,100.0,55.26,100.0,92.11,48,Top Performer,-7.89,Gagan Mukherjee,Excellent,Good,Low Risk,No
+RN1328,88.0,100.0,64.1,100.0,94.74,50,Top Performer,-5.26,Charu Sen,Excellent,Good,Low Risk,No
+RN1637,88.02,100.0,66.67,92.45,100.0,49,Top Performer,7.55,Aditya Rao,Excellent,Excellent,Low Risk,No
+RN1432,88.03,100.0,64.1,96.23,94.74,48,Top Performer,-1.49,Radhika Pradhan,Excellent,Good,Low Risk,No
+RN1277,88.04,100.0,52.27,81.13,89.47,50,Top Performer,8.34,Kriti Prasad,Excellent,Good,Low Risk,No
+RN0776,88.1,100.0,58.14,100.0,86.84,48,Top Performer,-13.16,Priya Gupta,Excellent,Good,Low Risk,No
+RN1860,88.22,100.0,61.54,96.23,97.37,47,Top Performer,1.14,Nisha Kulkarni,Excellent,Good,Low Risk,No
+RN1327,88.23,100.0,66.67,92.45,92.11,49,Top Performer,-0.35,Deepak Alva,Excellent,Good,Low Risk,No
+RN0124,88.25,100.0,53.19,92.45,92.11,48,Top Performer,-0.35,Arjun Hedge,Excellent,Good,Low Risk,No
+RN0545,88.34,100.0,52.5,100.0,92.11,46,Top Performer,-7.89,Shreya Shenoy,Excellent,Good,Low Risk,No
+RN0677,88.36,100.0,68.09,100.0,96.23,49,Top Performer,-3.77,Raman Deshmukh,Excellent,Excellent,Low Risk,No
+RN1792,88.51,100.0,64.81,84.91,97.37,49,Top Performer,12.46,Monika Kumar,Excellent,Good,Low Risk,No
+RN0568,88.61,100.0,66.67,100.0,86.84,46,Top Performer,-13.16,Malini Sodhi,Excellent,Good,Low Risk,No
+RN1797,88.61,100.0,66.67,96.23,100.0,49,Top Performer,3.77,Anjali Banerjee,Excellent,Excellent,Low Risk,No
+RN1759,88.62,100.0,61.9,96.23,92.11,50,Top Performer,-4.12,Mehak Verma,Excellent,Good,Low Risk,No
+RN0949,88.63,100.0,51.28,96.23,92.11,48,Top Performer,-4.12,Prisha Dutta,Excellent,Good,Low Risk,No
+RN1638,88.79,100.0,57.41,100.0,97.37,48,Top Performer,-2.63,Abha Rai,Excellent,Excellent,Low Risk,No
+RN1112,88.86,100.0,61.54,100.0,94.74,45,Top Performer,-5.26,Abhishek Khanna,Excellent,Excellent,Low Risk,No
+RN1056,88.9,100.0,66.67,100.0,97.37,50,Top Performer,-2.63,Payal Sharma,Excellent,Excellent,Low Risk,No
+RN1570,88.92,100.0,62.75,88.68,76.32,48,Top Performer,-12.36,Riya Murthy,Excellent,Good,Low Risk,No
+RN0065,89.06,100.0,59.09,96.23,89.47,50,Top Performer,-6.75,Kapil Dutta,Excellent,Excellent,Low Risk,No
+RN1397,89.1,100.0,62.5,100.0,94.74,46,Top Performer,-5.26,Komal Shetty,Excellent,Excellent,Low Risk,No
+RN1925,89.1,100.0,46.3,92.45,94.74,49,Top Performer,2.28,Arunima Pandey,Excellent,Good,Low Risk,No
+RN1918,89.12,100.0,57.41,92.45,100.0,49,Top Performer,7.55,Jaideep Singh,Excellent,Excellent,Low Risk,No
+RN1530,89.14,100.0,59.32,100.0,94.74,47,Top Performer,-5.26,Sumit Hegde,Excellent,Good,Low Risk,No
+RN0005,89.17,100.0,55.56,100.0,97.37,47,Top Performer,-2.63,Ishita Nayak,Excellent,Excellent,Low Risk,No
+RN1871,89.22,100.0,57.45,100.0,97.37,50,Top Performer,-2.63,Pooja Verma,Excellent,Good,Low Risk,No
+RN0905,89.25,100.0,64.29,92.45,94.74,46,Top Performer,2.28,Kiran Prabhu,Excellent,Excellent,Low Risk,No
+RN1181,89.25,100.0,50.91,90.57,97.37,47,Top Performer,6.8,Ritu Malhotra,Excellent,Good,Low Risk,No
+RN0989,89.28,100.0,57.89,96.23,92.11,50,Top Performer,-4.12,Ganesh Sodhi,Excellent,Good,Low Risk,No
+RN1238,89.3,100.0,64.1,96.23,97.37,50,Top Performer,1.14,Sandeep Gowda,Excellent,Excellent,Low Risk,No
+RN0312,89.37,100.0,66.67,96.23,100.0,50,Top Performer,3.77,Anjali Verma,Excellent,Excellent,Low Risk,No
+RN1178,89.41,100.0,59.09,100.0,86.84,49,Top Performer,-13.16,Inder Murthy,Excellent,Excellent,Low Risk,No
+RN0839,89.44,100.0,56.52,94.34,94.74,49,Top Performer,0.4,Deepika Joshi,Excellent,Excellent,Low Risk,No
+RN1300,89.5,100.0,66.67,96.23,100.0,47,Top Performer,3.77,Rajat Nayak,Excellent,Excellent,Low Risk,No
+RN1021,89.53,100.0,68.18,96.23,94.74,49,Top Performer,-1.49,Kriti Iyer,Excellent,Excellent,Low Risk,No
+RN0163,89.54,100.0,63.16,94.34,92.11,46,Top Performer,-2.23,Tejaswini Prabhu,Excellent,Excellent,Low Risk,No
+RN0651,89.57,100.0,67.86,86.79,92.11,49,Top Performer,5.31,Dilip Prasad,Excellent,Excellent,Low Risk,No
+RN0233,89.79,100.0,61.9,100.0,100.0,48,Top Performer,0.0,Inder Banerjee,Excellent,Excellent,Low Risk,No
+RN0142,89.86,100.0,69.09,86.79,84.21,50,Top Performer,-2.58,Jaideep Hedge,Excellent,Excellent,Low Risk,No
+RN0316,89.9,100.0,65.96,90.57,100.0,48,Top Performer,9.43,Aanya Dhillon,Excellent,Excellent,Low Risk,No
+RN1913,89.91,100.0,64.29,83.02,92.11,48,Top Performer,9.09,Suresh Murthy,Excellent,Excellent,Low Risk,No
+RN0724,89.96,100.0,64.29,100.0,100.0,47,Top Performer,0.0,Naveen Naik,Excellent,Excellent,Low Risk,No
+RN0011,89.97,100.0,63.64,100.0,100.0,46,Top Performer,0.0,Hina Deshmukh,Excellent,Excellent,Low Risk,No
+RN1353,89.99,100.0,67.31,100.0,84.21,47,Top Performer,-15.79,Aditya Prabhu,Excellent,Excellent,Low Risk,No
+RN0809,90.0,100.0,47.5,90.57,92.11,46,Top Performer,1.54,Pari Menon,Excellent,Excellent,Low Risk,No
+RN0846,90.01,100.0,69.23,90.57,100.0,49,Top Performer,9.43,Nitish Bose,Excellent,Excellent,Low Risk,No
+RN1886,90.02,100.0,67.92,92.45,94.74,49,Top Performer,2.28,Gayatri Kumar,Excellent,Excellent,Low Risk,No
+RN0441,90.04,100.0,57.5,96.23,92.11,46,Top Performer,-4.12,Malini Acharya,Excellent,Excellent,Low Risk,No
+RN1282,90.14,100.0,65.45,100.0,92.11,50,Top Performer,-7.89,Sakshi Pandey,Excellent,Excellent,Low Risk,No
+RN1287,90.18,100.0,51.28,100.0,100.0,48,Top Performer,0.0,Ritu Roy,Excellent,Excellent,Low Risk,No
+RN1608,90.2,100.0,69.23,85.11,100.0,47,Top Performer,14.89,Kriti Banerjee,Excellent,Excellent,Low Risk,No
+RN1010,90.21,100.0,69.05,96.23,94.74,48,Top Performer,-1.49,Vaishnavi Pillai,Excellent,Excellent,Low Risk,No
+RN1086,90.26,100.0,44.68,91.49,100.0,49,Top Performer,8.51,Arjun Mallya,Excellent,Excellent,Low Risk,No
+RN1773,90.3,100.0,68.52,92.45,97.37,48,Top Performer,4.92,Heena Mallya,Excellent,Excellent,Low Risk,No
+RN1335,90.41,100.0,61.9,96.23,100.0,49,Top Performer,3.77,Drishti Sen,Excellent,Excellent,Low Risk,No
+RN0856,90.42,100.0,69.23,74.47,92.11,45,Top Performer,17.64,Amita Tiwari,Excellent,Excellent,Low Risk,No
+RN0379,90.44,100.0,72.55,90.57,100.0,47,Top Performer,9.43,Prisha Gowda,Excellent,Excellent,Low Risk,No
+RN0803,90.45,100.0,53.85,100.0,100.0,43,Top Performer,0.0,Jyothi Ray,Excellent,Excellent,Low Risk,No
+RN1490,90.47,100.0,67.5,96.23,100.0,50,Top Performer,3.77,Manav Bose,Excellent,Excellent,Low Risk,No
+RN1517,90.5,100.0,72.34,100.0,97.37,50,Top Performer,-2.63,Vikas Nayak,Excellent,Excellent,Low Risk,No
+RN1607,90.65,100.0,65.96,96.23,94.74,49,Top Performer,-1.49,Radhika Reddy,Excellent,Excellent,Low Risk,No
+RN0182,90.68,100.0,61.11,90.57,100.0,49,Top Performer,9.43,Harini Singh,Excellent,Excellent,Low Risk,No
+RN1629,90.77,100.0,71.05,100.0,100.0,48,Top Performer,0.0,Piyush Kumar,Excellent,Excellent,Low Risk,No
+RN1948,90.77,100.0,63.83,92.45,100.0,46,Top Performer,7.55,Ananya Chawla,Excellent,Excellent,Low Risk,No
+RN0626,90.8,100.0,59.26,100.0,100.0,47,Top Performer,0.0,Tejaswini Deshmukh,Excellent,Excellent,Low Risk,No
+RN0245,90.82,100.0,53.85,100.0,98.11,44,Top Performer,-1.89,Yamini Chawla,Excellent,Excellent,Low Risk,No
+RN1578,90.83,100.0,73.58,96.23,100.0,48,Top Performer,3.77,Ritu Murthy,Excellent,Excellent,Low Risk,No
+RN0253,90.84,100.0,57.14,90.57,97.37,49,Top Performer,6.8,Priya Ray,Excellent,Excellent,Low Risk,No
+RN0185,90.92,100.0,62.5,96.23,97.37,50,Top Performer,1.14,Anuj Hedge,Excellent,Excellent,Low Risk,No
+RN0278,90.92,100.0,60.0,86.79,100.0,48,Top Performer,13.21,Utkarsh Gupta,Excellent,Excellent,Low Risk,No
+RN1853,90.93,100.0,53.85,100.0,89.47,49,Top Performer,-10.53,Jyothi Gowda,Excellent,Excellent,Low Risk,No
+RN0878,90.94,100.0,62.5,96.23,94.74,47,Top Performer,-1.49,Vijay Tiwari,Excellent,Excellent,Low Risk,No
+RN0357,90.95,100.0,55.32,78.72,100.0,47,Top Performer,21.28,Kriti Roy,Excellent,Excellent,Low Risk,No
+RN1579,90.99,100.0,64.1,83.02,94.74,49,Top Performer,11.72,Komal Prasad,Excellent,Excellent,Low Risk,No
+RN1705,91.02,100.0,72.34,96.23,92.11,49,Top Performer,-4.12,Deepika Gill,Excellent,Excellent,Low Risk,No
+RN1521,91.04,100.0,66.67,92.45,92.11,50,Top Performer,-0.35,Abha Chatterjee,Excellent,Excellent,Low Risk,No
+RN0244,91.05,100.0,67.92,96.23,97.37,49,Top Performer,1.14,Gauri Rao,Excellent,Excellent,Low Risk,No
+RN0630,91.05,100.0,61.54,100.0,94.74,48,Top Performer,-5.26,Aadhya Gupta,Excellent,Excellent,Low Risk,No
+RN0746,91.06,100.0,67.5,96.23,94.74,49,Top Performer,-1.49,Ayush Rai,Excellent,Excellent,Low Risk,No
+RN0414,91.08,100.0,65.91,92.45,89.47,47,Top Performer,-2.98,Diya Kumar,Excellent,Excellent,Low Risk,No
+RN0445,91.16,100.0,61.36,100.0,94.74,50,Top Performer,-5.26,Ojaswini Ray,Excellent,Excellent,Low Risk,No
+RN0881,91.16,100.0,66.67,100.0,94.74,47,Top Performer,-5.26,Malini Mishra,Excellent,Excellent,Low Risk,No
+RN1699,91.17,100.0,69.39,96.23,97.37,49,Top Performer,1.14,Pankaj Sodhi,Excellent,Excellent,Low Risk,No
+RN0251,91.18,100.0,69.77,96.23,94.74,47,Top Performer,-1.49,Anuj Acharya,Excellent,Excellent,Low Risk,No
+RN0816,91.18,100.0,69.05,100.0,97.37,49,Top Performer,-2.63,Gayatri Iyer,Excellent,Excellent,Low Risk,No
+RN1694,91.19,100.0,68.89,100.0,97.37,46,Top Performer,-2.63,Mehak Mukherjee,Excellent,Excellent,Low Risk,No
+RN1001,91.2,100.0,69.23,96.23,100.0,49,Top Performer,3.77,Divya Iyer,Excellent,Excellent,Low Risk,No
+RN0382,91.21,100.0,65.96,100.0,94.74,48,Top Performer,-5.26,Yashaswini Banerjee,Excellent,Excellent,Low Risk,No
+RN0121,91.23,100.0,48.94,90.57,97.37,48,Top Performer,6.8,Chandan Prasad,Excellent,Excellent,Low Risk,No
+RN0700,91.23,100.0,60.0,100.0,100.0,46,Top Performer,0.0,Barkha Malhotra,Excellent,Excellent,Low Risk,No
+RN1859,91.28,100.0,64.44,90.57,92.11,49,Top Performer,1.54,Sumit Banerjee,Excellent,Excellent,Low Risk,No
+RN1708,91.33,100.0,66.67,100.0,89.47,48,Top Performer,-10.53,Manav Nayak,Excellent,Excellent,Low Risk,No
+RN0266,91.35,100.0,65.45,96.23,100.0,49,Top Performer,3.77,Tejas Dhillon,Excellent,Excellent,Low Risk,No
+RN1071,91.4,100.0,70.21,83.02,94.74,50,Top Performer,11.72,Swati Gupta,Excellent,Excellent,Low Risk,No
+RN1398,91.4,100.0,76.19,86.79,100.0,49,Top Performer,13.21,Ganesh Mishra,Excellent,Excellent,Low Risk,No
+RN0520,91.42,100.0,70.91,100.0,94.74,47,Top Performer,-5.26,Dinesh Mallya,Excellent,Excellent,Low Risk,No
+RN1873,91.57,100.0,57.5,92.45,94.74,47,Top Performer,2.28,Harish Sinha,Excellent,Excellent,Low Risk,No
+RN0022,91.63,100.0,72.73,100.0,100.0,46,Top Performer,0.0,Charu Naik,Excellent,Excellent,Low Risk,No
+RN1271,91.63,100.0,71.05,96.23,92.11,47,Top Performer,-4.12,Karan Prabhu,Excellent,Excellent,Low Risk,No
+RN0801,91.65,100.0,54.76,96.23,97.37,49,Top Performer,1.14,Gaurav Mallya,Excellent,Excellent,Low Risk,No
+RN1063,91.7,100.0,64.29,86.79,97.37,47,Top Performer,10.58,Hina Bose,Excellent,Excellent,Low Risk,No
+RN0440,91.71,100.0,72.34,98.11,97.37,46,Top Performer,-0.74,Dev Mehta,Excellent,Excellent,Low Risk,No
+RN1890,91.83,100.0,71.79,100.0,100.0,46,Top Performer,0.0,Dhruv Iyer,Excellent,Excellent,Low Risk,No
+RN1349,91.86,100.0,70.18,96.23,100.0,46,Top Performer,3.77,Vikram Kamath,Excellent,Excellent,Low Risk,No
+RN0277,91.87,100.0,57.45,100.0,100.0,46,Top Performer,0.0,Abhishek Pai,Excellent,Excellent,Low Risk,No
+RN1473,91.88,100.0,68.09,100.0,100.0,50,Top Performer,0.0,Pradeep Tiwari,Excellent,Excellent,Low Risk,No
+RN1672,91.97,100.0,70.37,100.0,100.0,47,Top Performer,0.0,Rohan Dhillon,Excellent,Excellent,Low Risk,No
+RN1793,92.0,100.0,65.96,96.23,97.37,49,Top Performer,1.14,Priya Nayak,Excellent,Excellent,Low Risk,No
+RN0550,92.09,100.0,74.36,100.0,92.11,48,Top Performer,-7.89,Nandini Pillai,Excellent,Excellent,Low Risk,No
+RN0944,92.1,100.0,64.71,100.0,100.0,47,Top Performer,0.0,Isha Khanna,Excellent,Excellent,Low Risk,No
+RN1507,92.21,100.0,58.93,100.0,97.37,49,Top Performer,-2.63,Arjun Pandey,Excellent,Excellent,Low Risk,No
+RN1388,92.31,100.0,64.81,100.0,100.0,47,Top Performer,0.0,Harini Choudhury,Excellent,Excellent,Low Risk,No
+RN1985,92.35,100.0,70.37,96.23,94.74,49,Top Performer,-1.49,Kriti Dhillon,Excellent,Excellent,Low Risk,No
+RN1185,92.38,100.0,64.1,100.0,100.0,45,Top Performer,0.0,Amita Jain,Excellent,Excellent,Low Risk,No
+RN1459,92.38,100.0,57.14,100.0,94.74,49,Top Performer,-5.26,Akash Chatterjee,Excellent,Excellent,Low Risk,No
+RN0070,92.5,100.0,71.79,86.79,97.37,49,Top Performer,10.58,Kriti Prabhu,Excellent,Excellent,Low Risk,No
+RN0103,92.5,100.0,63.83,100.0,92.11,47,Top Performer,-7.89,Ankit Rai,Excellent,Excellent,Low Risk,No
+RN0586,92.77,100.0,63.83,100.0,97.37,48,Top Performer,-2.63,Hemant Alva,Excellent,Excellent,Low Risk,No
+RN0465,92.78,100.0,71.79,86.79,100.0,49,Top Performer,13.21,Jaideep Shetty,Excellent,Excellent,Low Risk,No
+RN1061,92.91,100.0,74.51,92.45,94.74,47,Top Performer,2.28,Jyothi Choudhury,Excellent,Excellent,Low Risk,No
+RN1616,92.98,100.0,70.21,100.0,100.0,48,Top Performer,0.0,Payal Pillai,Excellent,Excellent,Low Risk,No
+RN1717,93.09,100.0,77.78,100.0,86.84,48,Top Performer,-13.16,Gayatri Bose,Excellent,Excellent,Low Risk,No
+RN0508,35.03,66.67,6.82,43.4,21.05,47,Needs Support,-22.34,Anita Jain,Weak,Good,Medium Risk,Yes
+RN0291,35.09,63.04,13.33,32.08,23.68,49,Needs Support,-8.39,Aditi Kulkarni,Weak,Average,Medium Risk,Yes
+RN0930,35.11,71.93,12.77,33.96,18.42,50,Needs Support,-15.54,Riya Sinha,Weak,Good,Medium Risk,Yes
+RN1057,35.14,62.22,10.26,52.83,18.42,49,Needs Support,-34.41,Yamini Sen,Weak,Good,Medium Risk,Yes
+RN1485,35.18,67.44,5.88,43.4,39.47,49,Needs Support,-3.92,Pranav Nayak,Weak,Good,Medium Risk,Yes
+RN0923,35.26,56.82,8.51,56.6,52.63,47,Needs Support,-3.97,Anita Prasad,Weak,Excellent,Medium Risk,Yes
+RN0585,35.27,65.12,4.44,30.19,34.21,49,Needs Support,4.02,Lata Bhat,Weak,Good,Medium Risk,Yes
+RN1262,35.39,66.07,13.33,43.4,39.47,47,Needs Support,-3.92,Chandan Nayak,Weak,Good,Medium Risk,Yes
+RN0015,35.4,62.5,11.9,22.64,34.21,48,Needs Support,11.57,Uma Grover,Weak,Good,Medium Risk,Yes
+RN1195,35.44,68.52,10.64,33.96,65.79,50,Needs Support,31.83,Hemant Reddy,Weak,Good,Medium Risk,Yes
+RN0515,35.53,70.73,1.85,13.21,42.11,48,Needs Support,28.9,Dilip Gill,Weak,Good,Medium Risk,Yes
+RN1429,35.68,65.12,6.67,52.83,42.11,50,Needs Support,-10.72,Jyothi Sodhi,Weak,Good,Medium Risk,Yes
+RN1952,35.68,60.0,7.14,49.06,44.74,49,Needs Support,-4.32,Rashmi Gowda,Weak,Good,Medium Risk,Yes
+RN0886,35.76,70.59,7.27,45.28,26.32,49,Needs Support,-18.97,Sandeep Pillai,Weak,Good,Medium Risk,Yes
+RN1339,35.82,55.81,10.87,32.08,31.58,49,Needs Support,-0.5,Lokesh Khanna,Weak,Good,Medium Risk,Yes
+RN1887,35.84,67.44,15.38,30.19,50.0,49,Needs Support,19.81,Alka Kumar,Weak,Good,Medium Risk,Yes
+RN0044,35.87,66.67,5.26,18.87,5.26,49,Needs Support,-13.6,Aanya Anand,Weak,Good,Medium Risk,Yes
+RN1877,35.9,66.67,14.75,50.94,52.63,49,Needs Support,1.69,Gayatri Reddy,Weak,Excellent,Medium Risk,Yes
+RN1688,35.96,61.36,7.41,54.72,28.95,48,Needs Support,-25.77,Ananya Naik,Weak,Good,Medium Risk,Yes
+RN1703,36.0,65.31,10.64,43.4,50.0,48,Needs Support,6.6,Bhuvnesh Deshmukh,Weak,Good,Medium Risk,Yes
+RN0304,36.13,60.78,11.11,33.96,55.26,49,Needs Support,21.3,Diya Gupta,Weak,Good,Medium Risk,Yes
+RN0474,36.14,71.11,7.27,54.72,39.47,45,Needs Support,-15.24,Vidya Verma,Weak,Good,Medium Risk,Yes
+RN1635,36.18,60.53,15.22,47.17,60.53,46,Needs Support,13.36,Aadhya Rao,Weak,Good,Medium Risk,Yes
+RN0609,36.19,70.45,12.77,56.6,26.32,48,Needs Support,-30.29,Khushi Gowda,Weak,Excellent,Medium Risk,Yes
+RN1499,36.19,57.41,11.11,33.96,44.74,48,Needs Support,10.77,Nitin Gupta,Weak,Good,Medium Risk,Yes
+RN1285,36.2,62.79,11.86,41.51,34.21,48,Needs Support,-7.3,Ojaswini Bhat,Weak,Good,Medium Risk,Yes
+RN0254,36.34,69.77,2.13,43.4,31.58,50,Needs Support,-11.82,Dinesh Sharma,Weak,Good,Medium Risk,Yes
+RN0056,36.37,79.07,2.33,45.28,21.05,45,Needs Support,-24.23,Ojaswini Mallya,Weak,Good,Medium Risk,Yes
+RN0143,36.37,68.89,8.47,39.62,26.32,50,Needs Support,-13.31,Bhavna Mukherjee,Weak,Good,Medium Risk,Yes
+RN1042,36.37,72.34,6.67,20.75,47.37,47,Needs Support,26.61,Anuj Chawla,Weak,Good,Medium Risk,Yes
+RN0918,36.38,74.51,6.38,58.49,36.84,50,Needs Support,-21.65,Rahul Alva,Weak,Good,Medium Risk,Yes
+RN1304,36.4,71.43,7.41,22.64,31.58,48,Needs Support,8.94,Tejaswini Sodhi,Weak,Good,Medium Risk,Yes
+RN1497,36.41,60.66,10.2,44.44,34.21,48,Needs Support,-10.23,Lata Mukherjee,Weak,Good,Medium Risk,Yes
+RN1924,36.42,59.65,12.5,41.51,44.74,47,Needs Support,3.23,Sneha Patel,Weak,Good,Medium Risk,Yes
+RN1571,36.44,66.67,15.09,33.96,44.74,49,Needs Support,10.77,Abha Joshi,Weak,Good,Medium Risk,Yes
+RN1707,36.5,72.73,7.55,7.55,44.74,49,Needs Support,37.19,Jyothi Prasad,Weak,Excellent,Medium Risk,Yes
+RN0162,36.53,64.29,7.69,28.3,42.11,47,Needs Support,13.8,Kiran Gill,Weak,Average,Medium Risk,Yes
+RN0159,36.61,66.67,12.82,52.83,47.37,49,Needs Support,-5.46,Yamini Singh,Weak,Good,Medium Risk,Yes
+RN1289,36.65,67.44,7.14,35.85,50.0,49,Needs Support,14.15,Alok Shenoy,Weak,Excellent,Medium Risk,Yes
+RN1447,36.71,55.56,7.27,49.06,47.37,48,Needs Support,-1.69,Bharat Shenoy,Weak,Good,Medium Risk,Yes
+RN1535,36.71,62.22,12.77,37.74,15.79,49,Needs Support,-21.95,Dinesh Acharya,Weak,Excellent,Medium Risk,Yes
+RN0689,36.74,65.45,14.29,35.85,60.53,50,Needs Support,24.68,Shreya Kulkarni,Weak,Good,Medium Risk,Yes
+RN0432,36.76,71.43,5.77,18.87,63.16,47,Needs Support,44.29,Nitin Mallya,Weak,Good,Medium Risk,Yes
+RN1651,36.96,71.11,7.41,37.74,28.95,50,Needs Support,-8.79,Arunima Deshmukh,Weak,Good,Medium Risk,Yes
+RN1774,36.97,69.23,7.84,28.3,42.11,49,Needs Support,13.8,Deepak Chatterjee,Weak,Good,Medium Risk,Yes
+RN1809,36.98,61.9,7.69,54.72,44.74,46,Needs Support,-9.98,Aanchal Tiwari,Weak,Good,Medium Risk,Yes
+RN0913,36.99,67.21,2.33,39.62,34.21,49,Needs Support,-5.41,Ananya Malhotra,Weak,Good,Medium Risk,Yes
+RN1123,36.99,69.39,12.5,24.53,36.84,44,Needs Support,12.31,Vidya Jain,Weak,Good,Medium Risk,Yes
+RN0415,37.0,70.49,13.73,28.3,68.42,47,Needs Support,40.12,Neha Patel,Weak,Good,Medium Risk,Yes
+RN0464,37.09,64.1,17.02,37.74,42.11,50,Needs Support,4.37,Vaishnavi Kumar,Weak,Good,Medium Risk,Yes
+RN1202,37.18,68.63,13.16,37.74,39.47,49,Needs Support,1.74,Shreya Sodhi,Weak,Good,Medium Risk,Yes
+RN0980,37.24,62.75,7.41,37.74,28.95,50,Needs Support,-8.79,Vivek Sinha,Weak,Good,Medium Risk,Yes
+RN1443,37.24,69.09,17.78,45.28,18.42,48,Needs Support,-26.86,Rashmi Murthy,Weak,Good,Medium Risk,Yes
+RN0335,37.29,62.75,10.64,37.74,55.26,49,Needs Support,17.53,Pankaj Shenoy,Weak,Excellent,Medium Risk,Yes
+RN0778,37.29,70.0,4.26,39.62,26.32,48,Needs Support,-13.31,Pooja Mukherjee,Weak,Good,Medium Risk,Yes
+RN0408,37.33,71.43,6.67,56.6,39.47,48,Needs Support,-17.13,Garima Kamath,Weak,Good,Medium Risk,Yes
+RN0150,37.41,64.44,10.87,35.85,21.05,48,Needs Support,-14.8,Indu Sen,Weak,Good,Medium Risk,Yes
+RN1640,37.41,63.83,10.26,28.3,28.95,48,Needs Support,0.65,Vaishnavi Alva,Weak,Good,Medium Risk,Yes
+RN1167,37.43,65.96,1.92,64.15,23.68,48,Needs Support,-40.47,Satish Gowda,Weak,Good,Medium Risk,Yes
+RN1565,37.48,68.42,7.84,37.74,68.42,48,Needs Support,30.69,Deepa Pandey,Weak,Good,Medium Risk,Yes
+RN0372,37.49,72.09,8.51,45.28,57.89,49,Needs Support,12.61,Nidhi Chawla,Weak,Good,Medium Risk,Yes
+RN0204,37.52,59.32,18.52,33.96,42.11,50,Needs Support,8.14,Anjali Pradhan,Weak,Good,Medium Risk,Yes
+RN1261,37.53,65.0,6.38,64.15,42.11,50,Needs Support,-22.05,Aanya Bose,Weak,Good,Medium Risk,Yes
+RN0381,37.56,66.67,4.76,37.74,39.47,50,Needs Support,1.74,Barkha Mishra,Weak,Good,Medium Risk,Yes
+RN1256,37.56,73.33,10.0,39.62,28.95,48,Needs Support,-10.68,Aadhya Mishra,Weak,Good,Medium Risk,Yes
+RN1895,37.62,73.17,9.52,47.17,42.11,49,Needs Support,-5.06,Dev Kulkarni,Weak,Excellent,Medium Risk,Yes
+RN0039,37.66,67.27,12.7,50.94,50.0,49,Needs Support,-0.94,Om Hegde,Weak,Good,Medium Risk,Yes
+RN1991,37.7,61.36,10.26,33.96,50.0,46,Needs Support,16.04,Yamini Reddy,Weak,Good,Medium Risk,Yes
+RN0767,37.87,62.5,10.17,60.38,44.74,47,Needs Support,-15.64,Mansi Iyer,Weak,Good,Medium Risk,Yes
+RN1446,37.91,68.63,5.88,28.3,39.47,49,Needs Support,11.17,Rajat Singh,Weak,Excellent,Medium Risk,Yes
+RN1099,37.99,64.15,13.64,64.15,23.68,49,Needs Support,-40.47,Mehak Patel,Weak,Good,Medium Risk,Yes
+RN0715,38.0,74.42,5.0,45.28,15.79,49,Needs Support,-29.49,Karan Sen,Weak,Excellent,Medium Risk,Yes
+RN1469,38.03,62.79,14.55,31.91,34.21,48,Needs Support,2.3,Sumit Choudhury,Weak,Excellent,Medium Risk,Yes
+RN0144,38.09,64.44,12.82,49.06,31.58,48,Needs Support,-17.48,Pallavi Kapoor,Weak,Good,Medium Risk,Yes
+RN0004,38.1,82.22,17.39,62.26,47.37,49,Needs Support,-14.9,Kajal Singh,Weak,Excellent,Medium Risk,Yes
+RN0097,38.16,68.09,6.56,39.62,60.53,50,Needs Support,20.9,Kapil Malhotra,Weak,Good,Medium Risk,Yes
+RN0161,38.17,69.23,10.87,49.06,47.37,48,Needs Support,-1.69,Rohan Chatterjee,Weak,Excellent,Medium Risk,Yes
+RN1686,38.21,71.05,10.71,37.74,36.84,49,Needs Support,-0.89,Charu Kapoor,Weak,Good,Medium Risk,Yes
+RN0511,38.22,64.1,13.73,35.85,44.74,49,Needs Support,8.89,Bharat Sodhi,Weak,Excellent,Medium Risk,Yes
+RN0062,38.23,68.89,13.73,28.3,44.74,47,Needs Support,16.43,Mehak Naik,Weak,Good,Medium Risk,Yes
+RN0661,38.27,63.64,10.26,33.96,60.53,50,Needs Support,26.56,Tanya Chawla,Weak,Good,Medium Risk,Yes
+RN1264,38.28,61.11,11.63,28.3,21.05,49,Needs Support,-7.25,Harini Joshi,Weak,Good,Medium Risk,Yes
+RN1038,38.29,62.22,5.0,24.53,28.95,48,Needs Support,4.42,Ramya_M Hegde,Weak,Good,Medium Risk,Yes
+RN1630,38.33,64.15,11.76,64.15,28.95,48,Needs Support,-35.2,Bharat Prasad,Weak,Excellent,Medium Risk,Yes
+RN1316,38.45,71.43,3.77,54.72,55.26,48,Needs Support,0.55,Divya Shenoy,Weak,Good,Medium Risk,Yes
+RN0272,38.49,56.82,12.73,30.19,34.21,49,Needs Support,4.02,Amita Shetty,Weak,Excellent,Medium Risk,Yes
+RN0573,38.52,63.46,10.87,45.28,39.47,49,Needs Support,-5.81,Malini Banerjee,Weak,Good,Medium Risk,Yes
+RN1613,38.6,76.19,17.5,58.49,55.26,49,Needs Support,-3.23,Anita Kapoor,Weak,Good,Medium Risk,Yes
+RN0021,38.69,69.09,7.55,50.94,44.74,48,Needs Support,-6.21,Vandana Gowda,Weak,Excellent,Medium Risk,Yes
+RN1266,38.71,72.73,12.77,28.3,57.89,49,Needs Support,29.59,Dhruv Gupta,Weak,Excellent,Medium Risk,Yes
+RN0437,38.88,72.55,16.67,54.72,42.11,47,Needs Support,-12.61,Nandini Menon,Weak,Excellent,Medium Risk,Yes
+RN0561,38.95,73.33,10.26,56.6,44.74,49,Needs Support,-11.87,Tushar Shenoy,Weak,Good,Medium Risk,Yes
+RN0615,38.96,71.15,14.04,47.17,47.37,48,Needs Support,0.2,Meera Shenoy,Weak,Excellent,Medium Risk,Yes
+RN1176,38.98,75.56,12.77,51.06,34.21,46,Needs Support,-16.85,Hina Bhat,Weak,Good,Medium Risk,Yes
+RN0416,39.16,66.67,16.39,30.19,21.05,49,Needs Support,-9.14,Abhishek Roy,Weak,Good,Medium Risk,Yes
+RN1584,39.16,73.33,20.37,37.74,47.37,49,Needs Support,9.63,Lata Khanna,Weak,Good,Medium Risk,Yes
+RN1723,39.24,74.42,10.64,22.64,24.53,46,Needs Support,1.89,Utkarsh Mishra,Weak,Excellent,Medium Risk,Yes
+RN0205,39.29,72.5,14.89,20.75,34.21,46,Needs Support,13.46,Chandan Kumar,Weak,Excellent,Medium Risk,Yes
+RN1027,39.44,73.33,9.8,41.51,47.37,47,Needs Support,5.86,Pradeep Nair,Weak,Good,Medium Risk,Yes
+RN0378,39.54,71.11,7.14,48.94,47.37,47,Needs Support,-1.57,Mansi Deshmukh,Weak,Excellent,Medium Risk,Yes
+RN0883,39.56,63.41,10.0,54.72,55.26,48,Needs Support,0.55,Bhavna Verma,Weak,Excellent,Medium Risk,Yes
+RN0974,39.57,64.44,11.54,39.62,60.53,46,Needs Support,20.9,Tejas Rai,Weak,Good,Medium Risk,Yes
+RN1701,39.65,72.55,15.79,64.15,52.63,50,Needs Support,-11.52,Tanvi Kapoor,Weak,Excellent,Medium Risk,Yes
+RN1760,39.86,76.36,10.0,30.19,34.21,48,Needs Support,4.02,Prisha Grover,Weak,Excellent,Medium Risk,Yes
+RN0684,39.88,63.93,16.67,41.51,42.11,49,Needs Support,0.6,Abha Anand,Weak,Excellent,Medium Risk,Yes
+RN0095,39.93,73.68,10.64,47.17,31.58,48,Needs Support,-15.59,Nikhil Pradhan,Weak,Excellent,Medium Risk,Yes
+RN0160,40.01,61.82,14.55,52.83,44.74,49,Needs Support,-8.09,Suhas Khanna,Weak,Excellent,Medium Risk,Yes
+RN0165,40.04,66.67,11.9,45.28,42.11,50,Needs Support,-3.18,Brijesh Mukherjee,Weak,Excellent,Medium Risk,Yes
+RN1014,40.07,71.79,14.81,50.94,18.42,49,Needs Support,-32.52,Nisha Alva,Weak,Excellent,Medium Risk,Yes
+RN1390,40.12,68.09,8.51,52.83,65.79,49,Needs Support,12.96,Bharat Pandey,Weak,Excellent,Medium Risk,Yes
+RN0885,40.23,76.36,13.33,50.94,39.47,47,Needs Support,-11.47,Meera Menon,Weak,Excellent,Medium Risk,Yes
+RN0424,40.28,70.21,15.38,45.28,26.32,48,Needs Support,-18.97,Rajesh Prasad,Weak,Excellent,Medium Risk,Yes
+RN1486,40.28,66.67,11.11,45.28,47.37,48,Needs Support,2.09,Riya Sodhi,Weak,Excellent,Medium Risk,Yes
+RN1778,40.4,67.8,13.64,64.15,36.84,49,Needs Support,-27.31,Suman Pradhan,Weak,Excellent,Medium Risk,Yes
+RN1668,40.43,66.67,11.36,54.72,34.21,50,Needs Support,-20.51,Himanshu Shenoy,Weak,Excellent,Medium Risk,Yes
+RN0155,40.45,74.47,10.53,74.47,39.47,48,Needs Support,-34.99,Drishti Sharma,Weak,Excellent,Medium Risk,Yes
+RN0114,40.52,69.77,14.89,37.74,60.53,48,Needs Support,22.79,Malini Verma,Weak,Excellent,Medium Risk,Yes
+RN1818,40.56,65.79,13.16,24.53,65.79,48,Needs Support,41.26,Om Reddy,Weak,Excellent,Medium Risk,Yes
+RN0864,40.59,66.67,6.38,56.6,42.11,48,Needs Support,-14.5,Aditya Sharma,Weak,Excellent,Medium Risk,Yes
+RN0342,40.6,66.67,19.51,41.51,57.89,48,Needs Support,16.39,Garima Gowda,Weak,Excellent,Medium Risk,Yes
+RN0282,40.64,65.08,14.89,49.06,63.16,44,Needs Support,14.1,Pallavi Menon,Weak,Excellent,Medium Risk,Yes
+RN0100,41.1,70.91,7.84,47.17,21.05,47,Needs Support,-26.12,Sunil Dutta,Weak,Excellent,Medium Risk,Yes
+RN1772,41.13,77.36,8.51,77.36,55.26,48,Needs Support,-22.1,Priya Deshmukh,Weak,Good,Medium Risk,Yes
+RN1043,41.19,73.58,14.89,37.74,47.37,47,Needs Support,9.63,Rajesh Menon,Weak,Excellent,Medium Risk,Yes
+RN1441,41.3,78.95,15.38,22.64,78.95,48,Needs Support,56.31,Bhuvnesh Kamath,Weak,Excellent,Medium Risk,Yes
+RN0673,41.34,73.08,7.55,31.91,55.26,48,Needs Support,23.35,Isha Das,Weak,Excellent,Medium Risk,Yes
+RN0535,41.37,80.0,15.69,43.4,63.16,47,Needs Support,19.76,Sanjay Pradhan,Weak,Excellent,Medium Risk,Yes
+RN0186,41.42,74.07,17.95,24.53,42.11,50,Needs Support,17.58,Ritu Hedge,Weak,Excellent,Medium Risk,Yes
+RN0631,41.44,68.09,12.77,56.6,34.21,48,Needs Support,-22.39,Gagan Deshmukh,Weak,Excellent,Medium Risk,Yes
+RN1426,41.44,78.43,11.9,54.72,52.63,49,Needs Support,-2.09,Drishti Acharya,Weak,Excellent,Medium Risk,Yes
+RN0963,41.45,73.33,10.87,28.3,52.63,50,Needs Support,24.33,Alka Acharya,Weak,Excellent,Medium Risk,Yes
+RN1894,41.45,69.77,7.41,35.85,28.95,48,Needs Support,-6.9,Indu Mehra,Weak,Excellent,Medium Risk,Yes
+RN0554,41.53,74.36,7.69,56.6,26.32,50,Needs Support,-30.29,Abha Iyer,Weak,Excellent,Medium Risk,Yes
+RN1080,41.53,71.7,20.51,71.7,52.63,46,Needs Support,-19.07,Rahul Rao,Weak,Excellent,Medium Risk,Yes
+RN1984,41.72,71.79,15.69,37.74,50.0,48,Needs Support,12.26,Gaurav Chawla,Weak,Excellent,Medium Risk,Yes
+RN1722,41.78,65.31,19.15,39.62,34.21,46,Needs Support,-5.41,Pradeep Sodhi,Weak,Excellent,Medium Risk,Yes
+RN1998,41.81,79.59,13.73,39.62,36.84,50,Needs Support,-2.78,Karan Bose,Weak,Excellent,Medium Risk,Yes
+RN0036,41.83,63.27,13.33,35.85,39.47,49,Needs Support,3.62,Manoj Banerjee,Weak,Excellent,Medium Risk,Yes
+RN1620,41.88,68.42,22.22,45.28,42.11,50,Needs Support,-3.18,Mohit Hedge,Weak,Excellent,Medium Risk,Yes
+RN0418,41.9,74.51,5.77,43.4,31.58,49,Needs Support,-11.82,Mansi Nayak,Weak,Excellent,Medium Risk,Yes
+RN1843,42.06,80.0,12.82,67.92,39.47,49,Needs Support,-28.45,Lata Malhotra,Weak,Excellent,Medium Risk,Yes
+RN0676,42.1,73.17,15.09,33.96,28.95,46,Needs Support,-5.01,Abhishek Gupta,Weak,Excellent,Medium Risk,Yes
+RN0448,42.15,72.88,14.81,35.85,39.47,47,Needs Support,3.62,Zara Shenoy,Weak,Excellent,Medium Risk,Yes
+RN1505,42.15,82.22,10.26,64.15,42.11,50,Needs Support,-22.05,Vandana Shenoy,Weak,Excellent,Medium Risk,Yes
+RN0906,42.16,76.32,20.51,33.96,39.47,47,Needs Support,5.51,Mehak Shetty,Weak,Excellent,Medium Risk,Yes
+RN0358,42.18,82.35,15.38,24.53,60.53,48,Needs Support,36.0,Nandini Dutta,Weak,Excellent,Medium Risk,Yes
+RN1495,42.21,78.95,23.81,35.85,41.51,48,Needs Support,5.66,Priya Bhat,Weak,Excellent,Medium Risk,Yes
+RN1642,42.21,81.4,11.54,64.15,63.16,49,Needs Support,-0.99,Dhruv Kapoor,Weak,Excellent,Medium Risk,Yes
+RN0009,42.26,71.79,20.34,62.26,47.37,48,Needs Support,-14.9,Drishti Dutta,Weak,Excellent,Medium Risk,Yes
+RN0403,42.32,82.35,12.5,56.6,52.63,49,Needs Support,-3.97,Ipshita Dutta,Weak,Excellent,Medium Risk,Yes
+RN0340,42.37,66.04,9.8,66.04,28.95,47,Needs Support,-37.09,Pankaj Iyer,Weak,Excellent,Medium Risk,Yes
+RN1090,42.48,76.74,10.64,47.17,39.47,48,Needs Support,-7.7,Sandeep Khanna,Weak,Excellent,Medium Risk,Yes
+RN0126,42.51,77.27,20.34,37.74,50.0,47,Needs Support,12.26,Tejaswini Bose,Weak,Excellent,Medium Risk,Yes
+RN0173,42.55,70.59,15.56,45.28,42.11,48,Needs Support,-3.18,Manish Gowda,Weak,Excellent,Medium Risk,Yes
+RN1355,42.58,68.63,10.71,50.94,60.53,50,Needs Support,9.58,Jaideep Reddy,Weak,Excellent,Medium Risk,Yes
+RN1452,42.61,67.44,8.93,49.06,55.26,48,Needs Support,6.21,Lata Grover,Weak,Excellent,Medium Risk,Yes
+RN1463,42.78,81.4,13.21,28.3,44.74,45,Needs Support,16.43,Zara Chawla,Weak,Excellent,Medium Risk,Yes
+RN1059,42.79,72.09,19.67,36.17,47.37,48,Needs Support,11.2,Vivek Jain,Weak,Excellent,Medium Risk,Yes
+RN0775,42.83,69.77,20.45,41.51,55.26,48,Needs Support,13.75,Saanvi Grover,Weak,Excellent,Medium Risk,Yes
+RN1983,42.99,66.04,17.95,64.15,47.37,48,Needs Support,-16.78,Juhi Sen,Weak,Excellent,Medium Risk,Yes
+RN1954,43.0,82.98,20.0,22.64,44.74,47,Needs Support,22.1,Pooja Pai,Weak,Excellent,Medium Risk,Yes
+RN0460,43.05,85.71,13.73,22.64,31.58,48,Needs Support,8.94,Mayank Pillai,Weak,Excellent,Medium Risk,Yes
+RN1008,43.21,74.42,11.11,48.94,23.68,48,Needs Support,-25.25,Esha Gill,Weak,Excellent,Medium Risk,Yes
+RN0193,43.23,69.64,8.51,50.94,36.84,49,Needs Support,-14.1,Charu Verma,Weak,Excellent,Medium Risk,Yes
+RN1829,43.23,68.63,19.61,41.51,57.89,49,Needs Support,16.39,Tanvi Ray,Weak,Excellent,Medium Risk,Yes
+RN0220,43.25,73.91,21.57,37.74,36.84,50,Needs Support,-0.89,Sachin Naik,Weak,Excellent,Medium Risk,Yes
+RN1425,43.37,75.0,6.35,45.28,52.63,48,Needs Support,7.35,Deepika Singh,Weak,Excellent,Medium Risk,Yes
+RN0059,43.43,80.0,12.96,47.17,57.89,47,Needs Support,10.72,Bhumika Gill,Weak,Excellent,Medium Risk,Yes
+RN1754,43.55,65.12,19.57,41.51,42.11,47,Needs Support,0.6,Ganesh Malhotra,Weak,Excellent,Medium Risk,Yes
+RN1022,43.57,82.22,14.29,47.17,34.21,47,Needs Support,-12.96,Ananya Joshi,Weak,Excellent,Medium Risk,Yes
+RN1808,43.71,80.85,16.33,62.26,63.16,50,Needs Support,0.89,Juhi Gill,Weak,Excellent,Medium Risk,Yes
+RN1690,43.72,70.21,17.65,52.83,55.26,46,Needs Support,2.43,Komal Gowda,Weak,Excellent,Medium Risk,Yes
+RN0584,43.93,74.51,15.38,45.28,26.32,50,Needs Support,-18.97,Abha Acharya,Weak,Excellent,Medium Risk,Yes
+RN1373,43.95,78.95,6.38,67.92,34.21,48,Needs Support,-33.71,Tejaswini Roy,Weak,Excellent,Medium Risk,Yes
+RN0525,44.03,60.53,17.78,54.72,60.53,49,Needs Support,5.81,Arjun Prabhu,Weak,Excellent,Medium Risk,Yes
+RN1769,44.06,78.43,14.89,33.96,39.47,49,Needs Support,5.51,Esha Dutta,Weak,Excellent,Medium Risk,Yes
+RN0175,44.17,79.49,19.57,26.42,50.0,49,Needs Support,23.58,UrVashi Gowda,Weak,Excellent,Medium Risk,Yes
+RN0339,44.2,68.09,16.95,67.92,52.63,49,Needs Support,-15.29,Pari Tiwari,Weak,Excellent,Medium Risk,Yes
+RN0532,44.34,71.11,11.11,50.94,34.21,49,Needs Support,-16.73,Kiran Kamath,Weak,Excellent,Medium Risk,Yes
+RN0791,44.61,71.79,26.32,43.4,47.37,49,Needs Support,3.97,Kamal Choudhury,Weak,Excellent,Medium Risk,Yes
+RN0582,45.0,86.79,12.96,86.79,60.53,49,Needs Support,-26.27,Sachin Iyer,Weak,Excellent,Medium Risk,Yes
+RN0491,45.07,84.31,10.87,58.49,50.0,49,Needs Support,-8.49,Aanchal Sinha,Weak,Excellent,Medium Risk,Yes
+RN1263,45.45,77.05,5.88,52.83,42.11,49,Needs Support,-10.72,Anuj Grover,Weak,Excellent,Medium Risk,Yes
+RN1755,45.78,86.05,21.05,60.38,42.11,48,Needs Support,-18.27,Mehak Dhillon,Average,Average,Medium Risk,Yes
+RN1591,45.93,74.07,19.23,41.51,47.37,48,Needs Support,5.86,Divya Dhillon,Average,Average,Medium Risk,Yes
+RN1360,46.38,79.07,14.89,49.06,50.0,47,Needs Support,0.94,Anjali Mehra,Average,Average,Medium Risk,Yes
+RN1930,46.5,86.27,20.0,75.47,39.47,48,Needs Support,-36.0,Sneha Prasad,Average,Average,Medium Risk,Yes
+RN1268,46.67,71.7,13.46,71.7,57.89,48,Needs Support,-13.8,Nandini Gill,Average,Average,Medium Risk,Yes
+RN1559,46.87,82.22,15.38,35.85,73.68,45,Needs Support,37.84,Anita Mehta,Average,Average,Medium Risk,Yes
+RN1148,46.9,84.62,16.67,47.17,39.47,48,Needs Support,-7.7,Pooja Ray,Average,Average,Medium Risk,Yes
+RN1389,47.1,88.37,21.43,77.36,63.16,50,Needs Support,-14.2,Om Gill,Average,Average,Medium Risk,Yes
+RN1357,47.15,78.26,16.36,54.72,65.79,48,Needs Support,11.07,Nikhil Murthy,Average,Average,Medium Risk,Yes
+RN0938,47.29,70.21,19.05,67.92,65.79,47,Needs Support,-2.14,Kamal Alva,Average,Average,Medium Risk,Yes
+RN0235,47.33,77.19,23.08,30.19,52.63,48,Needs Support,22.44,Sneha Menon,Average,Average,Medium Risk,Yes
+RN0123,47.73,79.07,19.15,71.7,26.32,47,Needs Support,-45.38,Pallavi Mishra,Average,Average,Medium Risk,Yes
+RN1990,47.85,77.08,25.64,51.06,52.63,47,Needs Support,1.57,Gayatri Patel,Average,Average,Medium Risk,Yes
+RN1525,47.86,82.93,21.57,50.94,60.53,49,Needs Support,9.58,Nidhi Tiwari,Average,Average,Medium Risk,Yes
+RN1752,47.96,79.49,10.91,45.28,52.63,47,Needs Support,7.35,Bharat Khanna,Average,Average,Medium Risk,Yes
+RN0394,48.03,77.78,23.4,37.74,52.63,49,Needs Support,14.9,Bhuvnesh Mehra,Average,Average,Medium Risk,Yes
+RN0234,48.07,86.36,19.15,37.74,39.47,48,Needs Support,1.74,Ramya_M Mishra,Average,Average,Medium Risk,Yes
+RN1974,48.08,76.36,20.37,52.83,71.05,48,Needs Support,18.22,Aanya Rai,Average,Average,Medium Risk,Yes
+RN0238,48.13,81.63,25.93,45.28,68.42,49,Needs Support,23.14,Pradeep Das,Average,Average,Medium Risk,Yes
+RN0469,48.2,83.72,12.77,47.17,60.53,48,Needs Support,13.36,Aniruddh Ray,Average,Average,Medium Risk,Yes
+RN1795,48.23,75.56,26.19,43.4,65.79,47,Needs Support,22.39,Ishita Ray,Average,Average,Medium Risk,Yes
+RN1561,48.26,79.07,19.15,43.4,47.37,49,Needs Support,3.97,Lakshmi Roy,Average,Average,Medium Risk,Yes
+RN0027,48.49,77.78,21.15,66.04,65.79,46,Needs Support,-0.25,Pankaj Gowda,Average,Average,Medium Risk,Yes
+RN1645,48.55,77.78,15.0,77.36,44.74,46,Needs Support,-32.62,Dhruv Dutta,Average,Average,Medium Risk,Yes
+RN1448,48.6,89.8,21.43,30.19,31.58,50,Needs Support,1.39,Pradeep Gowda,Average,Average,Medium Risk,Yes
+RN1093,48.61,85.42,25.53,47.17,47.37,49,Needs Support,0.2,Tarun Shetty,Average,Average,Medium Risk,Yes
+RN0985,48.62,78.57,17.02,56.6,36.84,50,Needs Support,-19.76,Lata Kamath,Average,Average,Medium Risk,Yes
+RN0202,48.74,82.05,21.74,66.04,39.47,48,Needs Support,-26.56,Gayatri Khanna,Average,Average,Medium Risk,Yes
+RN1709,48.81,87.72,12.5,58.49,47.17,45,Needs Support,-11.32,Girish Patel,Average,Average,Medium Risk,Yes
+RN0802,48.85,76.32,21.28,62.26,76.32,47,Needs Support,14.05,Ipshita Sharma,Average,Average,Medium Risk,Yes
+RN0411,48.9,83.33,17.02,50.94,36.84,45,Needs Support,-14.1,Manoj Sharma,Average,Average,Medium Risk,Yes
+RN0711,48.96,80.0,25.58,47.17,28.95,48,Needs Support,-18.22,Lakshmi Rao,Average,Average,Medium Risk,Yes
+RN1512,48.98,76.92,19.15,49.06,47.37,48,Needs Support,-1.69,Suhas Kamath,Average,Average,Medium Risk,Yes
+RN1753,49.0,85.42,24.39,52.83,50.0,49,Needs Support,-2.83,Manoj Kulkarni,Average,Average,Medium Risk,Yes
+RN0576,49.02,77.19,7.69,49.06,65.79,48,Needs Support,16.73,Gaurav Acharya,Average,Average,Medium Risk,Yes
+RN0099,49.09,73.91,18.87,60.38,68.42,48,Needs Support,8.04,Girish Chawla,Average,Average,Medium Risk,Yes
+RN0632,49.41,84.44,22.64,77.36,31.58,48,Needs Support,-45.78,Kartik Patel,Average,Average,Medium Risk,Yes
+RN1005,49.42,77.27,20.83,47.17,36.84,49,Needs Support,-10.33,Kavya Nayak,Average,Good,Medium Risk,Yes
+RN0240,49.56,88.89,20.93,27.66,36.84,46,Needs Support,9.18,Kajal Patel,Average,Average,Medium Risk,Yes
+RN0444,49.57,82.22,21.57,32.08,73.68,48,Needs Support,41.61,Bhumika Jain,Average,Average,Medium Risk,Yes
+RN0977,49.59,85.71,15.38,64.15,68.42,48,Needs Support,4.27,Sunil Nair,Average,Average,Medium Risk,Yes
+RN1296,49.59,71.79,20.51,47.17,57.89,48,Needs Support,10.72,Ishaan Pillai,Average,Average,Medium Risk,Yes
+RN0168,49.63,89.47,23.08,52.83,57.89,49,Needs Support,5.06,Tushar Joshi,Average,Average,Medium Risk,Yes
+RN0263,49.65,69.23,20.37,39.62,36.84,48,Needs Support,-2.78,Zara Pillai,Average,Average,Medium Risk,Yes
+RN0063,49.74,81.58,29.79,37.74,81.58,50,Needs Support,43.84,Rohan Pillai,Average,Average,Medium Risk,Yes
+RN0409,49.9,75.56,17.65,71.7,31.58,50,Needs Support,-40.12,Yashaswini Verma,Average,Good,Medium Risk,Yes
+RN1734,49.91,74.42,23.4,67.92,50.0,47,Needs Support,-17.92,Pradeep Mukherjee,Average,Average,Medium Risk,Yes
+RN1588,49.94,81.4,21.15,50.94,44.74,49,Needs Support,-6.21,Vaishnavi Mallya,Average,Average,Medium Risk,Yes
+RN1248,49.96,79.07,26.67,39.62,39.47,48,Needs Support,-0.15,Sanjay Pandey,Average,Average,Medium Risk,Yes
+RN0262,60.05,89.29,38.1,69.81,63.16,46,Average,-6.65,Girish Anand,Good,Poor,Medium Risk,Yes
+RN0890,60.21,88.89,25.93,62.26,78.95,49,Average,16.68,Garima Singh,Good,Poor,Medium Risk,Yes
+RN1606,60.55,84.62,35.71,66.04,73.68,50,Average,7.65,Komal Menon,Good,Poor,Medium Risk,Yes
+RN1700,60.68,87.27,29.09,64.15,45.28,46,Average,-18.87,Gaurav Choudhury,Good,Poor,Medium Risk,Yes
+RN1075,61.07,86.67,23.21,71.7,50.0,48,Average,-21.7,Kamal Gill,Good,Poor,Medium Risk,Yes
+RN0145,61.13,91.67,34.09,81.13,63.16,49,Average,-17.97,Vivek Malhotra,Good,Poor,Medium Risk,Yes
+RN0723,61.17,89.09,27.78,37.74,76.32,48,Average,38.58,Om Sharma,Good,Poor,Medium Risk,Yes
+RN0270,61.2,93.02,33.33,49.06,89.47,47,Average,40.42,Tejaswini Pandey,Good,Poor,Medium Risk,Yes
+RN1033,61.2,87.8,31.91,54.72,65.79,48,Average,11.07,Nitin Tiwari,Good,Poor,Medium Risk,Yes
+RN1621,61.2,88.89,31.48,47.17,71.05,48,Average,23.88,Manoj Khanna,Good,Poor,Medium Risk,Yes
+RN0431,61.3,80.7,34.04,67.92,76.32,49,Average,8.39,Bhumika Naik,Good,Poor,Medium Risk,Yes
+RN0808,61.32,92.11,30.77,52.83,92.11,48,Average,39.28,Arunima Rai,Good,Poor,Medium Risk,Yes
+RN0717,61.45,84.21,33.33,67.92,84.21,49,Average,16.29,Manav Hegde,Good,Poor,Medium Risk,Yes
+RN1137,61.49,86.36,33.33,62.26,63.16,49,Average,0.89,Garima Pillai,Good,Poor,Medium Risk,Yes
+RN1892,61.5,85.96,33.93,52.83,73.68,46,Average,20.85,Chetan Pradhan,Good,Poor,Medium Risk,Yes
+RN0834,61.72,86.79,36.84,60.38,81.58,49,Average,21.2,Manoj Sodhi,Good,Poor,Medium Risk,Yes
+RN0819,61.82,92.16,36.36,54.72,57.89,49,Average,3.18,Gaurav Dutta,Good,Poor,Medium Risk,Yes
+RN0324,62.0,83.64,32.73,59.57,71.05,46,Average,11.48,Harish Kumar,Good,Poor,Medium Risk,Yes
+RN1012,62.07,90.91,31.82,64.15,52.63,49,Average,-11.52,Dhruv Pai,Good,Poor,Medium Risk,Yes
+RN0137,62.09,85.45,41.03,66.04,68.42,47,Average,2.38,Sakshi Ray,Good,Poor,Medium Risk,Yes
+RN0610,62.1,90.91,25.53,83.02,81.58,48,Average,-1.44,Bhumika Prabhu,Good,Poor,Medium Risk,Yes
+RN0716,62.22,92.06,23.73,62.26,50.0,48,Average,-12.26,Girish Roy,Good,Poor,Medium Risk,Yes
+RN1597,62.31,88.64,31.91,64.15,60.53,50,Average,-3.62,Divya Kamath,Good,Poor,Medium Risk,Yes
+RN0258,62.46,98.36,25.0,62.26,86.84,49,Average,24.58,Saanvi Sodhi,Good,Poor,Medium Risk,Yes
+RN0774,62.46,93.62,30.19,77.36,52.63,48,Average,-24.73,Bharat Chatterjee,Good,Poor,Medium Risk,Yes
+RN1120,62.49,98.08,37.04,64.15,57.89,48,Average,-6.26,Ipshita Gupta,Good,Poor,Medium Risk,Yes
+RN0478,62.51,92.86,21.74,66.04,54.72,47,Average,-11.32,Prisha Menon,Good,Poor,Medium Risk,Yes
+RN1480,62.68,84.09,23.08,60.38,68.42,50,Average,8.04,Esha Grover,Good,Poor,Medium Risk,Yes
+RN0575,62.69,93.33,27.27,79.25,65.79,49,Average,-13.46,Sanjay Chatterjee,Good,Poor,Medium Risk,Yes
+RN1914,62.71,89.8,12.73,69.81,84.21,48,Average,14.4,Chirag Anand,Good,Poor,Medium Risk,Yes
+RN1819,62.99,90.91,29.41,88.68,60.53,49,Average,-28.15,Tejaswini Hedge,Good,Poor,Medium Risk,Yes
+RN1803,63.1,83.72,33.33,43.4,78.95,47,Average,35.55,Neha Hedge,Good,Poor,Medium Risk,Yes
+RN0419,63.28,86.27,39.47,64.15,39.47,48,Average,-24.68,Deepika Sodhi,Good,Poor,Medium Risk,Yes
+RN0071,63.3,88.89,33.93,77.36,65.79,45,Average,-11.57,Alka Dhillon,Good,Poor,Medium Risk,Yes
+RN0639,63.45,88.14,36.17,67.92,68.42,48,Average,0.5,Dhruv Chatterjee,Good,Poor,Medium Risk,Yes
+RN1506,63.54,90.2,35.9,54.72,73.68,46,Average,18.97,Drishti Tiwari,Good,Poor,Medium Risk,Yes
+RN1958,63.58,89.36,34.04,77.36,73.68,44,Average,-3.67,Swati Tiwari,Good,Poor,Medium Risk,Yes
+RN0273,63.69,93.02,35.9,79.25,52.63,49,Average,-26.61,Alka Verma,Good,Poor,Medium Risk,Yes
+RN1392,63.81,97.78,33.96,83.02,68.42,48,Average,-14.6,Manish Pradhan,Good,Poor,Medium Risk,Yes
+RN1144,63.83,89.74,26.42,26.42,44.74,48,Average,18.32,Pradeep Prabhu,Good,Poor,Medium Risk,Yes
+RN1487,63.86,90.7,40.43,86.79,68.42,50,Average,-18.37,Tejas Prasad,Good,Poor,Medium Risk,Yes
+RN1978,63.87,88.89,33.33,83.02,76.32,50,Average,-6.7,Barkha Nair,Good,Poor,Medium Risk,Yes
+RN1062,64.0,93.62,33.33,71.7,52.63,47,Average,-19.07,Drishti Menon,Good,Poor,Medium Risk,Yes
+RN1815,64.27,89.36,40.91,60.38,60.53,46,Average,0.15,Pankaj Pillai,Good,Poor,Medium Risk,Yes
+RN0395,64.31,90.7,27.66,81.13,63.16,48,Average,-17.97,Lakshmi Sodhi,Good,Poor,Medium Risk,Yes
+RN1408,64.36,95.56,31.58,60.38,71.05,49,Average,10.68,Sakshi Kumar,Good,Poor,Medium Risk,Yes
+RN1997,64.55,91.11,34.04,80.85,78.95,48,Average,-1.9,Aadhya Murthy,Good,Poor,Medium Risk,Yes
+RN0327,64.56,86.36,40.0,71.7,81.58,49,Average,9.88,Dinesh Bose,Good,Poor,Medium Risk,Yes
+RN0359,64.57,91.53,33.33,90.57,60.53,49,Average,-30.04,Zara Sen,Good,Poor,Medium Risk,Yes
+RN0066,64.72,90.91,39.47,60.38,73.68,49,Average,13.31,Suresh Rao,Good,Poor,Medium Risk,Yes
+RN0196,64.92,87.27,27.5,73.58,73.68,46,Average,0.1,Suhas Hedge,Good,Poor,Medium Risk,Yes
+RN1391,64.92,88.89,42.55,67.92,47.37,49,Average,-20.56,Poonam Naik,Good,Poor,Medium Risk,Yes
+RN0047,65.02,91.49,38.64,79.25,84.21,49,Average,4.97,Shreya Patel,Good,Poor,Medium Risk,Yes
+RN1227,65.13,93.33,38.89,69.81,81.58,49,Average,11.77,Malini Mehta,Good,Poor,Medium Risk,Yes
+RN1758,65.15,91.23,36.36,64.15,55.26,48,Average,-8.89,Barkha Sinha,Good,Poor,Medium Risk,Yes
+RN1574,65.23,91.11,38.46,79.25,65.79,48,Average,-13.46,Charu Chatterjee,Good,Poor,Medium Risk,Yes
+RN0094,65.34,94.55,27.5,56.6,64.15,47,Average,7.55,Inder Sharma,Good,Poor,Medium Risk,Yes
+RN0879,65.34,91.53,31.82,79.25,60.53,50,Average,-18.72,Abhishek Ray,Good,Poor,Medium Risk,Yes
+RN1970,65.36,97.78,30.23,77.36,55.26,50,Average,-22.1,Kamal Sen,Good,Poor,Medium Risk,Yes
+RN0821,65.78,97.67,39.13,62.26,89.47,45,Average,27.21,Nitish Mukherjee,Good,Poor,Medium Risk,Yes
+RN0236,66.1,88.37,30.61,86.79,63.16,48,Average,-23.63,Juhi Banerjee,Good,Poor,Medium Risk,Yes
+RN1933,66.19,88.89,40.38,84.91,81.58,48,Average,-3.33,Alok Mishra,Good,Poor,Medium Risk,Yes
+RN0035,66.32,91.11,38.89,57.45,78.95,46,Average,21.5,Poonam Mehra,Good,Poor,Medium Risk,Yes
+RN0916,66.57,96.23,37.04,96.23,81.58,49,Average,-14.65,Meera Nair,Good,Poor,Medium Risk,Yes
+RN1013,66.84,93.88,37.5,83.02,84.21,48,Average,1.19,Tanvi Choudhury,Good,Poor,Medium Risk,Yes
+RN1636,72.82,97.67,38.46,86.79,73.68,47,High Performer,-13.11,Pari Bhat,Excellent,Poor,Medium Risk,Yes
+RN0384,73.85,95.35,50.0,77.36,86.84,47,High Performer,9.48,Nandini Anand,Excellent,Poor,Medium Risk,Yes
+RN1481,73.97,97.78,39.58,90.57,86.84,49,High Performer,-3.72,Nitin Murthy,Excellent,Poor,Medium Risk,Yes
+RN0637,74.17,97.44,42.37,84.91,86.84,49,High Performer,1.94,Suresh Gupta,Excellent,Poor,Medium Risk,Yes
+RN0683,74.47,95.56,50.0,79.25,52.63,48,High Performer,-26.61,Umesh Chatterjee,Excellent,Poor,Medium Risk,Yes
+RN0653,75.38,100.0,50.94,88.68,94.74,49,High Performer,6.06,Pankaj Roy,Excellent,Poor,Medium Risk,Yes
+RN1657,75.55,100.0,47.06,77.36,89.47,49,High Performer,12.12,Rohan Mishra,Excellent,Poor,Medium Risk,Yes
+RN1885,76.14,96.23,40.74,79.25,76.32,47,High Performer,-2.93,Sanjay Prabhu,Excellent,Poor,Medium Risk,Yes
+RN1096,76.51,97.96,36.84,86.79,86.84,48,High Performer,0.05,Vineet Sharma,Excellent,Poor,Medium Risk,Yes
+RN0681,76.57,97.78,43.14,90.57,89.47,49,High Performer,-1.09,Isha Tiwari,Excellent,Poor,Medium Risk,Yes
+RN1594,76.68,94.87,50.0,75.47,92.11,47,High Performer,16.63,Charu Menon,Excellent,Poor,Medium Risk,Yes
+RN0338,76.82,98.18,44.64,94.34,94.74,48,High Performer,0.4,Jyothi Gill,Excellent,Poor,Medium Risk,Yes
+RN1325,77.25,98.11,41.27,84.91,76.32,50,High Performer,-8.59,Juhi Patel,Excellent,Poor,Medium Risk,Yes
+RN0456,77.37,100.0,43.59,77.36,84.21,48,High Performer,6.85,Sanjay Pai,Excellent,Poor,Medium Risk,Yes
+RN0736,77.69,100.0,30.77,77.36,97.37,50,High Performer,20.01,Gagan Prasad,Excellent,Poor,Medium Risk,Yes
+RN0255,77.71,100.0,50.98,96.23,84.21,50,High Performer,-12.02,Akash Prasad,Excellent,Poor,Medium Risk,Yes
+RN0421,77.82,100.0,42.55,54.72,100.0,48,High Performer,45.28,Abhishek Choudhury,Excellent,Poor,Medium Risk,Yes
+RN0267,77.85,100.0,51.85,96.23,78.95,49,High Performer,-17.28,Tanya Rao,Excellent,Poor,Medium Risk,Yes
+RN0760,77.85,100.0,47.5,64.15,65.79,50,High Performer,1.64,Arjun Deshmukh,Excellent,Poor,Medium Risk,Yes
+RN0660,78.27,100.0,40.82,75.47,86.84,49,High Performer,11.37,Monika Malhotra,Excellent,Poor,Medium Risk,Yes
+RN1508,78.29,100.0,46.94,77.36,86.84,48,High Performer,9.48,UrVashi Kulkarni,Excellent,Poor,Medium Risk,Yes
+RN1077,78.85,100.0,47.62,94.34,92.11,46,High Performer,-2.23,Sakshi Gill,Excellent,Poor,Medium Risk,Yes
+RN1880,79.01,96.36,48.72,96.23,89.47,49,High Performer,-6.75,Khushi Anand,Excellent,Poor,Medium Risk,Yes
+RN0635,79.2,98.25,48.84,88.68,83.02,46,High Performer,-5.66,Sakshi Khanna,Excellent,Poor,Medium Risk,Yes
+RN0503,79.36,100.0,49.02,75.47,89.47,50,High Performer,14.0,Malini Alva,Excellent,Poor,Medium Risk,Yes
+RN1593,79.75,100.0,43.59,84.91,81.58,48,High Performer,-3.33,Mohit Joshi,Excellent,Poor,Medium Risk,Yes
+RN1568,79.82,100.0,52.38,92.45,73.68,48,High Performer,-18.77,Vidya Mehra,Excellent,Poor,Medium Risk,Yes
+RN0230,79.91,100.0,46.15,83.02,71.7,47,High Performer,-11.32,Isha Roy,Excellent,Poor,Medium Risk,Yes
+RN1438,80.04,98.11,52.63,98.11,94.74,48,High Performer,-3.38,Rashmi Sodhi,Excellent,Poor,Medium Risk,Yes
+RN0111,80.1,100.0,61.54,92.45,89.47,50,High Performer,-2.98,Neha Sharma,Excellent,Poor,Medium Risk,Yes
+RN1585,81.14,100.0,59.18,76.6,89.47,47,High Performer,12.88,Rashmi Jain,Excellent,Poor,Medium Risk,Yes

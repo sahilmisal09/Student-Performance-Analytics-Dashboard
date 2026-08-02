@@ -1,0 +1,56 @@
+subject,chapter,attempts,correct,incorrect,accuracy_rate,performance_category,chapter_rank
+English,A Letter to God,28840,19547,9293,67.78,Strong,2
+English,A Triumph of Surgery,51883,32689,19194,63.01,Average,15
+English,The Sermon at Benares,26937,16927,10010,62.84,Average,16
+English,Two Stories about Flying,32684,20249,12435,61.95,Average,22
+English,Glimpses of India,26878,16414,10464,61.07,Average,29
+English,From the Diary of Anne Frank,40376,24525,15851,60.74,Average,30
+English,The Making of a Scientist,19214,11591,7623,60.33,Average,32
+English,Nelson Mandela: Long Walk to Freedom,21172,12754,8418,60.24,Average,33
+English,Footprints without Feet,25005,14550,10455,58.19,Average,40
+English,The Proposal,26902,15474,11428,57.52,Average,43
+English,The Midnight Visitor,42290,23814,18476,56.31,Average,47
+English,A Question of Trust,23099,12858,10241,55.66,Average,49
+English,Madam Rides the Bus,32617,16446,16171,50.42,Weak,53
+English,The Thief Story,5765,2849,2916,49.42,Weak,54
+Mathematics,Polynomials,42266,28343,13923,67.06,Strong,3
+Mathematics,Introduction to Trigonometry,61491,40335,21156,65.59,Strong,6
+Mathematics,Real Numbers,24981,16048,8933,64.24,Average,9
+Mathematics,Areas Related to Circles,59592,37690,21902,63.25,Average,13
+Mathematics,Coordinate Geometry,23026,14456,8570,62.78,Average,17
+Mathematics,Circles,34637,21611,13026,62.39,Average,21
+Mathematics,Arithmetic Progressions,34566,21345,13221,61.75,Average,26
+Mathematics,Pair of Linear Equations in Two Variables,63448,37823,25625,59.61,Average,35
+Mathematics,Surface Areas and Volumes,28840,17005,11835,58.96,Average,37
+Mathematics,Triangles,53860,31716,22144,58.89,Average,38
+Mathematics,Probability,47962,27887,20075,58.14,Average,41
+Mathematics,Statistics,49955,29034,20921,58.12,Average,42
+Mathematics,Some Applications of Trigonometry,55695,31703,23992,56.92,Average,45
+Mathematics,Quadratic Equations,25006,12740,12266,50.95,Weak,52
+Science,"Acids, Bases and Salts",59704,38328,21376,64.2,Average,10
+Science,Magnetic Effects of Electric Current,30790,19658,11132,63.85,Average,11
+Science,Heredity,65449,41563,23886,63.5,Average,12
+Science,Our Environment,48138,30373,17765,63.1,Average,14
+Science,The Human Eye and the Colorful World,55794,34847,20947,62.46,Average,20
+Science,Chemical Reactions and Equations,38431,23790,14641,61.9,Average,23
+Science,Light - Reflection and Refraction,38490,23816,14674,61.88,Average,25
+Science,How do Organisms Reproduce?,44298,27304,16994,61.64,Average,27
+Science,Carbon and its Compounds,42329,25536,16793,60.33,Average,32
+Science,Control and Coordination,28859,16990,11869,58.87,Average,39
+Science,Electricity,63545,36444,27101,57.35,Average,44
+Science,Life Processes,53854,30015,23839,55.73,Average,48
+Science,Metals and Non-metals,36547,20230,16317,55.35,Average,50
+Social,Forest and Wildlife Resources,15349,10666,4683,69.49,Strong,1
+Social,Power Sharing,30691,20198,10493,65.81,Strong,4
+Social,Resources and Development,21105,13856,7249,65.65,Strong,5
+Social,"Gender, Religion and Caste",24978,16262,8716,65.11,Strong,7
+Social,Agriculture,21102,13718,7384,65.01,Strong,8
+Social,Money and Credit,26890,16840,10050,62.63,Average,18
+Social,The Making of a Global World,36458,22808,13650,62.56,Average,19
+Social,Sectors of the Indian Economy,49970,30924,19046,61.89,Average,24
+Social,Federalism,24941,15298,9643,61.34,Average,28
+Social,Water Resources,38348,23240,15108,60.6,Average,31
+Social,The Age of Industrialisation,30741,18360,12381,59.72,Average,34
+Social,Development,19212,11343,7869,59.04,Average,36
+Social,Nationalism in India,44167,24936,19231,56.46,Average,46
+Social,The Rise of Nationalism in Europe,19227,10507,8720,54.65,Weak,51
